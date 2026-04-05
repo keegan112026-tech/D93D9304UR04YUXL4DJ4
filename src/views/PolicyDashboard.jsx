@@ -21,34 +21,38 @@ export default function PolicyDashboard() {
   const [selectedItem, setSelectedItem] = useState(null);
   const [activePillar, setActivePillar] = useState('evaluation');
 
+  // Helper: look up full source object from database by ID
+  const lookupSource = (id) =>
+    database.sources.find(s => s.id === id || s.source_id === id) || { id, title: id };
+
   const PILLARS = [
-    { 
-      id: 'evaluation', 
-      title: '收出養評估流程', 
+    {
+      id: 'evaluation',
+      title: '收出養評估流程',
       mandate: '依兒少權法§15，出養必要性評估應由地方政府主導，並整合社政與醫療資源進行評估核定。',
-      actual: '實務運作中，長期由民間媒合機構（兒盟）自行評估、政府核定。直至2024年5月改革後，方回歸地方政府主導。',
-      sources: ['src-stage1-001']
+      actual: '實務運作中，長期由民間媒合機構（兒盟）自行評估、政府核定。直至2024年5月改革後，方回歸地方政府主導。監察院糾正報告指出，衛福部對收出養機制的監督設計存在結構性缺口。',
+      sources: ['src-cy-026', 'src-mohw-027', 'src-cy-136']
     },
-    { 
-      id: 'visitation', 
-      title: '居家托育訪視規範', 
+    {
+      id: 'visitation',
+      title: '居家托育訪視規範',
       mandate: '居托管理辦法§17規定，新收托30日內須完成首訪。例行訪視需「親見兒童」且採「不預約、不同時段」原則。',
-      actual: '本案中，居托訪視紀錄與社工訪視紀錄之時間重合性（例如掉牙問題之回報）在法庭中成為辯詰核心。',
-      sources: ['src-stage1-001']
+      actual: '本案中，居托訪視紀錄與社工訪視紀錄之時間重合性（例如掉牙問題之回報）在法庭中成為辯詰核心。社家署訪視工作指引為此制度之主要規範依據。',
+      sources: ['src-sfaa-029', 'src-sfaa-030', 'src-mohw-042']
     },
-    { 
-      id: 'oversight', 
-      title: '三方協力機制', 
+    {
+      id: 'oversight',
+      title: '三方協力機制',
       mandate: '收出養媒合為特許行業，受中央與地方二級督導。地方政府（新北/台北）對跨轄區個案有資訊通報與共同監督之責。',
-      actual: '監察院糾正報告指出，中央對收出養機制監督不力，且三方（兒盟、新北、台北）交接資訊斷裂。',
-      sources: ['src-stage1-001']
+      actual: '監察院糾正報告指出，中央對收出養機制監督不力，且三方（兒盟、新北、台北）交接資訊斷裂。衛福部與教育部聯合查核結果亦確認兒盟存在重大缺失。',
+      sources: ['src-cy-026', 'src-mohw-028', 'src-mohw-044']
     },
-    { 
-      id: 'records', 
-      title: '專業紀錄保存', 
+    {
+      id: 'records',
+      title: '專業紀錄保存',
       mandate: '社工師法§17規定紀錄應保存10年。紀錄撰製應符合據實原則，補正程序需有明確標註。',
-      actual: '法庭中針對「紀錄補正」是否構成「業務登載不實」進行高度辯理，社工職業工會主張不應將紀錄補正直接推定為惡意。',
-      sources: ['src-stage1-001']
+      actual: '法庭中針對「紀錄補正」是否構成「業務登載不實」進行高度辯理，社工職業工會主張不應將紀錄補正直接推定為惡意。司法改革基金會及相關法律評論對此亦有深度分析。',
+      sources: ['src-tpcsw-ethics-rules', 'src-mohw-dosa-ethics', 'src-judicial-116']
     }
   ];
 
@@ -140,17 +144,22 @@ export default function PolicyDashboard() {
                 <p className="text-[20px] text-slate-600 font-serif leading-[1.8] italic pr-12">
                    {current.actual}
                 </p>
-                <div className="pt-12 border-t border-black/[0.03] flex items-center gap-12">
-                   {current.sources.map(srcId => (
-                     <button
-                        key={srcId}
-                        onClick={() => setSelectedItem({ id: srcId, type: 'SOURCE' })}
-                        className="flex items-center gap-4 text-[10px] font-black uppercase tracking-widest text-[#2F3A35]/60 hover:text-black transition-colors italic"
-                     >
-                        <Globe size={12} />
-                        Source Reference // {srcId}
-                     </button>
-                   ))}
+                <div className="pt-12 border-t border-black/[0.03] flex flex-wrap items-center gap-8">
+                   {current.sources.map(srcId => {
+                     const src = lookupSource(srcId);
+                     return (
+                       <button
+                         key={srcId}
+                         onClick={() => setSelectedItem(src)}
+                         className="flex items-center gap-3 px-5 py-2 rounded-xl bg-[#F5F6F0] hover:bg-[#2F3A35] hover:text-white transition-all group"
+                       >
+                         <Globe size={11} className="text-[#2F3A35]/40 group-hover:text-white shrink-0" />
+                         <span className="text-[11px] font-black text-[#2F3A35]/60 group-hover:text-white italic truncate max-w-[180px]">
+                           {src.title ? src.title.substring(0, 28) + (src.title.length > 28 ? '…' : '') : srcId}
+                         </span>
+                       </button>
+                     );
+                   })}
                 </div>
              </Card>
           </motion.div>
