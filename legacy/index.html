@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>剴剴案社工審判文獻資料庫 | 參考文獻雛形</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- Sidebar Navigation -->
+        <aside class="sidebar">
+            <div class="logo">
+                <div class="icon">⚖️</div>
+                <h1>剴剴案<br><span>文獻資料庫</span></h1>
+            </div>
+            <nav id="category-nav">
+                <button class="nav-item active" data-category="all">全部文獻</button>
+                <!-- Categories will be injected here -->
+            </nav>
+            <div class="sidebar-footer">
+                <p>版本：整合定稿版 v1.0</p>
+                <p>© 2026 深度研究報告</p>
+            </div>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="content">
+            <header class="main-header">
+                <div class="search-bar">
+                    <span class="search-icon">🔍</span>
+                    <input type="text" id="search-input" placeholder="搜尋檔案名稱、來源或日期...">
+                </div>
+                <div class="header-actions">
+                    <button id="view-timeline" class="btn-secondary">庭審時間軸</button>
+                    <button id="view-negligence" class="btn-secondary">十項職務過失</button>
+                    <button id="view-witnesses" class="btn-secondary">證人分析</button>
+                    <button id="view-analysis" class="btn-secondary">報告深度分析</button>
+                </div>
+            </header>
+
+            <section id="ref-section" class="ref-grid">
+                <!-- Cards will be injected here -->
+            </section>
+        </main>
+    </div>
+
+    <!-- Modals -->
+    <div id="modal-overlay" class="modal-overlay hidden">
+        <div class="modal-content">
+            <button class="close-modal">&times;</button>
+            <div id="modal-body"></div>
+        </div>
+    </div>
+
+    <script type="module" src="app.js"></script>
+</body>
+</html>

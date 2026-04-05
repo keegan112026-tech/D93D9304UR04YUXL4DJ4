@@ -1,0 +1,33 @@
+{
+  "hearing_id": "hearing-20251211-medical-witnesses",
+  "date": "2025-12-11",
+  "case_number": "114年度訴字第51號",
+  "proceedings_type": "審理程序",
+  "title": "醫療與督導證言：傷勢可見度爭議",
+  "judge": [
+    "prs-wu-jia-tong",
+    "prs-hu-yuan-shuo",
+    "prs-zhao-shu-yu"
+  ],
+  "prosecutor": "prs-lin-yu-mei",
+  "defendant": "prs-chen-shang-jie",
+  "witnesses": [
+    {
+      "entity_id": "prs-huang-sheng-xin",
+      "testimony_summary": ""
+    },
+    {
+      "entity_id": "prs-li-fang-ling",
+      "testimony_summary": "自我定位：不是陳尚潔的直接督導，無法推論其是否有盡到義務。"
+    },
+    {
+      "entity_id": "prs-jiang-yi-yun",
+      "testimony_summary": "程序攻防：否認偵查筆錄中『嚴重疏失』之記載，聲稱不知筆錄為何如此記載。"
+    }
+  ],
+  "legal_arguments": [],
+  "court_activity": "急診醫師黃聖心證稱孩童体溫僅24度，身上傷勢為肉眼絕對可辨。兒盟主管證詞引發檢方追問掉牙異常。",
+  "source_refs": [
+    "src-judicial-001"
+  ]
+}

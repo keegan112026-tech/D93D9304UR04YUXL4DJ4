@@ -1,0 +1,21 @@
+{
+  "entity_id": "org-taipei-sw",
+  "name": "臺北市政府社會局",
+  "alias": [
+    "北市社會局"
+  ],
+  "entity_type": "organization",
+  "org_type": "government-local",
+  "jurisdiction": "Taiwan",
+  "official_mandate": "",
+  "role_in_case": "",
+  "key_personnel": [
+    "prs-liu-cai-xuan",
+    "prs-liu-ruo-lin",
+    "prs-nian-yu-han"
+  ],
+  "source_refs": [],
+  "related_entities": [],
+  "related_events": [],
+  "related_topics": []
+}

@@ -1,0 +1,20 @@
+{
+  "entity_id": "org-sfaa",
+  "name": "衛生福利部社會及家庭署",
+  "alias": [
+    "社家署",
+    "SFAA"
+  ],
+  "entity_type": "organization",
+  "org_type": "government-central",
+  "jurisdiction": "Taiwan",
+  "official_mandate": "",
+  "role_in_case": "",
+  "key_personnel": [
+    "prs-xu-pei-hua"
+  ],
+  "source_refs": [],
+  "related_entities": [],
+  "related_events": [],
+  "related_topics": []
+}

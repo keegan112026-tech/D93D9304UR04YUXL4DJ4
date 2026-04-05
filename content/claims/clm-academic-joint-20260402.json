@@ -1,0 +1,19 @@
+{
+  "claim_id": "clm-academic-joint-20260402",
+  "statement": "司法應審酌社工實務侷限，拒絕以結果論定罪",
+  "claim_type": "Academic",
+  "point_of_contention": "近20所大學社工系所聯合聲明，認為不應將制度性缺口完全歸責於個人。 ",
+  "pro_arguments": [
+    "prs-ntu-sw-department",
+    "prs-ntnu-sw-department"
+  ],
+  "con_arguments": [
+    "prs-lin-yu-mei"
+  ],
+  "source_refs": [],
+  "related_entities": [
+    "prs-ntu-sw-department",
+    "prs-ntnu-sw-department",
+    "prs-lin-yu-mei"
+  ]
+}

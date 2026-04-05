@@ -1,0 +1,17 @@
+{
+  "entity_id": "prs-ye-shi-yu",
+  "name": "葉詩宇",
+  "alias": [],
+  "entity_type": "person",
+  "role_in_case": "兒福聯盟社工",
+  "affiliation": "org-cwlf",
+  "description_short": "兒福聯盟社工",
+  "case_involvement": "witness-neutral",
+  "appeared_in_hearings": [],
+  "source_refs": [],
+  "related_entities": [
+    "org-cwlf"
+  ],
+  "related_events": [],
+  "related_topics": []
+}

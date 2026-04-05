@@ -1,0 +1,17 @@
+{
+  "entity_id": "prs-huang-ling-fang",
+  "name": "黃鈴芳",
+  "alias": [],
+  "entity_type": "person",
+  "role_in_case": "文山居托中心督導",
+  "affiliation": "org-wenshan-childcare",
+  "description_short": "文山居托中心督導",
+  "case_involvement": "witness-neutral",
+  "appeared_in_hearings": [],
+  "source_refs": [],
+  "related_entities": [
+    "org-wenshan-childcare"
+  ],
+  "related_events": [],
+  "related_topics": []
+}

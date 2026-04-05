@@ -1,0 +1,14 @@
+{
+  "event_id": "evt-20231224-kaikai-death",
+  "date": "2023-12-24",
+  "title": "剴剴因受虐致死於萬芳醫院",
+  "phase": "injury-medical-death",
+  "description": "",
+  "significance": "男童到院前死亡，案情爆發並引發大規模司法調查。",
+  "location": "",
+  "related_entities": [],
+  "source_refs": [],
+  "tags": [
+    "injury-medical-death"
+  ]
+}

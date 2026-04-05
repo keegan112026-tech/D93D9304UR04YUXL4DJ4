@@ -1,0 +1,9 @@
+{
+  "entity_id": "law-guarantor-status",
+  "name": "保證人地位",
+  "entity_type": "law",
+  "law_type": "legal-principle",
+  "description": "刑法上對於防止犯罪結果發生負有法律義務之地位。",
+  "source_refs": [],
+  "related_topics": []
+}

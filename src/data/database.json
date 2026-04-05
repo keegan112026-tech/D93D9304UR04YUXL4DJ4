@@ -1,0 +1,5263 @@
+{
+  "index": {
+    "sources": [
+      "src-judicial-001",
+      "src-judicial-002",
+      "src-judicial-003",
+      "src-judicial-004",
+      "src-judicial-005",
+      "src-judicial-006",
+      "src-judicial-007",
+      "src-judicial-008",
+      "src-judicial-009",
+      "src-judicial-010",
+      "src-judicial-011",
+      "src-judicial-012",
+      "src-judicial-013",
+      "src-judicial-014",
+      "src-judicial-015",
+      "src-judicial-016",
+      "src-judicial-017",
+      "src-judicial-018",
+      "src-judicial-019",
+      "src-judicial-020",
+      "src-judicial-021",
+      "src-judicial-022",
+      "src-judicial-023",
+      "src-judicial-024",
+      "src-misc-025",
+      "src-cy-026",
+      "src-mohw-027",
+      "src-mohw-028",
+      "src-sfaa-029",
+      "src-sfaa-030",
+      "src-misc-031",
+      "src-misc-032",
+      "src-mohw-033",
+      "src-cna-034",
+      "src-cna-035",
+      "src-cna-036",
+      "src-cna-037",
+      "src-cna-038",
+      "src-cna-039",
+      "src-cna-040",
+      "src-cna-041",
+      "src-mohw-042",
+      "src-pts-043",
+      "src-mohw-044",
+      "src-pts-045",
+      "src-pts-046",
+      "src-pts-047",
+      "src-pts-048",
+      "src-pts-049",
+      "src-mohw-050",
+      "src-udn-051",
+      "src-udn-052",
+      "src-udn-053",
+      "src-udn-054",
+      "src-udn-055",
+      "src-udn-056",
+      "src-udn-057",
+      "src-udn-058",
+      "src-udn-059",
+      "src-udn-060",
+      "src-udn-061",
+      "src-udn-062",
+      "src-udn-063",
+      "src-businesstoday-064",
+      "src-mohw-065",
+      "src-businesstoday-066",
+      "src-misc-067",
+      "src-cy-068",
+      "src-mirrormedia-069",
+      "src-knews-070",
+      "src-knews-071",
+      "src-knews-072",
+      "src-knews-073",
+      "src-knews-074",
+      "src-knews-075",
+      "src-knews-076",
+      "src-knews-077",
+      "src-knews-078",
+      "src-knews-079",
+      "src-taisounds-080",
+      "src-taisounds-081",
+      "src-taisounds-082",
+      "src-taisounds-083",
+      "src-taisounds-084",
+      "src-thenewslens-085",
+      "src-tvbs-086",
+      "src-tvbs-087",
+      "src-ftv-088",
+      "src-ettoday-089",
+      "src-ettoday-090",
+      "src-setn-091",
+      "src-nownews-092",
+      "src-nownews-093",
+      "src-ctwant-094",
+      "src-newtalk-095",
+      "src-ltn-096",
+      "src-ltn-097",
+      "src-ltn-098",
+      "src-ltn-099",
+      "src-ltn-100",
+      "src-gvm-101",
+      "src-ntdtv-102",
+      "src-hakkanews-103",
+      "src-hakkanews-104",
+      "src-hakkanews-105",
+      "src-mohw-106",
+      "src-epochtimes-107",
+      "src-dailyview-108",
+      "src-dailyview-109",
+      "src-nextapple-110",
+      "src-twreporter-111",
+      "src-twreporter-112",
+      "src-twreporter-113",
+      "src-rightplus-114",
+      "src-nnyy-115",
+      "src-judicial-116",
+      "src-ltn-117",
+      "src-peoplenews-118",
+      "src-sunnyswa-119",
+      "src-g0v-120",
+      "src-change-org-121",
+      "src-join-122",
+      "src-judicial-123",
+      "src-wikipedia-124",
+      "src-wikipedia-125",
+      "src-taiwannews-126",
+      "src-scmp-127",
+      "src-focustaiwan-128",
+      "src-focustaiwan-129",
+      "src-facebook-130",
+      "src-facebook-131",
+      "src-facebook-132",
+      "src-facebook-133",
+      "src-facebook-134",
+      "src-yahoo-135",
+      "src-cy-136",
+      "src-yahoo-137",
+      "src-yahoo-138",
+      "src-yahoo-139",
+      "src-mohw-dosa-74724",
+      "src-mohw-dosa-ethics",
+      "src-tpcsw-ethics-rules",
+      "src-tpcsw-complaint-proc",
+      "src-tswu-oppose-ethics",
+      "src-udn-8904247"
+    ],
+    "total": 139,
+    "last_updated": "2026-04-05T11:25:48.281Z",
+    "people": [
+      "prs-chen-shang-jie",
+      "prs-liu-cai-xuan",
+      "prs-liu-ruo-lin",
+      "prs-ye-da-hua",
+      "prs-wang-you-ling",
+      "prs-zhang-ju-fang",
+      "prs-lin-yu-zhen",
+      "prs-lin-yu-mei",
+      "prs-xu-zhuo-xian",
+      "prs-lyu-li",
+      "prs-qiu-yan-nan",
+      "prs-li-fang-ling",
+      "prs-jiang-yi-yun",
+      "prs-ye-shi-yu",
+      "prs-ye-ting-xi",
+      "prs-bai-li-fang",
+      "prs-shi-ying-ru",
+      "prs-huang-sheng-xin",
+      "prs-xu-pei-hua",
+      "prs-huang-ling-fang",
+      "prs-lin-xin-ci",
+      "prs-nian-yu-han",
+      "prs-shen-yao-yi"
+    ],
+    "orgs": [
+      "org-control-yuan",
+      "org-mohw",
+      "org-sfaa",
+      "org-taipei-sw",
+      "org-ntpc-sw",
+      "org-shuying-center",
+      "org-wenshan-childcare",
+      "org-da-ai-care",
+      "org-cwlf",
+      "org-tpd-court",
+      "org-tpd-prosecution",
+      "org-wanfang-hospital",
+      "org-forensic-moj",
+      "org-ntu-hospital",
+      "org-catholic-welfare"
+    ],
+    "laws": [
+      "law-guarantor-status",
+      "law-criminal-15",
+      "law-criminal-215",
+      "law-child-youth-welfare-act"
+    ],
+    "total_entities": 41,
+    "events": [
+      "evt-20220221-kaikai-born",
+      "evt-20230901-transfer-to-cwlf",
+      "evt-20230904-placement-with-nanny-liu",
+      "evt-20230926-taipei-first-visit",
+      "evt-20231024-bruises-found",
+      "evt-20231224-kaikai-death",
+      "evt-20240311-news-breaks",
+      "evt-20240418-nanny-indictment",
+      "evt-20250512-nanny-first-verdict",
+      "evt-20260126-nanny-second-verdict",
+      "evt-20240313-cwlf-raid-social-worker-handcuffed",
+      "evt-20240827-social-worker-indictment",
+      "evt-20251211-social-worker-witness-hearing-1",
+      "evt-20260416-social-worker-scheduled-verdict",
+      "evt-20240325-mohw-cwlf-audit-report",
+      "evt-20250529-control-yuan-correction",
+      "evt-20250718-kaikai-clause-legislation",
+      "evt-20250801-kaikai-clause-effective"
+    ],
+    "total_events": 18,
+    "hearings": [
+      "hearing-20250106-review",
+      "hearing-20250417-trial-continued",
+      "hearing-20250717-trial-3",
+      "hearing-20250925-preparation",
+      "hearing-20251127-witness-testimony-1",
+      "hearing-20251211-medical-witnesses",
+      "hearing-20251218-cwlf-executives",
+      "hearing-20260122-dentist-and-visit-officer",
+      "hearing-20260129-falsification-debate",
+      "hearing-20260223-video-interrogation",
+      "hearing-20260226-closing-arguments"
+    ],
+    "total_hearings": 11,
+    "claims": [
+      "clm-sw-union-20240313",
+      "clm-academic-joint-20260402",
+      "clm-cwlf-reform-20250513",
+      "clm-public-protest-20250510",
+      "clm-guarantor-status-debate",
+      "clm-sw-discipline-mechanism",
+      "clm-ethics-vs-criminal-precedence"
+    ],
+    "total_claims": 7,
+    "topics": [
+      "top-adoption",
+      "top-fragile-family",
+      "top-unannounced-visits",
+      "top-mandatory-reporting",
+      "top-kaikai-clause"
+    ],
+    "total_topics": 5,
+    "total_people": 23,
+    "total_sources": 145,
+    "last_audited": "2026-04-05T11:30:46.480Z"
+  },
+  "sources": [
+    {
+      "source_id": "src-businesstoday-064",
+      "title": "1歲童虐死才被通報「破口在哪」…時間軸與各方說法（2024-03-13）",
+      "source_type": "media",
+      "publisher": "今周刊",
+      "publish_date": null,
+      "url": "https://www.businesstoday.com.tw/article/category/183027/post/202403130064/",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "今周刊。1歲童虐死才被通報「破口在哪」…時間軸與各方說法（2024-03-13）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-businesstoday-064"
+    },
+    {
+      "source_id": "src-businesstoday-066",
+      "title": "剴剴案判決出爐！劉彩萱無期徒刑、劉若琳判18年（2025-05-13）",
+      "source_type": "media",
+      "publisher": "今周刊",
+      "publish_date": null,
+      "url": "https://www.businesstoday.com.tw/article/category/183027/post/202505130020/",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "今周刊。剴剴案判決出爐！劉彩萱無期徒刑、劉若琳判18年（2025-05-13）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-businesstoday-066"
+    },
+    {
+      "source_id": "src-change-org-121",
+      "title": "Change.org連署：Demand Justice for KaiKai and Reform of Social Safety Net in Taiwan",
+      "source_type": "statement",
+      "publisher": "Change.org",
+      "publish_date": null,
+      "url": "https://www.change.org/p/demand-justice-for-kaikai-and-reform-of-social-safety-net-in-taiwan",
+      "reliability_tier": 4,
+      "language": "zh-TW",
+      "citation_text": "Change.org。Change.org連署：Demand Justice for KaiKai and Reform of Social Safety Net in Taiwan。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹"
+      ],
+      "id": "src-change-org-121"
+    },
+    {
+      "source_id": "src-cna-034",
+      "title": "保母姊妹涉虐死剴剴案大事記（2026-01-27）",
+      "source_type": "media",
+      "publisher": "中央社",
+      "publish_date": null,
+      "url": "https://www.cna.com.tw/news/asoc/202601270057.aspx",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "中央社。保母姊妹涉虐死剴剴案大事記（2026-01-27）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-cna-034"
+    },
+    {
+      "source_id": "src-cna-035",
+      "title": "剴剴案二審維持原判報導（2026-01-27）",
+      "source_type": "media",
+      "publisher": "中央社",
+      "publish_date": null,
+      "url": "https://www.cna.com.tw/news/asoc/202601270112.aspx",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "中央社。剴剴案二審維持原判報導（2026-01-27）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案二審）"
+      ],
+      "id": "src-cna-035"
+    },
+    {
+      "source_id": "src-cna-036",
+      "title": "剴剴案遭監院糾正 雙北市府回應（2025-05-29）",
+      "source_type": "media",
+      "publisher": "中央社",
+      "publish_date": null,
+      "url": "https://www.cna.com.tw/news/aloc/202505290359.aspx",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "中央社。剴剴案遭監院糾正 雙北市府回應（2025-05-29）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-cna-036"
+    },
+    {
+      "source_id": "src-cna-037",
+      "title": "吸取剴剴虐童案教訓 新北建立三方共訪機制（2025-03-14）",
+      "source_type": "media",
+      "publisher": "中央社",
+      "publish_date": null,
+      "url": "https://www.cna.com.tw/news/aloc/202503140231.aspx",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "中央社。吸取剴剴虐童案教訓 新北建立三方共訪機制（2025-03-14）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-cna-037"
+    },
+    {
+      "source_id": "src-cna-038",
+      "title": "剴剴案女社工涉過失致死遭訴 北院下午開庭（2025-04-17）",
+      "source_type": "media",
+      "publisher": "中央社",
+      "publish_date": null,
+      "url": "https://www.cna.com.tw/news/asoc/202504170052.aspx",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "中央社。剴剴案女社工涉過失致死遭訴 北院下午開庭（2025-04-17）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-cna-038"
+    },
+    {
+      "source_id": "src-cna-039",
+      "title": "兒盟陳姓社工涉剴剴案 北院4/16宣判（2026-02-26）",
+      "source_type": "media",
+      "publisher": "中央社",
+      "publish_date": null,
+      "url": "https://www.cna.com.tw/news/asoc/202602260203.aspx",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "中央社。兒盟陳姓社工涉剴剴案 北院4/16宣判（2026-02-26）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-cna-039"
+    },
+    {
+      "source_id": "src-cna-040",
+      "title": "北檢起訴社工 涉未如實寫訪視紀錄（2024-08-27）",
+      "source_type": "media",
+      "publisher": "中央社",
+      "publish_date": null,
+      "url": "https://www.cna.com.tw/news/asoc/202408270132.aspx",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "中央社。北檢起訴社工 涉未如實寫訪視紀錄（2024-08-27）。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹（起訴）"
+      ],
+      "id": "src-cna-040"
+    },
+    {
+      "source_id": "src-cna-041",
+      "title": "剴剴案陳姓社工涉過失致死 北市婦幼科長出庭作證（2026-01-29）",
+      "source_type": "media",
+      "publisher": "中央社",
+      "publish_date": null,
+      "url": "https://www.cna.com.tw/news/asoc/202601290279.aspx",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "中央社。剴剴案陳姓社工涉過失致死 北市婦幼科長出庭作證（2026-01-29）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-cna-041"
+    },
+    {
+      "source_id": "src-ctwant-094",
+      "title": "CTWANT：剴剴案社工開庭！她挺孕肚出現 再曝去年和家人日本「休息」遭限制出境",
+      "source_type": "media",
+      "publisher": "CTWANT",
+      "publish_date": null,
+      "url": "https://www.ctwant.com/article/387814/",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "CTWANT。CTWANT：剴剴案社工開庭！她挺孕肚出現 再曝去年和家人日本「休息」遭限制出境。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-ctwant-094"
+    },
+    {
+      "source_id": "src-cy-026",
+      "title": "監察院糾正案新聞稿：男童剴剴於出養期間遭保母虐待致死案調查報告",
+      "source_type": "official",
+      "publisher": "監察院",
+      "publish_date": null,
+      "url": "https://www.cy.gov.tw/News_Content.aspx?n=125&s=34118",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "監察院。監察院糾正案新聞稿：男童剴剴於出養期間遭保母虐待致死案調查報告。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹／時間軸"
+      ],
+      "id": "src-cy-026"
+    },
+    {
+      "source_id": "src-cy-068",
+      "title": "鏡週刊：剴剴案監察院調查報告出爐 媒體整理",
+      "source_type": "official",
+      "publisher": "監察院",
+      "publish_date": null,
+      "url": "https://www.mirrormedia.mg/external/ebc_493860",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "監察院。鏡週刊：剴剴案監察院調查報告出爐 媒體整理。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-cy-068"
+    },
+    {
+      "source_id": "src-cy-136",
+      "title": "剴剴案調查報告出爐 監察院糾正衛福部、雙北市府",
+      "source_type": "official",
+      "publisher": "監察院",
+      "publish_date": null,
+      "url": "https://tw.news.yahoo.com/%E5%89%B4%E5%89%B4%E6%A1%88%E8%AA%BF%E6%9F%A5%E5%A0%B1%E5%91%8A%E5%87%BA%E7%88%90-%E7%9B%A3%E5%AF%9F%E9%99%A2%E7%B3%BE%E6%AD%A3%E8%A1%9B%E7%A6%8F%E9%83%A8-%E9%9B%99%E5%8C%97%E5%B8%82%E6%94%BF%E5%BA%9C-065000020.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "監察院。剴剴案調查報告出爐 監察院糾正衛福部、雙北市府。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-cy-136"
+    },
+    {
+      "source_id": "src-dailyview-108",
+      "title": "網路溫度計DailyView：懶人包／1歲剴剴的悲劇！劉姓保母「灌餿水拔指甲」虐童",
+      "source_type": "media",
+      "publisher": "網路溫度計",
+      "publish_date": null,
+      "url": "https://dailyview.tw/popular/detail/25708",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "網路溫度計。網路溫度計DailyView：懶人包／1歲剴剴的悲劇！劉姓保母「灌餿水拔指甲」虐童。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹"
+      ],
+      "id": "src-dailyview-108"
+    },
+    {
+      "source_id": "src-dailyview-109",
+      "title": "網路溫度計DailyView：剴剴案明日第四次開庭 民眾發起舉牌聲援活動",
+      "source_type": "media",
+      "publisher": "網路溫度計",
+      "publish_date": null,
+      "url": "https://dailyview.tw/popular/detail/29034",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "網路溫度計。網路溫度計DailyView：剴剴案明日第四次開庭 民眾發起舉牌聲援活動。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-dailyview-109"
+    },
+    {
+      "source_id": "src-epochtimes-107",
+      "title": "大紀元：剴剴遭虐死案 劉彩萱無期徒刑、劉若琳判18年（2025-05-13）",
+      "source_type": "media",
+      "publisher": "大紀元",
+      "publish_date": null,
+      "url": "https://www.epochtimes.com/b5/25/5/13/n14507353.htm",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "大紀元。大紀元：剴剴遭虐死案 劉彩萱無期徒刑、劉若琳判18年（2025-05-13）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-epochtimes-107"
+    },
+    {
+      "source_id": "src-ettoday-089",
+      "title": "ETtoday：剴剴案社工陳尚潔首度開庭「不認罪」！律師求3個月整理答辯（2025-01-06）",
+      "source_type": "media",
+      "publisher": "ETtoday",
+      "publish_date": null,
+      "url": "https://www.ettoday.net/news/20250106/2886952.htm",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "ETtoday。ETtoday：剴剴案社工陳尚潔首度開庭「不認罪」！律師求3個月整理答辯（2025-01-06）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-ettoday-089"
+    },
+    {
+      "source_id": "src-ettoday-090",
+      "title": "ETtoday：13關鍵錯誤害死剴剴！女社工開群組掩飾犯行 檢批狡辯無悔意（2024-08-27）",
+      "source_type": "media",
+      "publisher": "ETtoday",
+      "publish_date": null,
+      "url": "https://www.ettoday.net/news/20240827/2805146.htm",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "ETtoday。ETtoday：13關鍵錯誤害死剴剴！女社工開群組掩飾犯行 檢批狡辯無悔意（2024-08-27）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（起訴）"
+      ],
+      "id": "src-ettoday-090"
+    },
+    {
+      "source_id": "src-facebook-130",
+      "title": "2025.11.27 庭審旁聽逐字紀錄（Facebook）",
+      "source_type": "statement",
+      "publisher": "Facebook",
+      "publish_date": "2025-11-27",
+      "url": "https://www.facebook.com/share/p/1E3eF55Tgy/",
+      "reliability_tier": 4,
+      "language": "zh-TW",
+      "citation_text": "Facebook。2025.11.27 庭審旁聽逐字紀錄（Facebook）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-facebook-130"
+    },
+    {
+      "source_id": "src-facebook-131",
+      "title": "2025.12.11 庭審旁聽逐字紀錄①（Facebook）",
+      "source_type": "statement",
+      "publisher": "Facebook",
+      "publish_date": "2025-12-11",
+      "url": "https://www.facebook.com/share/p/1ApdYVxWiX/",
+      "reliability_tier": 4,
+      "language": "zh-TW",
+      "citation_text": "Facebook。2025.12.11 庭審旁聽逐字紀錄①（Facebook）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-facebook-131"
+    },
+    {
+      "source_id": "src-facebook-132",
+      "title": "2025.12.11 庭審旁聽逐字紀錄②（Facebook）",
+      "source_type": "statement",
+      "publisher": "Facebook",
+      "publish_date": "2025-12-11",
+      "url": "https://www.facebook.com/share/p/1CKZoEkjWC/",
+      "reliability_tier": 4,
+      "language": "zh-TW",
+      "citation_text": "Facebook。2025.12.11 庭審旁聽逐字紀錄②（Facebook）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-facebook-132"
+    },
+    {
+      "source_id": "src-facebook-133",
+      "title": "2025.12.18 庭審旁聽逐字紀錄①（Facebook）",
+      "source_type": "statement",
+      "publisher": "Facebook",
+      "publish_date": "2025-12-18",
+      "url": "https://www.facebook.com/share/p/17Muyr8Rae/",
+      "reliability_tier": 4,
+      "language": "zh-TW",
+      "citation_text": "Facebook。2025.12.18 庭審旁聽逐字紀錄①（Facebook）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-facebook-133"
+    },
+    {
+      "source_id": "src-facebook-134",
+      "title": "2025.12.18 庭審旁聽逐字紀錄②（Facebook）",
+      "source_type": "statement",
+      "publisher": "Facebook",
+      "publish_date": "2025-12-18",
+      "url": "https://www.facebook.com/share/p/18VZAgyP1u/",
+      "reliability_tier": 4,
+      "language": "zh-TW",
+      "citation_text": "Facebook。2025.12.18 庭審旁聽逐字紀錄②（Facebook）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-facebook-134"
+    },
+    {
+      "source_id": "src-focustaiwan-128",
+      "title": "Focus Taiwan: Control Yuan faults health ministry, city governments over child abuse death（2025-05-29）",
+      "source_type": "media",
+      "publisher": "Focus Taiwan",
+      "publish_date": null,
+      "url": "https://focustaiwan.tw/society/202505290024",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "Focus Taiwan。Focus Taiwan: Control Yuan faults health ministry, city governments over child abuse death（2025-05-29）。",
+      "archive_status": "active",
+      "tags": [
+        "國際報導"
+      ],
+      "id": "src-focustaiwan-128"
+    },
+    {
+      "source_id": "src-focustaiwan-129",
+      "title": "Focus Taiwan: Court upholds life, 18-year sentences for sisters in infant abuse case（2026-01-27）",
+      "source_type": "media",
+      "publisher": "Focus Taiwan",
+      "publish_date": null,
+      "url": "https://focustaiwan.tw/society/202601270007",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "Focus Taiwan。Focus Taiwan: Court upholds life, 18-year sentences for sisters in infant abuse case（2026-01-27）。",
+      "archive_status": "active",
+      "tags": [
+        "國際報導"
+      ],
+      "id": "src-focustaiwan-129"
+    },
+    {
+      "source_id": "src-ftv-088",
+      "title": "民視新聞網：法庭直擊！剴剴案社工涉包庇虐童 傳3證人（2026-01-22）",
+      "source_type": "media",
+      "publisher": "民視",
+      "publish_date": null,
+      "url": "https://www.ftvnews.com.tw/news/detail/2026122W0371",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "民視。民視新聞網：法庭直擊！剴剴案社工涉包庇虐童 傳3證人（2026-01-22）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-ftv-088"
+    },
+    {
+      "source_id": "src-g0v-120",
+      "title": "g0v HackMD：剴剴(凱凱)案整理（公民協作文件）",
+      "source_type": "statement",
+      "publisher": "g0v",
+      "publish_date": null,
+      "url": "https://g0v.hackmd.io/@kiang/kaikai",
+      "reliability_tier": 4,
+      "language": "zh-TW",
+      "citation_text": "g0v。g0v HackMD：剴剴(凱凱)案整理（公民協作文件）。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹／時間軸"
+      ],
+      "id": "src-g0v-120"
+    },
+    {
+      "source_id": "src-gvm-101",
+      "title": "遠見雜誌：剴剴案判決「劉彩萱無期、劉若琳18年」！國民法官法庭創庭期最長紀錄",
+      "source_type": "media",
+      "publisher": "遠見",
+      "publish_date": null,
+      "url": "https://www.gvm.com.tw/article/121258",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "遠見。遠見雜誌：剴剴案判決「劉彩萱無期、劉若琳18年」！國民法官法庭創庭期最長紀錄。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-gvm-101"
+    },
+    {
+      "source_id": "src-hakkanews-103",
+      "title": "客新聞：「剴剴」案二審宣判 劉姓姊妹仍分判無期、18年徒刑",
+      "source_type": "media",
+      "publisher": "客新聞",
+      "publish_date": null,
+      "url": "https://hakkanews.tw/2026/01/27/256697/",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "客新聞。客新聞：「剴剴」案二審宣判 劉姓姊妹仍分判無期、18年徒刑。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案二審）"
+      ],
+      "id": "src-hakkanews-103"
+    },
+    {
+      "source_id": "src-hakkanews-104",
+      "title": "客新聞：「剴剴」案一審判決 劉姓姊妹分判無期、18年徒刑",
+      "source_type": "media",
+      "publisher": "客新聞",
+      "publish_date": null,
+      "url": "https://hakkanews.tw/2025/05/13/198792/",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "客新聞。客新聞：「剴剴」案一審判決 劉姓姊妹分判無期、18年徒刑。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-hakkanews-104"
+    },
+    {
+      "source_id": "src-hakkanews-105",
+      "title": "客新聞：立院三讀／以凌虐殺害未滿7歲幼童 最重可判死型",
+      "source_type": "media",
+      "publisher": "客新聞",
+      "publish_date": null,
+      "url": "https://hakkanews.tw/2025/07/18/214499/",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "客新聞。客新聞：立院三讀／以凌虐殺害未滿7歲幼童 最重可判死型。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（修法）"
+      ],
+      "id": "src-hakkanews-105"
+    },
+    {
+      "source_id": "src-join-122",
+      "title": "公共政策網路參與平台（Join）：廢止兒福聯盟勸募資格提案",
+      "source_type": "media",
+      "publisher": "公共政策",
+      "publish_date": null,
+      "url": "https://join.gov.tw/idea/detail/98abfed4-e482-46c3-b9fb-923a86f6258b",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "公共政策。公共政策網路參與平台（Join）：廢止兒福聯盟勸募資格提案。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹"
+      ],
+      "id": "src-join-122"
+    },
+    {
+      "source_id": "src-judicial-001",
+      "title": "臺北地院113年度國審訴字第1號判決新聞稿（保母案一審宣判）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1322645-129aa-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院113年度國審訴字第1號判決新聞稿（保母案一審宣判）。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹／時間軸"
+      ],
+      "id": "src-judicial-001"
+    },
+    {
+      "source_id": "src-judicial-002",
+      "title": "臺北地院114年度訴字第51號庭期公告（2025-11-27旁聽名單）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1445670-b81dd-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（2025-11-27旁聽名單）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-002"
+    },
+    {
+      "source_id": "src-judicial-003",
+      "title": "臺北地院114年度訴字第51號庭期公告（2025-09-25旁聽名單）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1408200-18dd9-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（2025-09-25旁聽名單）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-003"
+    },
+    {
+      "source_id": "src-judicial-004",
+      "title": "臺北地院114年度訴字第51號庭期公告（2025-12-11旁聽名單）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1454731-8a576-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（2025-12-11旁聽名單）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-004"
+    },
+    {
+      "source_id": "src-judicial-005",
+      "title": "臺北地院114年度訴字第51號庭期公告（2025-12-18旁聽名單）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1459339-c2457-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（2025-12-18旁聽名單）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-005"
+    },
+    {
+      "source_id": "src-judicial-006",
+      "title": "臺北地院114年度訴字第51號庭期公告（2026-01-22旁聽名單）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1479648-3aa0b-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（2026-01-22旁聽名單）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-006"
+    },
+    {
+      "source_id": "src-judicial-007",
+      "title": "臺北地院114年度訴字第51號庭期公告（2026-01-29旁聽名單）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1483602-c8a30-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（2026-01-29旁聽名單）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-007"
+    },
+    {
+      "source_id": "src-judicial-008",
+      "title": "臺北地院114年度訴字第51號庭期公告（2026-02-23及02-26全日審理）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/lp-1888-1-2-40.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（2026-02-23及02-26全日審理）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-008"
+    },
+    {
+      "source_id": "src-judicial-009",
+      "title": "臺北地院113年度國審訴字第1號：不行國民參與審判聲請駁回裁定",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1178512-08629-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院113年度國審訴字第1號：不行國民參與審判聲請駁回裁定。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案）"
+      ],
+      "id": "src-judicial-009"
+    },
+    {
+      "source_id": "src-judicial-010",
+      "title": "臺北地院公告：113年度國審訴字第1號全日審理旁聽名單",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1297339-f063f-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院公告：113年度國審訴字第1號全日審理旁聽名單。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案）"
+      ],
+      "id": "src-judicial-010"
+    },
+    {
+      "source_id": "src-judicial-011",
+      "title": "高等法院公告：114年度國審上重訴字第4號旁聽證核發",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1398410-ac0e6-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。高等法院公告：114年度國審上重訴字第4號旁聽證核發。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案二審）"
+      ],
+      "id": "src-judicial-011"
+    },
+    {
+      "source_id": "src-judicial-012",
+      "title": "高等法院公告：114年度國審上重訴字第4號庭期取消",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1438229-0b7ea-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。高等法院公告：114年度國審上重訴字第4號庭期取消。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案二審）"
+      ],
+      "id": "src-judicial-012"
+    },
+    {
+      "source_id": "src-judicial-013",
+      "title": "臺北地院114年度訴字第51號庭期公告（tpd.judicial，2025-09-25）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://tpd.judicial.gov.tw/tw/cp-2838-2635080-2f43d-151.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（tpd.judicial，2025-09-25）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-013"
+    },
+    {
+      "source_id": "src-judicial-014",
+      "title": "臺北地院114年度訴字第51號庭期公告（tpd.judicial，2025-11-27）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://tpd.judicial.gov.tw/tw/cp-2838-2710075-c3764-151.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（tpd.judicial，2025-11-27）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-014"
+    },
+    {
+      "source_id": "src-judicial-015",
+      "title": "臺北地院114年度訴字第51號庭期公告（tpd.judicial，2025-12-11）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://tpd.judicial.gov.tw/tw/cp-2838-2728925-1f49c-151.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（tpd.judicial，2025-12-11）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-015"
+    },
+    {
+      "source_id": "src-judicial-016",
+      "title": "臺北地院114年度訴字第51號庭期公告（tpd.judicial，2025-12-18）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://tpd.judicial.gov.tw/tw/cp-2838-2734772-a24a4-151.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（tpd.judicial，2025-12-18）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-016"
+    },
+    {
+      "source_id": "src-judicial-017",
+      "title": "臺北地院114年度訴字第51號庭期公告（tpd.judicial，2026-01-22）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://tpd.judicial.gov.tw/tw/cp-2838-2755360-89656-151.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（tpd.judicial，2026-01-22）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-017"
+    },
+    {
+      "source_id": "src-judicial-018",
+      "title": "臺北地院114年度訴字第51號庭期公告（tpd.judicial，2026-01-29）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://tpd.judicial.gov.tw/tw/cp-2838-2760374-05caa-151.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（tpd.judicial，2026-01-29）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-018"
+    },
+    {
+      "source_id": "src-judicial-019",
+      "title": "臺北地院114年度訴字第51號庭期公告（tpd.judicial，2026-02-23/02-26）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://tpd.judicial.gov.tw/tw/cp-2838-2772298-0d640-151.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號庭期公告（tpd.judicial，2026-02-23/02-26）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-019"
+    },
+    {
+      "source_id": "src-judicial-020",
+      "title": "臺北地院114年度訴字第51號宣判期日公告（2026-04-16）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://tpd.judicial.gov.tw/tw/cp-2838-2810462-92fa4-151.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院114年度訴字第51號宣判期日公告（2026-04-16）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-020"
+    },
+    {
+      "source_id": "src-judicial-021",
+      "title": "臺北地院旁聽證名單PDF（2025-09-25庭期）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/dl-248184-a6850e11b836487db21c327d9bd5331b.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院旁聽證名單PDF（2025-09-25庭期）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-021"
+    },
+    {
+      "source_id": "src-judicial-022",
+      "title": "臺北地院旁聽證名單PDF（2025-12-18庭期）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/dl-258270-487bca6f38f549cbb6370c28315c003e.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院旁聽證名單PDF（2025-12-18庭期）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-022"
+    },
+    {
+      "source_id": "src-judicial-023",
+      "title": "臺北地院旁聽證名單PDF（2025-12-18庭期附件二）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/dl-258272-fe51c80f1a3c480e9a0a3fc99150e449.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院旁聽證名單PDF（2025-12-18庭期附件二）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-023"
+    },
+    {
+      "source_id": "src-judicial-024",
+      "title": "臺北地院旁聽證名單PDF（2026-01-22庭期）",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.judicial.gov.tw/tw/dl-252367-b2033ecf51374ad28886ce35d0118350.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。臺北地院旁聽證名單PDF（2026-01-22庭期）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-024"
+    },
+    {
+      "source_id": "src-judicial-116",
+      "title": "司法改革基金會：剴剴案相關法律評論",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.jrf.org.tw/articles/3102",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。司法改革基金會：剴剴案相關法律評論。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹（法律爭點）"
+      ],
+      "id": "src-judicial-116"
+    },
+    {
+      "source_id": "src-judicial-123",
+      "title": "沈後山臉書：關於剴剴案——司法爭點與社工法律責任的集體防線",
+      "source_type": "official",
+      "publisher": "司法",
+      "publish_date": null,
+      "url": "https://www.facebook.com/share/p/18MoHT4WhS/",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "司法。沈後山臉書：關於剴剴案——司法爭點與社工法律責任的集體防線。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-judicial-123"
+    },
+    {
+      "source_id": "src-knews-070",
+      "title": "知新聞：剴剴遭虐死！兒盟高層出庭護陳尚潔（2025-12-11）",
+      "source_type": "media",
+      "publisher": "知新聞",
+      "publish_date": null,
+      "url": "https://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "知新聞。知新聞：剴剴遭虐死！兒盟高層出庭護陳尚潔（2025-12-11）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-knews-070"
+    },
+    {
+      "source_id": "src-knews-071",
+      "title": "知新聞：兒盟社工陳尚潔出庭！剴剴戰士庭外怒喊「重判」",
+      "source_type": "media",
+      "publisher": "知新聞",
+      "publish_date": null,
+      "url": "https://www.knews.com.tw/news/43A7B1C4064397E33F11BD541A7657B2",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "知新聞。知新聞：兒盟社工陳尚潔出庭！剴剴戰士庭外怒喊「重判」。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-knews-071"
+    },
+    {
+      "source_id": "src-knews-072",
+      "title": "知新聞：兒盟社工陳尚潔不認害死剴剴！要求傳3證人",
+      "source_type": "media",
+      "publisher": "知新聞",
+      "publish_date": null,
+      "url": "https://www.knews.com.tw/news/3CC3852D11B2D58CB6BE9CF351B43C2B",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "知新聞。知新聞：兒盟社工陳尚潔不認害死剴剴！要求傳3證人。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-knews-072"
+    },
+    {
+      "source_id": "src-knews-073",
+      "title": "知新聞：剴剴案女社工陳尚潔當媽了！被控造假訪視紀錄",
+      "source_type": "media",
+      "publisher": "知新聞",
+      "publish_date": null,
+      "url": "https://www.knews.com.tw/news/2154622C0394453BFF44B56CDEE41550",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "知新聞。知新聞：剴剴案女社工陳尚潔當媽了！被控造假訪視紀錄。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-knews-073"
+    },
+    {
+      "source_id": "src-knews-074",
+      "title": "知新聞：剴剴案一文看懂始末！為何惡保母姊妹無法判死？",
+      "source_type": "media",
+      "publisher": "知新聞",
+      "publish_date": null,
+      "url": "https://www.knews.com.tw/news/3C7DC43DD3465A43985F4AFB7E6321DA",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "知新聞。知新聞：剴剴案一文看懂始末！為何惡保母姊妹無法判死？。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹"
+      ],
+      "id": "src-knews-074"
+    },
+    {
+      "source_id": "src-knews-075",
+      "title": "知新聞：剴剴遭虐死撇責任！社工陳尚潔出庭鬼打牆 審判長「別浪費時間」",
+      "source_type": "media",
+      "publisher": "知新聞",
+      "publish_date": null,
+      "url": "https://www.knews.com.tw/news/E11F0EDE3F9FA1BB8DA085D71810E18D",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "知新聞。知新聞：剴剴遭虐死撇責任！社工陳尚潔出庭鬼打牆 審判長「別浪費時間」。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-knews-075"
+    },
+    {
+      "source_id": "src-knews-076",
+      "title": "知新聞：兒盟社工連犯10大錯害剴剴遭虐死！陳尚潔現況曝",
+      "source_type": "media",
+      "publisher": "知新聞",
+      "publish_date": null,
+      "url": "https://www.knews.com.tw/news/6AB1267AD3A56AC1D1379EF057AAC0EE",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "知新聞。知新聞：兒盟社工連犯10大錯害剴剴遭虐死！陳尚潔現況曝。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-knews-076"
+    },
+    {
+      "source_id": "src-knews-077",
+      "title": "知新聞：聯手劉彩萱虐死剴剴！劉若琳僅判18年 民眾哭了",
+      "source_type": "media",
+      "publisher": "知新聞",
+      "publish_date": null,
+      "url": "https://www.knews.com.tw/news/DE3E34B31D64B015FB2294B0170317A8",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "知新聞。知新聞：聯手劉彩萱虐死剴剴！劉若琳僅判18年 民眾哭了。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-knews-077"
+    },
+    {
+      "source_id": "src-knews-078",
+      "title": "知新聞：510聲援剴剴「終結兒虐」！凱道集會遊行交管出爐",
+      "source_type": "media",
+      "publisher": "知新聞",
+      "publish_date": null,
+      "url": "https://www.knews.com.tw/news/526C3139F87E453ABBD931DAE7F64520",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "知新聞。知新聞：510聲援剴剴「終結兒虐」！凱道集會遊行交管出爐。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-knews-078"
+    },
+    {
+      "source_id": "src-knews-079",
+      "title": "知新聞：剴剴案被告再+1！居托中心訪視員涉偽造記錄送辦",
+      "source_type": "media",
+      "publisher": "知新聞",
+      "publish_date": null,
+      "url": "https://www.knews.com.tw/news/9CFE2C4271453B889F6EB134C1B00C8E",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "知新聞。知新聞：剴剴案被告再+1！居托中心訪視員涉偽造記錄送辦。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-knews-079"
+    },
+    {
+      "source_id": "src-ltn-096",
+      "title": "自由時報：剴剴案惡保母姊妹二審維持原判 劉彩萱無期徒刑、劉若琳18年",
+      "source_type": "media",
+      "publisher": "自由時報",
+      "publish_date": null,
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5323123",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "自由時報。自由時報：剴剴案惡保母姊妹二審維持原判 劉彩萱無期徒刑、劉若琳18年。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案二審）"
+      ],
+      "id": "src-ltn-096"
+    },
+    {
+      "source_id": "src-ltn-097",
+      "title": "自由時報：剴剴案惡保母再提上訴 高院開訊問庭、檢方建請續押",
+      "source_type": "media",
+      "publisher": "自由時報",
+      "publish_date": null,
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5380967",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "自由時報。自由時報：剴剴案惡保母再提上訴 高院開訊問庭、檢方建請續押。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案二審）"
+      ],
+      "id": "src-ltn-097"
+    },
+    {
+      "source_id": "src-ltn-098",
+      "title": "自由時報：剴剴案二審明宣判 回顧惡保母姊妹虐童惡行惡狀",
+      "source_type": "media",
+      "publisher": "自由時報",
+      "publish_date": null,
+      "url": "https://news.ltn.com.tw/news/society/breakingnews/5322432",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "自由時報。自由時報：剴剴案二審明宣判 回顧惡保母姊妹虐童惡行惡狀。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案二審）"
+      ],
+      "id": "src-ltn-098"
+    },
+    {
+      "source_id": "src-ltn-099",
+      "title": "自由時報：剴剴遭虐死案 保母姊妹各判無期、18年",
+      "source_type": "media",
+      "publisher": "自由時報",
+      "publish_date": null,
+      "url": "https://news.ltn.com.tw/news/life/paper/1706554",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "自由時報。自由時報：剴剴遭虐死案 保母姊妹各判無期、18年。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-ltn-099"
+    },
+    {
+      "source_id": "src-ltn-100",
+      "title": "自由時報：剴剴惡保母另凌虐2嬰幼兒開庭 北檢聲請劉彩萱姊妹互相作證",
+      "source_type": "media",
+      "publisher": "自由時報",
+      "publish_date": null,
+      "url": "https://news.ltn.com.tw/news/Taipei/breakingnews/5356214",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "自由時報。自由時報：剴剴惡保母另凌虐2嬰幼兒開庭 北檢聲請劉彩萱姊妹互相作證。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案）"
+      ],
+      "id": "src-ltn-100"
+    },
+    {
+      "source_id": "src-ltn-117",
+      "title": "自由評論網：黑暗流浪者——回顧「剴剴案」始末及背後政治力",
+      "source_type": "media",
+      "publisher": "自由時報",
+      "publish_date": null,
+      "url": "https://talk.ltn.com.tw/article/breakingnews/4985270",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "自由時報。自由評論網：黑暗流浪者——回顧「剴剴案」始末及背後政治力。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹"
+      ],
+      "id": "src-ltn-117"
+    },
+    {
+      "source_id": "src-mirrormedia-069",
+      "title": "鏡週刊：國民法官首審虐童！剴剴遭虐死案10位國民法官選出",
+      "source_type": "media",
+      "publisher": "鏡週刊",
+      "publish_date": null,
+      "url": "https://www.mirrormedia.mg/story/20250421edi030",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "鏡週刊。鏡週刊：國民法官首審虐童！剴剴遭虐死案10位國民法官選出。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-mirrormedia-069"
+    },
+    {
+      "source_id": "src-misc-025",
+      "title": "臺灣臺北地方法院113年度國審訴字第1號刑事判決（維基文庫重製版）",
+      "source_type": "media",
+      "publisher": "unknown",
+      "publish_date": null,
+      "url": "https://zh.wikisource.org/wiki/%E8%87%BA%E7%81%A3%E8%87%BA%E5%8C%97%E5%9C%B0%E6%96%B9%E6%B3%95%E9%99%A2113%E5%B9%B4%E5%BA%A6%E5%9C%8B%E5%AF%A9%E8%A8%B4%E5%AD%97%E7%AC%AC1%E8%99%9F%E5%88%91%E4%BA%8B%E5%88%A4%E6%B1%BA",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "unknown。臺灣臺北地方法院113年度國審訴字第1號刑事判決（維基文庫重製版）。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹／時間軸"
+      ],
+      "id": "src-misc-025"
+    },
+    {
+      "source_id": "src-misc-031",
+      "title": "刑法第15條（不作為犯）",
+      "source_type": "legislation",
+      "publisher": "unknown",
+      "publish_date": null,
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=15&pcode=C0000001",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "unknown。刑法第15條（不作為犯）。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹（法律爭點）"
+      ],
+      "id": "src-misc-031"
+    },
+    {
+      "source_id": "src-misc-032",
+      "title": "刑法第215條（業務登載不實罪）",
+      "source_type": "legislation",
+      "publisher": "unknown",
+      "publish_date": null,
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=215&pcode=C0000001",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "unknown。刑法第215條（業務登載不實罪）。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹（法律爭點）"
+      ],
+      "id": "src-misc-032"
+    },
+    {
+      "source_id": "src-misc-067",
+      "title": "中央廣播電台：高院認定凌虐事實明確 二審維持原判",
+      "source_type": "media",
+      "publisher": "unknown",
+      "publish_date": null,
+      "url": "https://www.rti.org.tw/news?pid=188717&uid=3",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "unknown。中央廣播電台：高院認定凌虐事實明確 二審維持原判。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案二審）"
+      ],
+      "id": "src-misc-067"
+    },
+    {
+      "source_id": "src-mohw-027",
+      "title": "衛福部針對出養童遭虐致死案件後續策進作為說明",
+      "source_type": "official",
+      "publisher": "衛福部",
+      "publish_date": null,
+      "url": "https://www.mohw.gov.tw/cp-6653-77975-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "衛福部。衛福部針對出養童遭虐致死案件後續策進作為說明。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-mohw-027"
+    },
+    {
+      "source_id": "src-mohw-028",
+      "title": "衛福部偕同教育部共同聯合查核兒福聯盟結果說明",
+      "source_type": "official",
+      "publisher": "衛福部",
+      "publish_date": null,
+      "url": "https://www.mohw.gov.tw/cp-6653-78147-1.html",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "衛福部。衛福部偕同教育部共同聯合查核兒福聯盟結果說明。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹"
+      ],
+      "id": "src-mohw-028"
+    },
+    {
+      "source_id": "src-mohw-033",
+      "title": "待出養1歲童疑遭虐死 衛福部要求兒盟暫停新收案（2024-03-13）",
+      "source_type": "official",
+      "publisher": "衛福部",
+      "publish_date": null,
+      "url": "https://www.cna.com.tw/news/ahel/202403130096.aspx",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "衛福部。待出養1歲童疑遭虐死 衛福部要求兒盟暫停新收案（2024-03-13）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-mohw-033"
+    },
+    {
+      "source_id": "src-mohw-042",
+      "title": "衛福部、教育部查核兒盟重大缺失（2024-03-25）",
+      "source_type": "official",
+      "publisher": "衛福部",
+      "publish_date": null,
+      "url": "https://news.pts.org.tw/article/687006",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "衛福部。衛福部、教育部查核兒盟重大缺失（2024-03-25）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-mohw-042"
+    },
+    {
+      "source_id": "src-mohw-044",
+      "title": "剴剴案監督疏失 監院糾正衛福部及雙北市府（2025-05-29）",
+      "source_type": "official",
+      "publisher": "衛福部",
+      "publish_date": null,
+      "url": "https://news.pts.org.tw/article/753514",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "衛福部。剴剴案監督疏失 監院糾正衛福部及雙北市府（2025-05-29）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-mohw-044"
+    },
+    {
+      "source_id": "src-mohw-050",
+      "title": "監院公布剴剴案調查報告 糾正衛福部及雙北市府（2025-05-30）",
+      "source_type": "official",
+      "publisher": "衛福部",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/6656/8773735",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "衛福部。監院公布剴剴案調查報告 糾正衛福部及雙北市府（2025-05-30）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-mohw-050"
+    },
+    {
+      "source_id": "src-mohw-065",
+      "title": "衛福部發文兒盟暫停新收出養兒童…社工上銬爭議（2024-03-13）",
+      "source_type": "official",
+      "publisher": "衛福部",
+      "publish_date": null,
+      "url": "https://www.businesstoday.com.tw/article/category/183027/post/202403130030/",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "衛福部。衛福部發文兒盟暫停新收出養兒童…社工上銬爭議（2024-03-13）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-mohw-065"
+    },
+    {
+      "source_id": "src-mohw-106",
+      "title": "大紀元：剴剴案 監院糾正衛福部、雙北市府（2025-05-29）",
+      "source_type": "official",
+      "publisher": "衛福部",
+      "publish_date": null,
+      "url": "https://www.epochtimes.com/b5/25/5/29/n14520235.htm",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "衛福部。大紀元：剴剴案 監院糾正衛福部、雙北市府（2025-05-29）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-mohw-106"
+    },
+    {
+      "id": "src-mohw-dosa-74724",
+      "publisher": "衛生福利部社會救助及社工司",
+      "title": "立法院三讀通過「社會工作師法」部分條文修正",
+      "url": "https://dep.mohw.gov.tw/DOSAASW/fp-609-74724-103.html"
+    },
+    {
+      "id": "src-mohw-dosa-ethics",
+      "publisher": "衛生福利部社會救助及社工司",
+      "title": "行政規則－社會救助及社工司 (社會工作倫理守則)",
+      "url": "https://dep.mohw.gov.tw/DOSAASW/cp-536-4692-103.html"
+    },
+    {
+      "source_id": "src-newtalk-095",
+      "title": "新頭殼Newtalk：剴剴案社工開庭相關報導（2026-01-29）",
+      "source_type": "media",
+      "publisher": "新頭殼",
+      "publish_date": null,
+      "url": "https://newtalk.tw/news/view/2026-01-29/1017584",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "新頭殼。新頭殼Newtalk：剴剴案社工開庭相關報導（2026-01-29）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-newtalk-095"
+    },
+    {
+      "source_id": "src-nextapple-110",
+      "title": "蘋果新聞網：剴剴案遭監院糾正！訪視紀錄和事實不符 蔣萬安：該罰就罰",
+      "source_type": "media",
+      "publisher": "蘋果新聞網",
+      "publish_date": null,
+      "url": "https://tw.nextapple.com/life/20250529/BF9CDF0098F0B8E2817A5CBF017998D8",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "蘋果新聞網。蘋果新聞網：剴剴案遭監院糾正！訪視紀錄和事實不符 蔣萬安：該罰就罰。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-nextapple-110"
+    },
+    {
+      "source_id": "src-nnyy-115",
+      "title": "nnyy.tw：剴剴事件懶人包——保母虐嬰、白麗芳請辭，究竟誰該負最大責任？",
+      "source_type": "media",
+      "publisher": "nnyy",
+      "publish_date": null,
+      "url": "https://nnyy.tw/kaikai/",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "nnyy。nnyy.tw：剴剴事件懶人包——保母虐嬰、白麗芳請辭，究竟誰該負最大責任？。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹"
+      ],
+      "id": "src-nnyy-115"
+    },
+    {
+      "source_id": "src-nownews-092",
+      "title": "NOWnews：社工擺爛害死剴剴又造假報告 出庭「耍特權」請法院開管制門",
+      "source_type": "media",
+      "publisher": "NOWnews",
+      "publish_date": null,
+      "url": "https://www.nownews.com/news/6671977",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "NOWnews。NOWnews：社工擺爛害死剴剴又造假報告 出庭「耍特權」請法院開管制門。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-nownews-092"
+    },
+    {
+      "source_id": "src-nownews-093",
+      "title": "NOWnews：檢察官起訴錯了？剴剴案社工：督導保母不是兒盟職責",
+      "source_type": "media",
+      "publisher": "NOWnews",
+      "publish_date": null,
+      "url": "https://www.nownews.com/news/6672281",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "NOWnews。NOWnews：檢察官起訴錯了？剴剴案社工：督導保母不是兒盟職責。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-nownews-093"
+    },
+    {
+      "source_id": "src-ntdtv-102",
+      "title": "新唐人電視台（NTDTV）：涉虐死剴剴案 二審仍判劉彩萱無期徒刑、劉若琳18年",
+      "source_type": "media",
+      "publisher": "新唐人",
+      "publish_date": null,
+      "url": "https://www.ntdtv.com/gb/2026/01/27/a104060642.html",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "新唐人。新唐人電視台（NTDTV）：涉虐死剴剴案 二審仍判劉彩萱無期徒刑、劉若琳18年。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案二審）"
+      ],
+      "id": "src-ntdtv-102"
+    },
+    {
+      "source_id": "src-peoplenews-118",
+      "title": "民報：剴剴案不能沉／誰該為「消失的3個月」負責？",
+      "source_type": "media",
+      "publisher": "民報",
+      "publish_date": null,
+      "url": "https://www.peoplenews.tw/articles/0450de29d3",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "民報。民報：剴剴案不能沉／誰該為「消失的3個月」負責？。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹"
+      ],
+      "id": "src-peoplenews-118"
+    },
+    {
+      "source_id": "src-pts-043",
+      "title": "虐童案補破網 北北基桃提兒童保護7+1政策（2024-03-15）",
+      "source_type": "media",
+      "publisher": "公視",
+      "publish_date": null,
+      "url": "https://news.pts.org.tw/article/685677",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "公視。虐童案補破網 北北基桃提兒童保護7+1政策（2024-03-15）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸"
+      ],
+      "id": "src-pts-043"
+    },
+    {
+      "source_id": "src-pts-045",
+      "title": "剴剴案二審判決駁回上訴 維持無期、18年（2026-01-27）",
+      "source_type": "media",
+      "publisher": "公視",
+      "publish_date": null,
+      "url": "https://news.pts.org.tw/article/792567",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "公視。剴剴案二審判決駁回上訴 維持無期、18年（2026-01-27）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案二審）"
+      ],
+      "id": "src-pts-045"
+    },
+    {
+      "source_id": "src-pts-046",
+      "title": "剴剴案今再傳陳姓社工 北院外聚抗議民眾",
+      "source_type": "media",
+      "publisher": "公視",
+      "publish_date": null,
+      "url": "https://news.pts.org.tw/article/783216",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "公視。剴剴案今再傳陳姓社工 北院外聚抗議民眾。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-pts-046"
+    },
+    {
+      "source_id": "src-pts-047",
+      "title": "剴剴案社工4/16宣判 藝人、律師提5大改革訴求（2026-04-02）",
+      "source_type": "media",
+      "publisher": "公視",
+      "publish_date": null,
+      "url": "https://news.pts.org.tw/article/801810",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "公視。剴剴案社工4/16宣判 藝人、律師提5大改革訴求（2026-04-02）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-pts-047"
+    },
+    {
+      "source_id": "src-pts-048",
+      "title": "剴剴遭虐死案兒福聯盟社工 檢方依偽造文書、過失致死起訴（2024-08-27）",
+      "source_type": "media",
+      "publisher": "公視",
+      "publish_date": null,
+      "url": "https://news.pts.org.tw/article/711876",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "公視。剴剴遭虐死案兒福聯盟社工 檢方依偽造文書、過失致死起訴（2024-08-27）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（起訴）"
+      ],
+      "id": "src-pts-048"
+    },
+    {
+      "source_id": "src-pts-049",
+      "title": "剴剴遭保母姊妹虐死案宣判 姊姊無期徒刑、妹妹判刑18年（2025-05-13）",
+      "source_type": "media",
+      "publisher": "公視",
+      "publish_date": null,
+      "url": "https://news.pts.org.tw/article/750931",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "公視。剴剴遭保母姊妹虐死案宣判 姊姊無期徒刑、妹妹判刑18年（2025-05-13）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-pts-049"
+    },
+    {
+      "source_id": "src-rightplus-114",
+      "title": "Right Plus 多多益善：剴剴案社工一審攻防——檢方要求從重量刑、律師呼籲社安網不該成卸責大賽（2026-03-02）",
+      "source_type": "media",
+      "publisher": "多多益善",
+      "publish_date": null,
+      "url": "https://rightplus.org/2026/03/02/social-safety-net-2/",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "多多益善。Right Plus 多多益善：剴剴案社工一審攻防——檢方要求從重量刑、律師呼籲社安網不該成卸責大賽（2026-03-02）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-rightplus-114"
+    },
+    {
+      "source_id": "src-scmp-127",
+      "title": "South China Morning Post: Taiwan nanny sisters accused of torturing baby to death",
+      "source_type": "media",
+      "publisher": "South China",
+      "publish_date": null,
+      "url": "https://www.scmp.com/news/people-culture/trending-china/article/3255473/taiwan-nanny-sisters-accused-torturing-baby-death-beatings-sleep-restraints-food-deprivation-3-month",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "South China。South China Morning Post: Taiwan nanny sisters accused of torturing baby to death。",
+      "archive_status": "active",
+      "tags": [
+        "國際報導"
+      ],
+      "id": "src-scmp-127"
+    },
+    {
+      "source_id": "src-setn-091",
+      "title": "三立新聞網：剴剴慘斷4顆牙！社工陳尚潔竟淡回：希望其他牙齒都安好",
+      "source_type": "media",
+      "publisher": "三立",
+      "publish_date": null,
+      "url": "https://www.setn.com/News.aspx?NewsID=1798591",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "三立。三立新聞網：剴剴慘斷4顆牙！社工陳尚潔竟淡回：希望其他牙齒都安好。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-setn-091"
+    },
+    {
+      "source_id": "src-sfaa-029",
+      "title": "社家署居家托育服務中心訪視工作指引（索引頁）",
+      "source_type": "official",
+      "publisher": "社家署",
+      "publish_date": null,
+      "url": "https://www.sfaa.gov.tw/SFAA/Pages/Detail.aspx?nodeid=1530&pNo=1&pid=13097",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "社家署。社家署居家托育服務中心訪視工作指引（索引頁）。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹"
+      ],
+      "id": "src-sfaa-029"
+    },
+    {
+      "source_id": "src-sfaa-030",
+      "title": "社家署居家托育服務中心訪視工作指引（PDF全文）",
+      "source_type": "official",
+      "publisher": "社家署",
+      "publish_date": null,
+      "url": "https://www.sfaa.gov.tw/SFAA/Pages/ashx/File.ashx?FilePath=~%2FFile%2FAttach%2F13097%2FFile_192084.pdf",
+      "reliability_tier": 1,
+      "language": "zh-TW",
+      "citation_text": "社家署。社家署居家托育服務中心訪視工作指引（PDF全文）。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹"
+      ],
+      "id": "src-sfaa-030"
+    },
+    {
+      "source_id": "src-sunnyswa-119",
+      "title": "陽光社會福利事業基金會：「剴剴案兒福聯盟高官當庭大翻供」評論",
+      "source_type": "media",
+      "publisher": "陽光",
+      "publish_date": null,
+      "url": "https://www.sunnyswa.org.tw/48254/%E3%80%8C%E5%89%B4%E5%89%B4%E6%A1%88%E5%85%92%E7%A6%8F%E8%81%AF%E7%9B%9F%E9%AB%98%E5%AE%98%E7%95%B6%E5%BA%AD%E5%A4%A7%E7%BF%BB%E4%BE%9B%EF%BC%81%E6%94%B9%E5%8F%A3%E7%A8%B1%E9%99%B3%E5%B0%9A%E6%BD%94",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "陽光。陽光社會福利事業基金會：「剴剴案兒福聯盟高官當庭大翻供」評論。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹（社工案）"
+      ],
+      "id": "src-sunnyswa-119"
+    },
+    {
+      "id": "src-supp-v3-000",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://dep.mohw.gov.tw/DOSAASW/fp-609-74724-103.html",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-001",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://dep.mohw.gov.tw/DOSAASW/cp-536-4692-103.html",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-002",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.tpcsw.org.tw/about/ethics/1/124",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-003",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.tpcsw.org.tw/about/ethics/0/123",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-004",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.civilmedia.tw/archives/134244",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-005",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://udn.com/news/story/7315/8904247",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-006",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.tpcsw.org.tw/about/ethics/1/124",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-007",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.tpcsw.org.tw/about/ethics/0/123",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-008",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://dep.mohw.gov.tw/DOSAASW/fp-609-74724-103.html",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-009",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.civilmedia.tw/archives/134244",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-010",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.knews.com.tw/news/78724488F13BDDC6A520FDA21277AF82",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-011",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://news.tvbs.com.tw/local/2935043",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-012",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.knews.com.tw/news/E11F0EDE3F9FA1BB8DA085D71810E18D",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-013",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.knews.com.tw/news/78724488F13BDDC6A520FDA21277AF82",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-014",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.knews.com.tw/news/9B9CBB494C2290454E09B4920B1C2039",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-015",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://news.tvbs.com.tw/local/3056667",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-016",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.nexttv.com.tw/NextTV/News/Home/Society/2025-11-27/2189113.html",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-017",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.knews.com.tw/news/9B9CBB494C2290454E09B4920B1C2039",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-018",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://news.tvbs.com.tw/local/3056667",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-019",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.taisounds.com/news/content/95/227569",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-020",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.knews.com.tw/news/9BE23D4181E54DF32214EA68759F837E",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-021",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.taisounds.com/news/content/95/238852",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-022",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://news.tvbs.com.tw/local/3114179",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-023",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://udn.com/news/story/7321/9297622",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-024",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-025",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.taisounds.com/news/content/95/230117",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-026",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "id": "src-supp-v3-027",
+      "title": "Supplemental Resource",
+      "publisher": "Institutional Data",
+      "url": "https://www.taisounds.com/news/content/95/230117",
+      "reliability_tier": 2,
+      "source_type": "司法/行政論述",
+      "research_phase": 7
+    },
+    {
+      "source_id": "src-taisounds-080",
+      "title": "太報：涉疏失害死剴剴！社工陳尚潔否認知情 證人曝她來電（2025-11-27）",
+      "source_type": "media",
+      "publisher": "太報",
+      "publish_date": null,
+      "url": "https://www.taisounds.com/news/content/95/227569",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "太報。太報：涉疏失害死剴剴！社工陳尚潔否認知情 證人曝她來電（2025-11-27）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-taisounds-080"
+    },
+    {
+      "source_id": "src-taisounds-081",
+      "title": "太報：獨家／超荒謬！剴剴案再爆兒盟涉「串證」（2025-12-18）",
+      "source_type": "media",
+      "publisher": "太報",
+      "publish_date": null,
+      "url": "https://www.taisounds.com/news/content/97/231373",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "太報。太報：獨家／超荒謬！剴剴案再爆兒盟涉「串證」（2025-12-18）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-taisounds-081"
+    },
+    {
+      "source_id": "src-taisounds-082",
+      "title": "太報：二度不認罪也不願與家屬和解 「剴剴案」失職社工陳尚潔今三度開庭（2025-07-17）",
+      "source_type": "media",
+      "publisher": "太報",
+      "publish_date": null,
+      "url": "https://www.taisounds.com/news/content/95/202106",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "太報。太報：二度不認罪也不願與家屬和解 「剴剴案」失職社工陳尚潔今三度開庭（2025-07-17）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-taisounds-082"
+    },
+    {
+      "source_id": "src-taisounds-083",
+      "title": "太報：開工就開庭！剴剴案社工陳尚潔提早一個半小時現身（2026-02-23）",
+      "source_type": "media",
+      "publisher": "太報",
+      "publish_date": null,
+      "url": "https://www.taisounds.com/news/content/97/242340",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "太報。太報：開工就開庭！剴剴案社工陳尚潔提早一個半小時現身（2026-02-23）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-taisounds-083"
+    },
+    {
+      "source_id": "src-taisounds-084",
+      "title": "太報：「剴剴案」社工開庭吐心聲（2025-04-17）",
+      "source_type": "media",
+      "publisher": "太報",
+      "publish_date": null,
+      "url": "https://www.taisounds.com/news/content/97/185372",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "太報。太報：「剴剴案」社工開庭吐心聲（2025-04-17）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-taisounds-084"
+    },
+    {
+      "source_id": "src-taiwannews-126",
+      "title": "Taiwan News: Taipei court indicts sisters for torture and death of toddler（2024-04-18）",
+      "source_type": "media",
+      "publisher": "Taiwan News",
+      "publish_date": null,
+      "url": "https://www.taiwannews.com.tw/news/5668667",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "Taiwan News。Taiwan News: Taipei court indicts sisters for torture and death of toddler（2024-04-18）。",
+      "archive_status": "active",
+      "tags": [
+        "國際報導"
+      ],
+      "id": "src-taiwannews-126"
+    },
+    {
+      "source_id": "src-thenewslens-085",
+      "title": "關鍵評論網：「剴剴案」兒盟社工陳尚潔開庭不認罪：訪視時未見傷痕（2025-07-17）",
+      "source_type": "media",
+      "publisher": "關鍵評論網",
+      "publish_date": null,
+      "url": "https://www.thenewslens.com/article/255943",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "關鍵評論網。關鍵評論網：「剴剴案」兒盟社工陳尚潔開庭不認罪：訪視時未見傷痕（2025-07-17）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-thenewslens-085"
+    },
+    {
+      "id": "src-tpcsw-complaint-proc",
+      "publisher": "臺北市社會工作師公會",
+      "title": "倫理申訴案件處理程序",
+      "url": "https://www.tpcsw.org.tw/about/ethics/0/123"
+    },
+    {
+      "id": "src-tpcsw-ethics-rules",
+      "publisher": "臺北市社會工作師公會",
+      "title": "社會工作倫理委員會組織簡則",
+      "url": "https://www.tpcsw.org.tw/about/ethics/1/124"
+    },
+    {
+      "id": "src-tswu-oppose-ethics",
+      "publisher": "臺北市社會工作人員職業工會",
+      "title": "反對在司法定案前公布倫理審查結果連署",
+      "url": "https://www.civilmedia.tw/archives/134244"
+    },
+    {
+      "source_id": "src-tvbs-086",
+      "title": "TVBS新聞網：撇清害死剴剴！社工陳尚潔否認知情 證人指她曾來電告知（2025-11-27）",
+      "source_type": "media",
+      "publisher": "TVBS",
+      "publish_date": null,
+      "url": "https://news.tvbs.com.tw/local/3056667",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "TVBS。TVBS新聞網：撇清害死剴剴！社工陳尚潔否認知情 證人指她曾來電告知（2025-11-27）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-tvbs-086"
+    },
+    {
+      "source_id": "src-tvbs-087",
+      "title": "TVBS新聞網：剴剴案社工將宣判！近20所社工系所齊發聲",
+      "source_type": "media",
+      "publisher": "TVBS",
+      "publish_date": null,
+      "url": "https://news.tvbs.com.tw/life/3167858",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "TVBS。TVBS新聞網：剴剴案社工將宣判！近20所社工系所齊發聲。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-tvbs-087"
+    },
+    {
+      "source_id": "src-twreporter-111",
+      "title": "報導者：剴剴之死背後1——聯繫斷裂的公務機器裡，缺乏一致監管標準的保母托育系統",
+      "source_type": "media",
+      "publisher": "報導者",
+      "publish_date": null,
+      "url": "https://www.twreporter.org/a/problems-behind-a-boy-death-in-nanny-care",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "報導者。報導者：剴剴之死背後1——聯繫斷裂的公務機器裡，缺乏一致監管標準的保母托育系統。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹"
+      ],
+      "id": "src-twreporter-111"
+    },
+    {
+      "source_id": "src-twreporter-112",
+      "title": "報導者：剴剴案國民法官開庭第一週——移工、前保母、被告之子，4位關鍵證人眼中的虐童真相",
+      "source_type": "media",
+      "publisher": "報導者",
+      "publish_date": null,
+      "url": "https://www.twreporter.org/a/taiwan-citizen-judge-a-boy-death-in-nanny-care-1",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "報導者。報導者：剴剴案國民法官開庭第一週——移工、前保母、被告之子，4位關鍵證人眼中的虐童真相。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-twreporter-112"
+    },
+    {
+      "source_id": "src-twreporter-113",
+      "title": "報導者：長達3週國民法官公開審理，剴剴案宣判——保母姊妹無期徒刑、18年有期徒刑",
+      "source_type": "media",
+      "publisher": "報導者",
+      "publish_date": null,
+      "url": "https://www.twreporter.org/a/taiwan-citizen-judge-a-boy-death-in-nanny-care-2",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "報導者。報導者：長達3週國民法官公開審理，剴剴案宣判——保母姊妹無期徒刑、18年有期徒刑。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-twreporter-113"
+    },
+    {
+      "source_id": "src-udn-051",
+      "title": "剴剴案社工宣判在即 19社工系所聲明（2026-04）",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/6885/9418160",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。剴剴案社工宣判在即 19社工系所聲明（2026-04）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-udn-051"
+    },
+    {
+      "source_id": "src-udn-052",
+      "title": "剴剴遭虐死案起訴 北檢：主責社工藏匿證據、干擾辦案（2024-08-27）",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/7321/8187980",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。剴剴遭虐死案起訴 北檢：主責社工藏匿證據、干擾辦案（2024-08-27）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（起訴）"
+      ],
+      "id": "src-udn-052"
+    },
+    {
+      "source_id": "src-udn-053",
+      "title": "剴剴凌虐致死案 保母劉彩萱判無期徒刑、劉若琳判刑18年（2025-05-13）",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/7315/8736551",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。剴剴凌虐致死案 保母劉彩萱判無期徒刑、劉若琳判刑18年（2025-05-13）。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-udn-053"
+    },
+    {
+      "source_id": "src-udn-054",
+      "title": "剴剴案保母為何遭判無期徒刑？法院判決理由曝光",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/124487/8737487",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。剴剴案保母為何遭判無期徒刑？法院判決理由曝光。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-udn-054"
+    },
+    {
+      "source_id": "src-udn-055",
+      "title": "剴剴凌虐致死…劉彩萱判無期徒刑 審判長：她以虐取樂",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/7315/8736705",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。剴剴凌虐致死…劉彩萱判無期徒刑 審判長：她以虐取樂。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-udn-055"
+    },
+    {
+      "source_id": "src-udn-056",
+      "title": "虐死剴剴保母劉彩萱、劉若琳移審高院 有逃亡可能2人皆續押",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/7321/8843324",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。虐死剴剴保母劉彩萱、劉若琳移審高院 有逃亡可能2人皆續押。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案二審）"
+      ],
+      "id": "src-udn-056"
+    },
+    {
+      "source_id": "src-udn-057",
+      "title": "剴剴案女社工否認犯罪 出庭稱被誤會「很委屈」",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/7315/8681472",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。剴剴案女社工否認犯罪 出庭稱被誤會「很委屈」。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-udn-057"
+    },
+    {
+      "source_id": "src-udn-058",
+      "title": "剴剴案女社工出庭 藝人郁方：保母下18層地獄、陳尚潔要下19層",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/7321/9339205",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。剴剴案女社工出庭 藝人郁方：保母下18層地獄、陳尚潔要下19層。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-udn-058"
+    },
+    {
+      "source_id": "src-udn-059",
+      "title": "剴剴虐死案女社工仍無罪答辯 一審宣判日期曝光",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/7315/9346339",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。剴剴虐死案女社工仍無罪答辯 一審宣判日期曝光。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-udn-059"
+    },
+    {
+      "source_id": "src-udn-060",
+      "title": "涉造假訪視紀錄 剴剴案社工陳尚潔卸責：保母裝愛小孩",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/7321/9340342",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。涉造假訪視紀錄 剴剴案社工陳尚潔卸責：保母裝愛小孩。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-udn-060"
+    },
+    {
+      "source_id": "src-udn-061",
+      "title": "剴剴案陳姓社工涉過失致死 北市婦幼科長出庭作證",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/7321/9297086",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。剴剴案陳姓社工涉過失致死 北市婦幼科長出庭作證。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-udn-061"
+    },
+    {
+      "source_id": "src-udn-062",
+      "title": "剴剴案兒盟社工涉隱匿證據 審理中",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/7321/9292759",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。剴剴案兒盟社工涉隱匿證據 審理中。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-udn-062"
+    },
+    {
+      "source_id": "src-udn-063",
+      "title": "剴剴案修法三讀！虐死未滿7歲童 最重死刑",
+      "source_type": "media",
+      "publisher": "聯合報",
+      "publish_date": null,
+      "url": "https://udn.com/news/story/124550/8882346",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "聯合報。剴剴案修法三讀！虐死未滿7歲童 最重死刑。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（修法）"
+      ],
+      "id": "src-udn-063"
+    },
+    {
+      "id": "src-udn-8904247",
+      "publisher": "聯合報",
+      "title": "剴剴案陳姓社工倫理審查將公布 北市社工工會恐妨礙司法公正",
+      "url": "https://udn.com/news/story/7315/8904247"
+    },
+    {
+      "source_id": "src-wikipedia-124",
+      "title": "維基百科：剴剴案條目（正體中文）",
+      "source_type": "commentary",
+      "publisher": "維基百科",
+      "publish_date": null,
+      "url": "https://zh.wikipedia.org/zh-tw/%E5%89%B4%E5%89%B4%E6%A1%88",
+      "reliability_tier": 4,
+      "language": "zh-TW",
+      "citation_text": "維基百科。維基百科：剴剴案條目（正體中文）。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹／時間軸"
+      ],
+      "id": "src-wikipedia-124"
+    },
+    {
+      "source_id": "src-wikipedia-125",
+      "title": "維基百科：剴剴案條目（繁體中文/hant）",
+      "source_type": "commentary",
+      "publisher": "維基百科",
+      "publish_date": null,
+      "url": "https://zh.wikipedia.org/zh-hant/%E5%89%B4%E5%89%B4%E6%A1%88",
+      "reliability_tier": 4,
+      "language": "zh-TW",
+      "citation_text": "維基百科。維基百科：剴剴案條目（繁體中文/hant）。",
+      "archive_status": "active",
+      "tags": [
+        "案情介紹／時間軸"
+      ],
+      "id": "src-wikipedia-125"
+    },
+    {
+      "source_id": "src-yahoo-135",
+      "title": "【剴剴案宣判】惡保母虐死剴剴遭重判 主責社工涉過失致死仍由法院審理中",
+      "source_type": "media",
+      "publisher": "Yahoo",
+      "publish_date": null,
+      "url": "https://tw.news.yahoo.com/%E5%89%B4%E5%89%B4%E6%A1%88%E5%AE%A3%E5%88%A4-%E6%83%A1%E4%BF%9D%E6%AF%8D%E8%99%90%E6%AD%BB%E5%89%B4%E5%89%B4%E9%81%AD%E9%87%8D%E5%88%A4-%E4%B8%BB%E8%B2%AC%E7%A4%BE%E5%B7%A5%E6%B6%89%E9%81%8E%E5%A4%B1%E8%87%B4%E6%AD%BB%E4%BB%8D%E7%94%B1%E6%B3%95%E9%99%A2%E5%AF%A9%E7%90%86%E4%B8%AD-071902956.html",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "Yahoo。【剴剴案宣判】惡保母虐死剴剴遭重判 主責社工涉過失致死仍由法院審理中。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（保母案一審）"
+      ],
+      "id": "src-yahoo-135"
+    },
+    {
+      "source_id": "src-yahoo-137",
+      "title": "「剴剴條款」三讀通過 虐童致死最重判死刑",
+      "source_type": "media",
+      "publisher": "Yahoo",
+      "publish_date": null,
+      "url": "https://tw.news.yahoo.com/%E5%89%B4%E5%89%B4%E6%A2%9D%E6%AC%BE-%E4%B8%89%E8%AE%80%E9%80%9A%E9%81%8E-%E8%99%90%E7%AB%A5%E8%87%B4%E6%AD%BB%E6%9C%80%E9%87%8D%E5%88%A4%E6%AD%BB%E5%88%91-044136828.html",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "Yahoo。「剴剴條款」三讀通過 虐童致死最重判死刑。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（修法）"
+      ],
+      "id": "src-yahoo-137"
+    },
+    {
+      "source_id": "src-yahoo-138",
+      "title": "拚「剴剴條款」三讀 綠白這原因爆小衝突",
+      "source_type": "media",
+      "publisher": "Yahoo",
+      "publish_date": null,
+      "url": "https://tw.news.yahoo.com/%E6%8B%9A-%E5%89%B4%E5%89%B4%E6%A2%9D%E6%AC%BE-%E4%B8%89%E8%AE%80-%E7%B6%A0%E7%99%BD%E9%80%99%E5%8E%9F%E5%9B%A0%E7%88%86%E5%B0%8F%E8%A1%9D%E7%AA%81-020558696.html",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "Yahoo。拚「剴剴條款」三讀 綠白這原因爆小衝突。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（修法）"
+      ],
+      "id": "src-yahoo-138"
+    },
+    {
+      "source_id": "src-yahoo-139",
+      "title": "「剴剴案」社工開庭吐心聲 「我覺得心痛、難過，但被起訴很委曲」",
+      "source_type": "media",
+      "publisher": "Yahoo",
+      "publish_date": null,
+      "url": "https://tw.news.yahoo.com/%E5%89%B4%E5%89%B4%E6%A1%88-%E7%A4%BE%E5%B7%A5%E9%96%8B%E5%BA%AD%E5%90%90%E5%BF%83%E8%81%B2-%E6%88%91%E8%A6%BA%E5%BE%97%E5%BF%83%E7%97%9B-%E9%9B%A3%E9%81%8E-%E4%BD%86%E8%A2%AB%E8%B5%B7%E8%A8%B4%E5%BE%88%E5%A7%94%E6%9B%B2-102750639.html",
+      "reliability_tier": 2,
+      "language": "zh-TW",
+      "citation_text": "Yahoo。「剴剴案」社工開庭吐心聲 「我覺得心痛、難過，但被起訴很委曲」。",
+      "archive_status": "active",
+      "tags": [
+        "時間軸（社工案）"
+      ],
+      "id": "src-yahoo-139"
+    }
+  ],
+  "entities": [
+    {
+      "entity_id": "prs-bai-li-fang",
+      "name": "白麗芳",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "兒福聯盟前執行長",
+      "affiliation": "org-cwlf",
+      "description_short": "兒福聯盟前執行長",
+      "case_involvement": "witness-neutral",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-cwlf"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "id": "prs-bai-li-fang"
+    },
+    {
+      "entity_id": "prs-chen-shang-jie",
+      "name": "陳尚潔",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "兒福聯盟出養社工，本案被告",
+      "affiliation": "org-cwlf",
+      "description_short": "兒福聯盟出養社工，本案被告",
+      "case_involvement": "defendant",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-cwlf"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "research_category": "Defendant (社工)",
+      "professional_positioning": "[陳尚潔／自我定位：不是主責社工，而是個案出養社工]\u000b陳尚潔在庭上最核心的自我界定是：她不是「主責社工」，而是個案出養社工。她主張，除了她之外，還有新北市樹鶯社會福利服務中心社工與臺北市文山區居家托育服務中心訪視員共同服務；她的工作是依兒福聯盟規定蒐集資訊、評估兒童發展與照顧者說法，而不是一人獨力負責全部安全。她並進一步主張，「主責」是指縣市政府端社工，民間團體社工不能擔任主責社工。 (知新聞)\u000b原始網址名稱：不認害死剴剴！兒盟社工陳尚潔出庭「4警護送」　甩鍋不認罪被法官質疑\u000b原始網址：\rhttps://www.knews.com.tw/news/78724488F13BDDC6A520FDA21277AF82\r原始網址名稱：剴剴案遭轟黑心社工！陳尚潔過失致死起訴　開庭辯非職責範圍\u000b原始網址：\rhttps://news.tvbs.com.tw/local/2935043\r來源簡稱或單位名稱：【知新聞／TVBS】\r[陳尚潔／責任邊界：不是去突襲檢查，也不是去監督保母]\u000b在 2026-02-26 辯論終結前，知新聞報導引述陳尚潔再度表明，她到保母家並非去做「突襲檢查」，也不是去監督保母，而是執行出養訪視與了解狀況。這一條把她的角色界線講得更清楚：她試圖將自己的法定與實務位置，限縮在收出養服務流程內，而不是托育監管或行政監督。 (知新聞)\u000b原始網址名稱：剴剴遭虐死撇責任！社工陳尚潔出庭辯詞鬼打牆　審判長傻眼：別浪費時間\u000b原始網址：\rhttps://www.knews.com.tw/news/E11F0EDE3F9FA1BB8DA085D71810E18D\r原始網址名稱：不認害死剴剴！兒盟社工陳尚潔出庭「4警護送」　甩鍋不認罪被法官質疑\u000b原始網址：\rhttps://www.knews.com.tw/news/78724488F13BDDC6A520FDA21277AF82\r來源簡稱或單位名稱：【知新聞】\r[施盈如／制度界定：若以安置為前提，本案沒有所謂主責社工]\u000b2025-11-27 的庭訊報導中，新北市政府社會局樹鶯社會福利服務中心社工施盈如 表示，本案若以「安置」作為制度前提來看，剴剴並沒有進入保護安置或委託安置程序，因此沒有所謂主責社工。她的說法把「主責」這個概念直接綁到安置制度入口，而不是泛指任何有接觸過個案的人。這是整個責任界線辯論裡最關鍵的制度型說法之一。 (知新聞)\u000b原始網址名稱：不認害死剴剴！兒盟社工陳尚潔辯訪視沒看到傷勢　證人落淚打臉：曾來電詢問\u000b原始網址：\rhttps://www.knews.com.tw/news/9B9CBB494C2290454E09B4920B1C2039\r原始網址名稱：撇清害死剴剴！社工陳尚潔否認知情　證人指她曾來電告知：額頭有傷\u000b原始網址：\rhttps://news.tvbs.com.tw/local/3056667\r來源簡稱或單位名稱：【知新聞／TVBS】\r[施盈如／分工界定：她追原生家庭，陳尚潔追孩子近況]\u000b另有庭訊報導指出，施盈如說明她與陳尚潔曾討論分工：由陳尚潔追蹤剴剴近況，而她則負責原生家庭狀況。這條說法的重要性在於，它把兩位社工的角色切成「出養後兒童追蹤」與「原生家庭支持」兩條線，而不是單一主責。 (知新聞)\u000b原始網址名稱：剴剴案！ 陳姓社工堅不認罪　證人哽咽批推卸責任\u000b原始網址：\rhttps://www.nexttv.com.tw/NextTV/News/Home/Society/2025-11-27/2189113.html\r原始網址名稱：不認害死剴剴！兒盟社工陳尚潔辯訪視沒看到傷勢　證人落淚打臉：曾來電詢問\u000b原始網址：\rhttps://www.knews.com.tw/news/9B9CBB494C2290454E09B4920B1C2039\r來源簡稱或單位名稱：【壹新聞／知新聞】\r[徐珮華／中央制度端定位：收出養媒合屬特許行業，社工是制度內媒合專業人員]\u000b衛生福利部社會及家庭署家庭支持組家庭資源科相關證人徐珮華在庭上被媒體引述時，重點不在個人卸責，而是從中央制度端界定：收出養媒合機構是特許行業，從事媒合的專業人員須符合資格，且剴剴案後主管機關已把在職訓練、兒虐辨識等要求更明文化。她的角色定位是制度證人，用來說明社工角色被設計在哪一個法制框架裡。 (知新聞)\u000b原始網址名稱：撇清害死剴剴！社工陳尚潔否認知情　證人指她曾來電告知：額頭有傷\u000b原始網址：\rhttps://news.tvbs.com.tw/local/3056667\r原始網址名稱：涉疏失害死剴剴！社工陳尚潔否認知情 證人曝她來電：說額頭有瘀青\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/227569\r來源簡稱或單位名稱：【TVBS／太報】\r[林心慈／訪視員定位：觀察到「安靜」但未認定達異常程度]\u000b臺北市文山區居家托育服務中心訪視員林心慈 在庭上被引述的核心是：她認為剴剴雖然較安靜，但尚未達到她判定為異常的程度，而且保母在當時呈現出相對積極配合的態度。這一條是「訪視員如何界定異常門檻」的代表說法，也是後續爭議焦點。 (知新聞)\u000b原始網址名稱：剴剴案二審今宣判！兒盟社工陳尚潔10疏失害錯失黃金救援　辯：沒看見傷痕\u000b原始網址：\rhttps://www.knews.com.tw/news/9BE23D4181E54DF32214EA68759F837E\r原始網址名稱：剴剴案再延燒！訪視員涉偽造「家訪惡保母」日期 檢察官證實偵辦中\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/238852\r來源簡稱或單位名稱：【知新聞／太報】\r[粘羽涵／行政監理定位：婦幼科管理居托中心，訪視員負有訪視與紀錄上傳義務]\u000b臺北市政府社會局婦女福利及兒童托育科科長粘羽涵 的說法，重點是把責任鏈拉回行政監理系統：文山居托中心由婦幼科管理，訪視員有訪視義務，且有紀錄上傳與調查程序。她的定位不是第一線社工，而是主管機關端的行政監理證人。 (知新聞)\u000b原始網址名稱：剴剴案女社工再爆案外案　北市訪視員涉訪視紀錄不實被法辦\u000b原始網址：\rhttps://news.tvbs.com.tw/local/3114179\r原始網址名稱：與社工訪視紀錄有出入 「剴剴案」訪視員遭法辦\u000b原始網址：\rhttps://udn.com/news/story/7321/9297622\r來源簡稱或單位名稱：【TVBS／聯合報】\r[李芳玲／兒盟管理端定位：不是陳尚潔的直接督導]\u000b兒福聯盟副處長李芳玲 到庭時的一個關鍵界定是：她表示自己沒有直接參與該案，也不是陳尚潔的直接督導，因此不能直接判斷陳是否有盡到義務。這一條代表的是兒盟管理鏈條內部的責任切割。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r[江怡韻／兒盟督導定位：對先前「嚴重疏失」評價改口]\u000b兒福聯盟督導江怡韻 在偵查階段曾被記載為認為陳尚潔有「嚴重疏失」，但到庭後改口或淡化該判斷。這一點的重要性在於：她不只是證明某件事實，而是反映了督導角色如何在法庭上重新界定自己的專業判斷與責任程度。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r\u0001\r這一輪整理後，兩條最清楚的主軸\r第一條主軸是：\u000b公會與工會不是同一角色。\u000b公會站在專業倫理審查與自律、懲戒位置；工會站在勞動保護、程序正義與反過度究責位置。(tpcsw.org.tw)\r第二條主軸是：\u000b庭上的核心爭點，不只是「誰有沒有錯」，而是「誰的角色原本被制度設定成什麼」。\u000b陳尚潔強調自己是「出養社工」而非主責或監督者；施盈如把主責問題拉回「是否有安置」；徐珮華從中央制度端界定收出養社工的法制位置；林心慈與粘羽涵則把焦點放在訪視與托育行政監理鏈上。(知新聞)\r下一則最適合做的是把這一段再壓成你更好用的版本：\u000b「角色界線衝突對照表（誰／自我定位／被他人如何定位／涉及責任邊界／來源）」。",
+      "responsibility_boundary": "責任邊界：限縮於收出養服務流程內，排斥行政監管或保母監督責任。",
+      "research_phase": 7,
+      "id": "prs-chen-shang-jie"
+    },
+    {
+      "entity_id": "prs-huang-ling-fang",
+      "name": "黃鈴芳",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "文山居托中心督導",
+      "affiliation": "org-wenshan-childcare",
+      "description_short": "文山居托中心督導",
+      "case_involvement": "witness-neutral",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-wenshan-childcare"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "id": "prs-huang-ling-fang"
+    },
+    {
+      "entity_id": "prs-huang-sheng-xin",
+      "name": "黃聖心",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "萬芳醫院急診醫學科主治醫師",
+      "affiliation": "org-wanfang-hospital",
+      "description_short": "萬芳醫院急診醫學科主治醫師",
+      "case_involvement": "witness-neutral",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-wanfang-hospital"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "research_category": "Witness (Medical)",
+      "id": "prs-huang-sheng-xin"
+    },
+    {
+      "entity_id": "prs-jiang-yi-yun",
+      "name": "江怡韻",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "兒福聯盟督導",
+      "affiliation": "org-cwlf",
+      "description_short": "兒福聯盟督導",
+      "case_involvement": "witness-neutral",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-cwlf"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "professional_positioning": "[江怡韻／兒盟督導定位：對先前「嚴重疏失」評價改口]\u000b兒福聯盟督導江怡韻 在偵查階段曾被記載為認為陳尚潔有「嚴重疏失」，但到庭後改口或淡化該判斷。這一點的重要性在於：她不只是證明某件事實，而是反映了督導角色如何在法庭上重新界定自己的專業判斷與責任程度。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r\u0001\r這一輪整理後，兩條最清楚的主軸\r第一條主軸是：\u000b公會與工會不是同一角色。\u000b公會站在專業倫理審查與自律、懲戒位置；工會站在勞動保護、程序正義與反過度究責位置。(tpcsw.org.tw)\r第二條主軸是：\u000b庭上的核心爭點，不只是「誰有沒有錯」，而是「誰的角色原本被制度設定成什麼」。\u000b陳尚潔強調自己是「出養社工」而非主責或監督者；施盈如把主責問題拉回「是否有安置」；徐珮華從中央制度端界定收出養社工的法制位置；林心慈與粘羽涵則把焦點放在訪視與托育行政監理鏈上。(知新聞)\r下一則最適合做的是把這一段再壓成你更好用的版本：\u000b「角色界線衝突對照表（誰／自我定位／被他人如何定位／涉及責任邊界／來源）」。",
+      "responsibility_boundary": "專業判斷修正。",
+      "research_phase": 7,
+      "id": "prs-jiang-yi-yun"
+    },
+    {
+      "entity_id": "prs-li-fang-ling",
+      "name": "李芳玲",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "兒福聯盟副處長",
+      "affiliation": "org-cwlf",
+      "description_short": "兒福聯盟副處長",
+      "case_involvement": "witness-neutral",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-cwlf"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "role": "兒福聯盟副處長",
+      "professional_positioning": "[李芳玲／兒盟管理端定位：不是陳尚潔的直接督導]\u000b兒福聯盟副處長李芳玲 到庭時的一個關鍵界定是：她表示自己沒有直接參與該案，也不是陳尚潔的直接督導，因此不能直接判斷陳是否有盡到義務。這一條代表的是兒盟管理鏈條內部的責任切割。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r[江怡韻／兒盟督導定位：對先前「嚴重疏失」評價改口]\u000b兒福聯盟督導江怡韻 在偵查階段曾被記載為認為陳尚潔有「嚴重疏失」，但到庭後改口或淡化該判斷。這一點的重要性在於：她不只是證明某件事實，而是反映了督導角色如何在法庭上重新界定自己的專業判斷與責任程度。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r\u0001\r這一輪整理後，兩條最清楚的主軸\r第一條主軸是：\u000b公會與工會不是同一角色。\u000b公會站在專業倫理審查與自律、懲戒位置；工會站在勞動保護、程序正義與反過度究責位置。(tpcsw.org.tw)\r第二條主軸是：\u000b庭上的核心爭點，不只是「誰有沒有錯」，而是「誰的角色原本被制度設定成什麼」。\u000b陳尚潔強調自己是「出養社工」而非主責或監督者；施盈如把主責問題拉回「是否有安置」；徐珮華從中央制度端界定收出養社工的法制位置；林心慈與粘羽涵則把焦點放在訪視與托育行政監理鏈上。(知新聞)\r下一則最適合做的是把這一段再壓成你更好用的版本：\u000b「角色界線衝突對照表（誰／自我定位／被他人如何定位／涉及責任邊界／來源）」。",
+      "responsibility_boundary": "管理責任切割。",
+      "research_phase": 7,
+      "id": "prs-li-fang-ling"
+    },
+    {
+      "entity_id": "prs-lin-xin-ci",
+      "name": "林心慈",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "文山居托中心訪視員",
+      "affiliation": "org-wenshan-childcare",
+      "description_short": "文山居托中心訪視員",
+      "case_involvement": "witness-neutral",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-wenshan-childcare"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "role": "臺北市文山區居家托育服務中心訪視員",
+      "research_category": "Witness (Visit Officer)",
+      "professional_positioning": "[林心慈／訪視員定位：觀察到「安靜」但未認定達異常程度]\u000b臺北市文山區居家托育服務中心訪視員林心慈 在庭上被引述的核心是：她認為剴剴雖然較安靜，但尚未達到她判定為異常的程度，而且保母在當時呈現出相對積極配合的態度。這一條是「訪視員如何界定異常門檻」的代表說法，也是後續爭議焦點。 (知新聞)\u000b原始網址名稱：剴剴案二審今宣判！兒盟社工陳尚潔10疏失害錯失黃金救援　辯：沒看見傷痕\u000b原始網址：\rhttps://www.knews.com.tw/news/9BE23D4181E54DF32214EA68759F837E\r原始網址名稱：剴剴案再延燒！訪視員涉偽造「家訪惡保母」日期 檢察官證實偵辦中\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/238852\r來源簡稱或單位名稱：【知新聞／太報】\r[粘羽涵／行政監理定位：婦幼科管理居托中心，訪視員負有訪視與紀錄上傳義務]\u000b臺北市政府社會局婦女福利及兒童托育科科長粘羽涵 的說法，重點是把責任鏈拉回行政監理系統：文山居托中心由婦幼科管理，訪視員有訪視義務，且有紀錄上傳與調查程序。她的定位不是第一線社工，而是主管機關端的行政監理證人。 (知新聞)\u000b原始網址名稱：剴剴案女社工再爆案外案　北市訪視員涉訪視紀錄不實被法辦\u000b原始網址：\rhttps://news.tvbs.com.tw/local/3114179\r原始網址名稱：與社工訪視紀錄有出入 「剴剴案」訪視員遭法辦\u000b原始網址：\rhttps://udn.com/news/story/7321/9297622\r來源簡稱或單位名稱：【TVBS／聯合報】\r[李芳玲／兒盟管理端定位：不是陳尚潔的直接督導]\u000b兒福聯盟副處長李芳玲 到庭時的一個關鍵界定是：她表示自己沒有直接參與該案，也不是陳尚潔的直接督導，因此不能直接判斷陳是否有盡到義務。這一條代表的是兒盟管理鏈條內部的責任切割。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r[江怡韻／兒盟督導定位：對先前「嚴重疏失」評價改口]\u000b兒福聯盟督導江怡韻 在偵查階段曾被記載為認為陳尚潔有「嚴重疏失」，但到庭後改口或淡化該判斷。這一點的重要性在於：她不只是證明某件事實，而是反映了督導角色如何在法庭上重新界定自己的專業判斷與責任程度。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r\u0001\r這一輪整理後，兩條最清楚的主軸\r第一條主軸是：\u000b公會與工會不是同一角色。\u000b公會站在專業倫理審查與自律、懲戒位置；工會站在勞動保護、程序正義與反過度究責位置。(tpcsw.org.tw)\r第二條主軸是：\u000b庭上的核心爭點，不只是「誰有沒有錯」，而是「誰的角色原本被制度設定成什麼」。\u000b陳尚潔強調自己是「出養社工」而非主責或監督者；施盈如把主責問題拉回「是否有安置」；徐珮華從中央制度端界定收出養社工的法制位置；林心慈與粘羽涵則把焦點放在訪視與托育行政監理鏈上。(知新聞)\r下一則最適合做的是把這一段再壓成你更好用的版本：\u000b「角色界線衝突對照表（誰／自我定位／被他人如何定位／涉及責任邊界／來源）」。",
+      "responsibility_boundary": "主觀異常判斷門檻。",
+      "research_phase": 7,
+      "id": "prs-lin-xin-ci"
+    },
+    {
+      "entity_id": "prs-lin-yu-mei",
+      "name": "林于湄",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "臺灣臺北地方檢察署檢察官",
+      "affiliation": "org-tpd-prosecution",
+      "description_short": "臺灣臺北地方檢察署檢察官",
+      "case_involvement": "prosecutor",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-tpd-prosecution"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "research_category": "Prosecutor",
+      "id": "prs-lin-yu-mei"
+    },
+    {
+      "entity_id": "prs-lin-yu-zhen",
+      "name": "林鈺珍",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "臺灣臺北地方法院審判長",
+      "affiliation": "org-tpd-court",
+      "description_short": "臺灣臺北地方法院審判長",
+      "case_involvement": "judge",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-tpd-court"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "id": "prs-lin-yu-zhen"
+    },
+    {
+      "entity_id": "prs-liu-cai-xuan",
+      "name": "劉彩萱",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "居家托育人員，保母案被告（已判刑）",
+      "affiliation": "org-taipei-sw",
+      "description_short": "居家托育人員，保母案被告（已判刑）",
+      "case_involvement": "defendant",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-taipei-sw"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "research_category": "Defendant (保母)",
+      "id": "prs-liu-cai-xuan"
+    },
+    {
+      "entity_id": "prs-liu-ruo-lin",
+      "name": "劉若琳",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "居家托育人員，劉彩萱之妹，保母案被告（已判刑）",
+      "affiliation": "org-taipei-sw",
+      "description_short": "居家托育人員，劉彩萱之妹，保母案被告（已判刑）",
+      "case_involvement": "defendant",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-taipei-sw"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "research_category": "Defendant (保母)",
+      "id": "prs-liu-ruo-lin"
+    },
+    {
+      "entity_id": "prs-lyu-li",
+      "name": "呂立",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "臺大醫院兒少保護醫療中心主任",
+      "affiliation": "org-ntu-hospital",
+      "description_short": "臺大醫院兒少保護醫療中心主任",
+      "case_involvement": "expert",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-ntu-hospital"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "id": "prs-lyu-li"
+    },
+    {
+      "entity_id": "prs-nian-yu-han",
+      "name": "粘羽涵",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "臺北市政府社會局婦幼科科長",
+      "affiliation": "org-taipei-sw",
+      "description_short": "臺北市政府社會局婦幼科科長",
+      "case_involvement": "official",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-taipei-sw"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "role": "臺北市政府社會局婦幼科科長",
+      "research_category": "Official (Admin)",
+      "professional_positioning": "[粘羽涵／行政監理定位：婦幼科管理居托中心，訪視員負有訪視與紀錄上傳義務]\u000b臺北市政府社會局婦女福利及兒童托育科科長粘羽涵 的說法，重點是把責任鏈拉回行政監理系統：文山居托中心由婦幼科管理，訪視員有訪視義務，且有紀錄上傳與調查程序。她的定位不是第一線社工，而是主管機關端的行政監理證人。 (知新聞)\u000b原始網址名稱：剴剴案女社工再爆案外案　北市訪視員涉訪視紀錄不實被法辦\u000b原始網址：\rhttps://news.tvbs.com.tw/local/3114179\r原始網址名稱：與社工訪視紀錄有出入 「剴剴案」訪視員遭法辦\u000b原始網址：\rhttps://udn.com/news/story/7321/9297622\r來源簡稱或單位名稱：【TVBS／聯合報】\r[李芳玲／兒盟管理端定位：不是陳尚潔的直接督導]\u000b兒福聯盟副處長李芳玲 到庭時的一個關鍵界定是：她表示自己沒有直接參與該案，也不是陳尚潔的直接督導，因此不能直接判斷陳是否有盡到義務。這一條代表的是兒盟管理鏈條內部的責任切割。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r[江怡韻／兒盟督導定位：對先前「嚴重疏失」評價改口]\u000b兒福聯盟督導江怡韻 在偵查階段曾被記載為認為陳尚潔有「嚴重疏失」，但到庭後改口或淡化該判斷。這一點的重要性在於：她不只是證明某件事實，而是反映了督導角色如何在法庭上重新界定自己的專業判斷與責任程度。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r\u0001\r這一輪整理後，兩條最清楚的主軸\r第一條主軸是：\u000b公會與工會不是同一角色。\u000b公會站在專業倫理審查與自律、懲戒位置；工會站在勞動保護、程序正義與反過度究責位置。(tpcsw.org.tw)\r第二條主軸是：\u000b庭上的核心爭點，不只是「誰有沒有錯」，而是「誰的角色原本被制度設定成什麼」。\u000b陳尚潔強調自己是「出養社工」而非主責或監督者；施盈如把主責問題拉回「是否有安置」；徐珮華從中央制度端界定收出養社工的法制位置；林心慈與粘羽涵則把焦點放在訪視與托育行政監理鏈上。(知新聞)\r下一則最適合做的是把這一段再壓成你更好用的版本：\u000b「角色界線衝突對照表（誰／自我定位／被他人如何定位／涉及責任邊界／來源）」。",
+      "responsibility_boundary": "行政責任鏈延伸。",
+      "research_phase": 7,
+      "id": "prs-nian-yu-han"
+    },
+    {
+      "entity_id": "prs-qiu-yan-nan",
+      "name": "丘彥南",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "臺大醫院兒童精神科醫師",
+      "affiliation": "org-ntu-hospital",
+      "description_short": "臺大醫院兒童精神科醫師",
+      "case_involvement": "expert",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-ntu-hospital"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "id": "prs-qiu-yan-nan"
+    },
+    {
+      "id": "prs-shen-yao-yi",
+      "name": "沈曜逸",
+      "type": "people",
+      "detail": "臺北市社會工作人員職業工會副理事長",
+      "affiliation": "org-taipei-sw-union",
+      "research_category": "Advocate (Union)",
+      "entity_type": "person"
+    },
+    {
+      "entity_id": "prs-shi-ying-ru",
+      "name": "施盈如",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "樹鶯社福中心社工",
+      "affiliation": "org-shuying-center",
+      "description_short": "樹鶯社福中心社工",
+      "case_involvement": "witness-neutral",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-shuying-center"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "role": "新北樹鶯社福中心社工",
+      "research_category": "Witness (Social Work)",
+      "professional_positioning": "[施盈如／制度界定：若以安置為前提，本案沒有所謂主責社工]\u000b2025-11-27 的庭訊報導中，新北市政府社會局樹鶯社會福利服務中心社工施盈如 表示，本案若以「安置」作為制度前提來看，剴剴並沒有進入保護安置或委託安置程序，因此沒有所謂主責社工。她的說法把「主責」這個概念直接綁到安置制度入口，而不是泛指任何有接觸過個案的人。這是整個責任界線辯論裡最關鍵的制度型說法之一。 (知新聞)\u000b原始網址名稱：不認害死剴剴！兒盟社工陳尚潔辯訪視沒看到傷勢　證人落淚打臉：曾來電詢問\u000b原始網址：\rhttps://www.knews.com.tw/news/9B9CBB494C2290454E09B4920B1C2039\r原始網址名稱：撇清害死剴剴！社工陳尚潔否認知情　證人指她曾來電告知：額頭有傷\u000b原始網址：\rhttps://news.tvbs.com.tw/local/3056667\r來源簡稱或單位名稱：【知新聞／TVBS】\r[施盈如／分工界定：她追原生家庭，陳尚潔追孩子近況]\u000b另有庭訊報導指出，施盈如說明她與陳尚潔曾討論分工：由陳尚潔追蹤剴剴近況，而她則負責原生家庭狀況。這條說法的重要性在於，它把兩位社工的角色切成「出養後兒童追蹤」與「原生家庭支持」兩條線，而不是單一主責。 (知新聞)\u000b原始網址名稱：剴剴案！ 陳姓社工堅不認罪　證人哽咽批推卸責任\u000b原始網址：\rhttps://www.nexttv.com.tw/NextTV/News/Home/Society/2025-11-27/2189113.html\r原始網址名稱：不認害死剴剴！兒盟社工陳尚潔辯訪視沒看到傷勢　證人落淚打臉：曾來電詢問\u000b原始網址：\rhttps://www.knews.com.tw/news/9B9CBB494C2290454E09B4920B1C2039\r來源簡稱或單位名稱：【壹新聞／知新聞】\r[徐珮華／中央制度端定位：收出養媒合屬特許行業，社工是制度內媒合專業人員]\u000b衛生福利部社會及家庭署家庭支持組家庭資源科相關證人徐珮華在庭上被媒體引述時，重點不在個人卸責，而是從中央制度端界定：收出養媒合機構是特許行業，從事媒合的專業人員須符合資格，且剴剴案後主管機關已把在職訓練、兒虐辨識等要求更明文化。她的角色定位是制度證人，用來說明社工角色被設計在哪一個法制框架裡。 (知新聞)\u000b原始網址名稱：撇清害死剴剴！社工陳尚潔否認知情　證人指她曾來電告知：額頭有傷\u000b原始網址：\rhttps://news.tvbs.com.tw/local/3056667\r原始網址名稱：涉疏失害死剴剴！社工陳尚潔否認知情 證人曝她來電：說額頭有瘀青\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/227569\r來源簡稱或單位名稱：【TVBS／太報】\r[林心慈／訪視員定位：觀察到「安靜」但未認定達異常程度]\u000b臺北市文山區居家托育服務中心訪視員林心慈 在庭上被引述的核心是：她認為剴剴雖然較安靜，但尚未達到她判定為異常的程度，而且保母在當時呈現出相對積極配合的態度。這一條是「訪視員如何界定異常門檻」的代表說法，也是後續爭議焦點。 (知新聞)\u000b原始網址名稱：剴剴案二審今宣判！兒盟社工陳尚潔10疏失害錯失黃金救援　辯：沒看見傷痕\u000b原始網址：\rhttps://www.knews.com.tw/news/9BE23D4181E54DF32214EA68759F837E\r原始網址名稱：剴剴案再延燒！訪視員涉偽造「家訪惡保母」日期 檢察官證實偵辦中\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/238852\r來源簡稱或單位名稱：【知新聞／太報】\r[粘羽涵／行政監理定位：婦幼科管理居托中心，訪視員負有訪視與紀錄上傳義務]\u000b臺北市政府社會局婦女福利及兒童托育科科長粘羽涵 的說法，重點是把責任鏈拉回行政監理系統：文山居托中心由婦幼科管理，訪視員有訪視義務，且有紀錄上傳與調查程序。她的定位不是第一線社工，而是主管機關端的行政監理證人。 (知新聞)\u000b原始網址名稱：剴剴案女社工再爆案外案　北市訪視員涉訪視紀錄不實被法辦\u000b原始網址：\rhttps://news.tvbs.com.tw/local/3114179\r原始網址名稱：與社工訪視紀錄有出入 「剴剴案」訪視員遭法辦\u000b原始網址：\rhttps://udn.com/news/story/7321/9297622\r來源簡稱或單位名稱：【TVBS／聯合報】\r[李芳玲／兒盟管理端定位：不是陳尚潔的直接督導]\u000b兒福聯盟副處長李芳玲 到庭時的一個關鍵界定是：她表示自己沒有直接參與該案，也不是陳尚潔的直接督導，因此不能直接判斷陳是否有盡到義務。這一條代表的是兒盟管理鏈條內部的責任切割。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r[江怡韻／兒盟督導定位：對先前「嚴重疏失」評價改口]\u000b兒福聯盟督導江怡韻 在偵查階段曾被記載為認為陳尚潔有「嚴重疏失」，但到庭後改口或淡化該判斷。這一點的重要性在於：她不只是證明某件事實，而是反映了督導角色如何在法庭上重新界定自己的專業判斷與責任程度。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r\u0001\r這一輪整理後，兩條最清楚的主軸\r第一條主軸是：\u000b公會與工會不是同一角色。\u000b公會站在專業倫理審查與自律、懲戒位置；工會站在勞動保護、程序正義與反過度究責位置。(tpcsw.org.tw)\r第二條主軸是：\u000b庭上的核心爭點，不只是「誰有沒有錯」，而是「誰的角色原本被制度設定成什麼」。\u000b陳尚潔強調自己是「出養社工」而非主責或監督者；施盈如把主責問題拉回「是否有安置」；徐珮華從中央制度端界定收出養社工的法制位置；林心慈與粘羽涵則把焦點放在訪視與托育行政監理鏈上。(知新聞)\r下一則最適合做的是把這一段再壓成你更好用的版本：\u000b「角色界線衝突對照表（誰／自我定位／被他人如何定位／涉及責任邊界／來源）」。",
+      "responsibility_boundary": "制度門檻：以是否安置判定主責權責。",
+      "research_phase": 7,
+      "id": "prs-shi-ying-ru"
+    },
+    {
+      "entity_id": "prs-wang-you-ling",
+      "name": "王幼玲",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "監察委員",
+      "affiliation": "org-control-yuan",
+      "description_short": "監察委員",
+      "case_involvement": "official",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-control-yuan"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "id": "prs-wang-you-ling"
+    },
+    {
+      "entity_id": "prs-xu-pei-hua",
+      "name": "徐珮華",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "社家署家庭支持組家庭資源科視察",
+      "affiliation": "org-sfaa",
+      "description_short": "社家署家庭支持組家庭資源科視察",
+      "case_involvement": "official",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-sfaa"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "role": "衛福部社家署家庭支持組督導",
+      "research_category": "Witness (Official)",
+      "professional_positioning": "[徐珮華／中央制度端定位：收出養媒合屬特許行業，社工是制度內媒合專業人員]\u000b衛生福利部社會及家庭署家庭支持組家庭資源科相關證人徐珮華在庭上被媒體引述時，重點不在個人卸責，而是從中央制度端界定：收出養媒合機構是特許行業，從事媒合的專業人員須符合資格，且剴剴案後主管機關已把在職訓練、兒虐辨識等要求更明文化。她的角色定位是制度證人，用來說明社工角色被設計在哪一個法制框架裡。 (知新聞)\u000b原始網址名稱：撇清害死剴剴！社工陳尚潔否認知情　證人指她曾來電告知：額頭有傷\u000b原始網址：\rhttps://news.tvbs.com.tw/local/3056667\r原始網址名稱：涉疏失害死剴剴！社工陳尚潔否認知情 證人曝她來電：說額頭有瘀青\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/227569\r來源簡稱或單位名稱：【TVBS／太報】\r[林心慈／訪視員定位：觀察到「安靜」但未認定達異常程度]\u000b臺北市文山區居家托育服務中心訪視員林心慈 在庭上被引述的核心是：她認為剴剴雖然較安靜，但尚未達到她判定為異常的程度，而且保母在當時呈現出相對積極配合的態度。這一條是「訪視員如何界定異常門檻」的代表說法，也是後續爭議焦點。 (知新聞)\u000b原始網址名稱：剴剴案二審今宣判！兒盟社工陳尚潔10疏失害錯失黃金救援　辯：沒看見傷痕\u000b原始網址：\rhttps://www.knews.com.tw/news/9BE23D4181E54DF32214EA68759F837E\r原始網址名稱：剴剴案再延燒！訪視員涉偽造「家訪惡保母」日期 檢察官證實偵辦中\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/238852\r來源簡稱或單位名稱：【知新聞／太報】\r[粘羽涵／行政監理定位：婦幼科管理居托中心，訪視員負有訪視與紀錄上傳義務]\u000b臺北市政府社會局婦女福利及兒童托育科科長粘羽涵 的說法，重點是把責任鏈拉回行政監理系統：文山居托中心由婦幼科管理，訪視員有訪視義務，且有紀錄上傳與調查程序。她的定位不是第一線社工，而是主管機關端的行政監理證人。 (知新聞)\u000b原始網址名稱：剴剴案女社工再爆案外案　北市訪視員涉訪視紀錄不實被法辦\u000b原始網址：\rhttps://news.tvbs.com.tw/local/3114179\r原始網址名稱：與社工訪視紀錄有出入 「剴剴案」訪視員遭法辦\u000b原始網址：\rhttps://udn.com/news/story/7321/9297622\r來源簡稱或單位名稱：【TVBS／聯合報】\r[李芳玲／兒盟管理端定位：不是陳尚潔的直接督導]\u000b兒福聯盟副處長李芳玲 到庭時的一個關鍵界定是：她表示自己沒有直接參與該案，也不是陳尚潔的直接督導，因此不能直接判斷陳是否有盡到義務。這一條代表的是兒盟管理鏈條內部的責任切割。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r[江怡韻／兒盟督導定位：對先前「嚴重疏失」評價改口]\u000b兒福聯盟督導江怡韻 在偵查階段曾被記載為認為陳尚潔有「嚴重疏失」，但到庭後改口或淡化該判斷。這一點的重要性在於：她不只是證明某件事實，而是反映了督導角色如何在法庭上重新界定自己的專業判斷與責任程度。 (知新聞)\u000b原始網址名稱：剴剴遭虐死！兒盟高層出庭護陳尚潔　督導曾指她「嚴重疏失」改口控檢方筆錄不實\u000b原始網址：\rhttps://www.knews.com.tw/news/594E8C0280C542781D7FBEF6C58CFC00\r原始網址名稱：剴剴之死！兒盟高層稱社工陳尚潔「沒錯」 法官逼問「為何不選周保母」答案曝\u000b原始網址：\rhttps://www.taisounds.com/news/content/95/230117\r來源簡稱或單位名稱：【知新聞／太報】\r\u0001\r這一輪整理後，兩條最清楚的主軸\r第一條主軸是：\u000b公會與工會不是同一角色。\u000b公會站在專業倫理審查與自律、懲戒位置；工會站在勞動保護、程序正義與反過度究責位置。(tpcsw.org.tw)\r第二條主軸是：\u000b庭上的核心爭點，不只是「誰有沒有錯」，而是「誰的角色原本被制度設定成什麼」。\u000b陳尚潔強調自己是「出養社工」而非主責或監督者；施盈如把主責問題拉回「是否有安置」；徐珮華從中央制度端界定收出養社工的法制位置；林心慈與粘羽涵則把焦點放在訪視與托育行政監理鏈上。(知新聞)\r下一則最適合做的是把這一段再壓成你更好用的版本：\u000b「角色界線衝突對照表（誰／自我定位／被他人如何定位／涉及責任邊界／來源）」。",
+      "responsibility_boundary": "特許行業專業規範。",
+      "research_phase": 7,
+      "id": "prs-xu-pei-hua"
+    },
+    {
+      "entity_id": "prs-xu-zhuo-xian",
+      "name": "許倬憲",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "法務部法醫研究所病理組組長",
+      "affiliation": "org-forensic-moj",
+      "description_short": "法務部法醫研究所病理組組長",
+      "case_involvement": "expert",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-forensic-moj"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "id": "prs-xu-zhuo-xian"
+    },
+    {
+      "entity_id": "prs-ye-da-hua",
+      "name": "葉大華",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "監察委員",
+      "affiliation": "org-control-yuan",
+      "description_short": "監察委員",
+      "case_involvement": "official",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-control-yuan"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "id": "prs-ye-da-hua"
+    },
+    {
+      "entity_id": "prs-ye-shi-yu",
+      "name": "葉詩宇",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "兒福聯盟社工",
+      "affiliation": "org-cwlf",
+      "description_short": "兒福聯盟社工",
+      "case_involvement": "witness-neutral",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-cwlf"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "id": "prs-ye-shi-yu"
+    },
+    {
+      "entity_id": "prs-ye-ting-xi",
+      "name": "葉亭希",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "兒福聯盟組長",
+      "affiliation": "org-cwlf",
+      "description_short": "兒福聯盟組長",
+      "case_involvement": "witness-neutral",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-cwlf"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "id": "prs-ye-ting-xi"
+    },
+    {
+      "entity_id": "prs-zhang-ju-fang",
+      "name": "張菊芳",
+      "alias": [],
+      "entity_type": "person",
+      "role_in_case": "監察委員",
+      "affiliation": "org-control-yuan",
+      "description_short": "監察委員",
+      "case_involvement": "official",
+      "appeared_in_hearings": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-control-yuan"
+      ],
+      "related_events": [],
+      "related_topics": [],
+      "id": "prs-zhang-ju-fang"
+    },
+    {
+      "entity_id": "org-catholic-welfare",
+      "name": "財團法人天主教福利會",
+      "alias": [
+        "天主教福利會"
+      ],
+      "entity_type": "organization",
+      "org_type": "ngo",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-catholic-welfare"
+    },
+    {
+      "entity_id": "org-control-yuan",
+      "name": "監察院",
+      "alias": [
+        "監院"
+      ],
+      "entity_type": "organization",
+      "org_type": "government-central",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [
+        "prs-ye-da-hua",
+        "prs-wang-you-ling",
+        "prs-zhang-ju-fang"
+      ],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-control-yuan"
+    },
+    {
+      "entity_id": "org-cwlf",
+      "name": "財團法人中華民國兒童福利聯盟文教基金會",
+      "alias": [
+        "兒福聯盟",
+        "兒盟",
+        "CWLF"
+      ],
+      "entity_type": "organization",
+      "org_type": "ngo",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [
+        "prs-chen-shang-jie",
+        "prs-li-fang-ling",
+        "prs-jiang-yi-yun",
+        "prs-ye-shi-yu",
+        "prs-ye-ting-xi",
+        "prs-bai-li-fang"
+      ],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-cwlf"
+    },
+    {
+      "entity_id": "org-da-ai-care",
+      "name": "社團法人新北市大愛關懷協會",
+      "alias": [
+        "大愛關懷協會"
+      ],
+      "entity_type": "organization",
+      "org_type": "ngo",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-da-ai-care"
+    },
+    {
+      "entity_id": "org-forensic-moj",
+      "name": "法務部法醫研究所",
+      "alias": [
+        "法醫所"
+      ],
+      "entity_type": "organization",
+      "org_type": "academic",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [
+        "prs-xu-zhuo-xian"
+      ],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-forensic-moj"
+    },
+    {
+      "entity_id": "org-mohw",
+      "name": "衛生福利部",
+      "alias": [
+        "衛福部"
+      ],
+      "entity_type": "organization",
+      "org_type": "government-central",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-mohw"
+    },
+    {
+      "entity_id": "org-ntpc-sw",
+      "name": "新北市政府社會局",
+      "alias": [
+        "新北社會局"
+      ],
+      "entity_type": "organization",
+      "org_type": "government-local",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-ntpc-sw"
+    },
+    {
+      "entity_id": "org-ntu-hospital",
+      "name": "國立臺灣大學醫學院附設醫院",
+      "alias": [
+        "臺大醫院"
+      ],
+      "entity_type": "organization",
+      "org_type": "hospital",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [
+        "prs-lyu-li",
+        "prs-qiu-yan-nan"
+      ],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-ntu-hospital"
+    },
+    {
+      "entity_id": "org-sfaa",
+      "name": "衛生福利部社會及家庭署",
+      "alias": [
+        "社家署",
+        "SFAA"
+      ],
+      "entity_type": "organization",
+      "org_type": "government-central",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [
+        "prs-xu-pei-hua"
+      ],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-sfaa"
+    },
+    {
+      "entity_id": "org-shuying-center",
+      "name": "樹鶯社福中心",
+      "alias": [
+        "樹鶯中心"
+      ],
+      "entity_type": "organization",
+      "org_type": "government-local",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [
+        "prs-shi-ying-ru"
+      ],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-shuying-center"
+    },
+    {
+      "entity_id": "org-taipei-sw",
+      "name": "臺北市政府社會局",
+      "alias": [
+        "北市社會局"
+      ],
+      "entity_type": "organization",
+      "org_type": "government-local",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [
+        "prs-liu-cai-xuan",
+        "prs-liu-ruo-lin",
+        "prs-nian-yu-han"
+      ],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-taipei-sw"
+    },
+    {
+      "entity_id": "org-tpd-court",
+      "name": "臺灣臺北地方法院",
+      "alias": [
+        "北院",
+        "台北地院"
+      ],
+      "entity_type": "organization",
+      "org_type": "court",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [
+        "prs-lin-yu-zhen"
+      ],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-tpd-court"
+    },
+    {
+      "entity_id": "org-tpd-prosecution",
+      "name": "臺灣臺北地方檢察署",
+      "alias": [
+        "北檢"
+      ],
+      "entity_type": "organization",
+      "org_type": "prosecution",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [
+        "prs-lin-yu-mei"
+      ],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-tpd-prosecution"
+    },
+    {
+      "entity_id": "org-wanfang-hospital",
+      "name": "臺北市立萬芳醫院",
+      "alias": [
+        "萬芳醫院"
+      ],
+      "entity_type": "organization",
+      "org_type": "hospital",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [
+        "prs-huang-sheng-xin"
+      ],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-wanfang-hospital"
+    },
+    {
+      "entity_id": "org-wenshan-childcare",
+      "name": "臺北市文山區居家托育服務中心",
+      "alias": [
+        "文山居托中心"
+      ],
+      "entity_type": "organization",
+      "org_type": "government-local",
+      "jurisdiction": "Taiwan",
+      "official_mandate": "",
+      "role_in_case": "",
+      "key_personnel": [
+        "prs-huang-ling-fang",
+        "prs-lin-xin-ci"
+      ],
+      "source_refs": [],
+      "related_entities": [],
+      "related_events": [],
+      "related_topics": [],
+      "id": "org-wenshan-childcare"
+    }
+  ],
+  "events": [
+    {
+      "event_id": "evt-2022-01-06-0",
+      "date": "2022-01-06",
+      "title": "剴剴生母（29歲劉姓女子）向新北市社會局申請出養腹中胎兒",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2022-01-06-0"
+    },
+    {
+      "event_id": "evt-2022-01-28-1",
+      "date": "2022-01-28",
+      "title": "新北市社會局正式開案，列為脆弱家庭",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2022-01-28-1"
+    },
+    {
+      "event_id": "evt-20220221-kaikai-born",
+      "date": "2022-02-21",
+      "title": "剴剴（A童）出生",
+      "phase": "prehistory-family",
+      "description": "",
+      "significance": "案件被害人出生，後因家庭功能失調進入社安網。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "prehistory-family"
+      ],
+      "id": "evt-20220221-kaikai-born"
+    },
+    {
+      "event_id": "evt-2022-02-21-2",
+      "date": "2022-02-21",
+      "title": "**剴剴出生**，新北市社會局安排第一任保母照顧",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2022-02-21-2"
+    },
+    {
+      "event_id": "evt-2022-03-16-3",
+      "date": "2022-03-16",
+      "title": "生母首次與兒福聯盟接洽出養事宜",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2022-03-16-3"
+    },
+    {
+      "event_id": "evt-2022-03-17-4",
+      "date": "2022-03-17",
+      "title": "新北市社會局正式將案件**第一次轉介兒福聯盟**處理出養程序",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2022-03-17-4"
+    },
+    {
+      "event_id": "evt-2022-03-24-5",
+      "date": "2022-03-24",
+      "title": "兒福聯盟正式開立出養案",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2022-03-24-5"
+    },
+    {
+      "event_id": "evt-2022-05-04-6",
+      "date": "2022-05-04",
+      "title": "兒盟接手照顧剴剴，轉至第二任短期保母",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2022-05-04-6"
+    },
+    {
+      "event_id": "evt-2022-05-12-7",
+      "date": "2022-05-12",
+      "title": "**生母失聯**",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2022-05-12-7"
+    },
+    {
+      "event_id": "evt-2022-05-19-8",
+      "date": "2022-05-19",
+      "title": "兒盟通知新北市社會局生母失蹤",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2022-05-19-8"
+    },
+    {
+      "event_id": "evt-2022-06-17-9",
+      "date": "2022-06-17",
+      "title": "剴剴自第二任保母處移出",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2022-06-17-9"
+    },
+    {
+      "event_id": "evt-2022-06-22-10",
+      "date": "2022-06-22",
+      "title": "轉至**第三任保母（周保母）**照顧，期間外婆爭取監護權",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2022-06-22-10"
+    },
+    {
+      "event_id": "evt-2023-04-06-11",
+      "date": "2023-04-06",
+      "title": "法院裁定將監護權轉予外婆",
+      "phase": "referral-adoption-placement",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-04-06-11"
+    },
+    {
+      "event_id": "evt-2023-06-21-12",
+      "date": "2023-06-21",
+      "title": "新北市社會局**第二次轉介兒盟**（社工陳尚潔承接）處理出養事宜",
+      "phase": "referral-adoption-placement",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-06-21-12"
+    },
+    {
+      "event_id": "evt-2023-07-26-13",
+      "date": "2023-07-26",
+      "title": "外婆請求周保母繼續照顧剴剴並由兒盟補助費用，遭陳尚潔拒絕；周保母申請成為兒盟特約保母亦遭拒",
+      "phase": "referral-adoption-placement",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-07-26-13"
+    },
+    {
+      "event_id": "evt-2023-08-31-14",
+      "date": "2023-08-31",
+      "title": "外婆、周保母、陳尚潔及劉彩萱四方會面交接，周保母詳細說明剴剴習性與照護需求",
+      "phase": "referral-adoption-placement",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-08-31-14"
+    },
+    {
+      "event_id": "evt-20230901-transfer-to-cwlf",
+      "date": "2023-09-01",
+      "title": "新北市政府轉介至兒福聯盟",
+      "phase": "referral-adoption-placement",
+      "description": "",
+      "significance": "由新北市樹鶯社福中心委託兒盟辦理收出養服務。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "referral-adoption-placement"
+      ],
+      "id": "evt-20230901-transfer-to-cwlf"
+    },
+    {
+      "event_id": "evt-2023-09-01-15",
+      "date": "2023-09-01",
+      "title": "**剴剴正式移交劉彩萱家中，虐待自此日開始**",
+      "phase": "care-period-signs",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-09-01-15"
+    },
+    {
+      "event_id": "evt-2023-09-03-16",
+      "date": "2023-09-03",
+      "title": "陳尚潔主動傳送交接時照片予外婆，稱剴剴適應良好",
+      "phase": "care-period-signs",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-09-03-16"
+    },
+    {
+      "event_id": "evt-20230904-placement-with-nanny-liu",
+      "date": "2023-09-04",
+      "title": "剴剴安置於保母劉彩萱家中",
+      "phase": "referral-adoption-placement",
+      "description": "",
+      "significance": "正式開始由兒盟合作保母進行全日托育安置。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "referral-adoption-placement"
+      ],
+      "id": "evt-20230904-placement-with-nanny-liu"
+    },
+    {
+      "event_id": "evt-2023-09-05-17",
+      "date": "2023-09-05",
+      "title": "外婆要求電話了解近況，陳尚潔僅以文字回覆，稱保母反映剴剴胃口變好",
+      "phase": "care-period-signs",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-09-05-17"
+    },
+    {
+      "event_id": "evt-2023-09-22-18",
+      "date": "2023-09-22",
+      "title": "外婆要求近照並表示周保母想探望",
+      "phase": "care-period-signs",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-09-22-18"
+    },
+    {
+      "event_id": "evt-2023-09-23-19",
+      "date": "2023-09-23",
+      "title": "陳尚潔傳回交接時舊照與一張日期不明照片，剴剴明顯消瘦、頭髮被剪、表情異常。陳稱因頭髮太長所以剪掉，剴剴感冒中，保母希望痊癒後再安排探視",
+      "phase": "care-period-signs",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-09-23-19"
+    },
+    {
+      "event_id": "evt-2023-09-25-20",
+      "date": "2023-09-25",
+      "title": "**兒盟社工第一次訪視**：發現剴剴額頭有瘀傷，保母稱「在公園撞到」",
+      "phase": "care-period-signs",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-09-25-20"
+    },
+    {
+      "event_id": "evt-20230926-taipei-first-visit",
+      "date": "2023-09-26",
+      "title": "臺北市居托中心首次訪視",
+      "phase": "custody-and-abuse",
+      "description": "",
+      "significance": "文山區居托中心訪視員林心慈首次家訪，未發現異狀。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "custody-and-abuse"
+      ],
+      "id": "evt-20230926-taipei-first-visit"
+    },
+    {
+      "event_id": "evt-2023-09-26-21",
+      "date": "2023-09-26",
+      "title": "**臺北市居托中心新收托訪視**：記載「無異常」",
+      "phase": "care-period-signs",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-09-26-21"
+    },
+    {
+      "event_id": "evt-2023-10-06-22",
+      "date": "2023-10-06",
+      "title": "臺北市居托中心通知劉姓保母繳交健康報告",
+      "phase": "care-period-signs",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-10-06-22"
+    },
+    {
+      "event_id": "evt-2023-10-23-23",
+      "date": "2023-10-23",
+      "title": "**兒盟社工第二次訪視**：剴剴沉默無神、消瘦。陳尚潔次日聯繫樹鶯社福中心",
+      "phase": "care-period-signs",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-10-23-23"
+    },
+    {
+      "event_id": "evt-20231024-bruises-found",
+      "date": "2023-10-24",
+      "title": "兒盟社工發現剴剴額頭瘀青",
+      "phase": "custody-and-abuse",
+      "description": "",
+      "significance": "社工陳尚潔訪視時發現傷勢，採信保母「公園撞傷」說詞。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "custody-and-abuse"
+      ],
+      "id": "evt-20231024-bruises-found"
+    },
+    {
+      "event_id": "evt-2023-10-24-24",
+      "date": "2023-10-24",
+      "title": "陳尚潔傳照片予外婆（自稱為9月拍攝），剴剴明顯消瘦、額頭大片瘀傷、表情異常。陳稱「公園跌倒」「過敏、胃口不好」，並告訴外婆：「保母很有愛心在照顧剴剴」",
+      "phase": "care-period-signs",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-10-24-24"
+    },
+    {
+      "event_id": "evt-2023-10-25-25",
+      "date": "2023-10-25",
+      "title": "外婆再度請求讓周保母成為兒盟特約保母，陳稱政策調整不再招募",
+      "phase": "care-period-signs",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-10-25-25"
+    },
+    {
+      "event_id": "evt-2023-12-09-26",
+      "date": "2023-12-09",
+      "title": "陳尚潔傳照片予外婆，剴剴外觀**劇變、嚴重消瘦**。陳稱剴剴「怕生所以表情嚴肅」，因「磨牙」掉了4顆牙，牙醫建議等長臼齒，並表示「保母很用心在帶剴剴」",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-12-09-26"
+    },
+    {
+      "event_id": "evt-2023-12-21-27",
+      "date": "2023-12-21",
+      "title": "保母家人確診COVID-19，通知居托中心但未消毒。居托中心原訂突擊訪視因此延後至12月底",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-12-21-27"
+    },
+    {
+      "event_id": "evt-20231224-kaikai-death",
+      "date": "2023-12-24",
+      "title": "剴剴因受虐致死於萬芳醫院",
+      "phase": "injury-medical-death",
+      "description": "",
+      "significance": "男童到院前死亡，案情爆發並引發大規模司法調查。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "injury-medical-death"
+      ],
+      "id": "evt-20231224-kaikai-death"
+    },
+    {
+      "event_id": "evt-2023-12-25-28",
+      "date": "2023-12-25",
+      "title": "臺北市社會局接獲兒保案通報。陳尚潔另建「1224意外處理」群組與兒盟同事討論——後遭指控為串證協調",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-12-25-28"
+    },
+    {
+      "event_id": "evt-2023-12-26-29",
+      "date": "2023-12-26",
+      "title": "臺北市社會局派員至保母住處調查，劉姓保母否認施虐。環境髒亂、煙味濃重",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-12-26-29"
+    },
+    {
+      "event_id": "evt-2023-12-27-30",
+      "date": "2023-12-27",
+      "title": "文山社福中心完成受害兒童調查報告。周保母（第三任保母）此時才從新北社工處得知剴剴死訊。社家署就本案是否列為「重大兒虐事件」仍需內部討論",
+      "phase": "prehistory-family",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2023-12-27-30"
+    },
+    {
+      "event_id": "evt-2024-01-09-31",
+      "date": "2024-01-09",
+      "title": "**北檢聲押獲准：劉彩萱、劉若琳遭羈押禁見**",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-01-09-31"
+    },
+    {
+      "event_id": "evt-2024-03-06-32",
+      "date": "2024-03-06",
+      "title": "檢察官排定複驗，開立死亡證明書",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-06-32"
+    },
+    {
+      "event_id": "evt-2024-03-08-33",
+      "date": "2024-03-08",
+      "title": "於劉彩萱住處舉行招魂儀式",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-08-33"
+    },
+    {
+      "event_id": "evt-2024-03-10-34",
+      "date": "2024-03-10",
+      "title": "剴剴告別式、火化、花葬",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-10-34"
+    },
+    {
+      "event_id": "evt-20240311-news-breaks",
+      "date": "2024-03-11",
+      "title": "虐童案情由媒體與家屬友人首度揭露",
+      "phase": "criminal-nanny-trial",
+      "description": "",
+      "significance": "引發全臺輿論高度關注。 ",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "criminal-nanny-trial"
+      ],
+      "id": "evt-20240311-news-breaks"
+    },
+    {
+      "event_id": "evt-2024-03-11-35",
+      "date": "2024-03-11",
+      "title": "**案件曝光**：家屬友人林祐生於Facebook「爆料公社」發文揭露，指控兒盟社工屢次阻擋家屬探視並偽造正面報告，**輿論震動**",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-11-35"
+    },
+    {
+      "event_id": "evt-2024-03-12-36",
+      "date": "2024-03-12",
+      "title": "警方搜索兒盟辦公室。**社工陳尚潔遭逮捕上銬移送**，以過失致死及偽造文書罪嫌偵辦，以30萬元交保。「社工上銬」畫面引發比例原則爭議",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-12-36"
+    },
+    {
+      "event_id": "evt-20240313-cwlf-raid-social-worker-handcuffed",
+      "date": "2024-03-13",
+      "title": "兒福聯盟總部遭搜索，主責社工被帶走",
+      "phase": "criminal-social-worker-trial",
+      "description": "",
+      "significance": "社工手銬爭議引發社工界集體抗議與不安。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "criminal-social-worker-trial"
+      ],
+      "id": "evt-20240313-cwlf-raid-social-worker-handcuffed"
+    },
+    {
+      "event_id": "evt-2024-03-13-37",
+      "date": "2024-03-13",
+      "title": "**衛福部召開記者會，宣布暫停兒盟收出養媒合業務**",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-13-37"
+    },
+    {
+      "event_id": "evt-2024-03-15-38",
+      "date": "2024-03-15",
+      "title": "衛福部邀集臺北市、新北市政府、兒盟及專家學者召開重大個案檢討會議",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-15-38"
+    },
+    {
+      "event_id": "evt-2024-03-17-39",
+      "date": "2024-03-17",
+      "title": "兒盟執行長白麗芳辭職",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-17-39"
+    },
+    {
+      "event_id": "evt-2024-03-20-40",
+      "date": "2024-03-20",
+      "title": "台北、桃園、台中、花蓮、高雄五大社工工會至衛福部前集結，訴求體制改革而非追究個別社工",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-20-40"
+    },
+    {
+      "event_id": "evt-2024-03-22-41",
+      "date": "2024-03-22",
+      "title": "衛福部聯合教育部對兒盟進行聯合稽查",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-22-41"
+    },
+    {
+      "event_id": "evt-2024-03-24-42",
+      "date": "2024-03-24",
+      "title": "衛福部公布兒盟稽查結果，認定**七大缺失**：出養必要性評估不嚴謹、安置品質無管控、出養配對未納外部意見、家庭支持服務被動、社工訓練不足、督導機制不一致、內部治理功能運作現況",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-24-42"
+    },
+    {
+      "event_id": "evt-20240325-mohw-cwlf-audit-report",
+      "date": "2024-03-25",
+      "title": "衛福部與教育部公布兒盟聯合查核結果",
+      "phase": "oversight-admin-review",
+      "description": "",
+      "significance": "列出兒盟內部督導與安置評估之七大缺失。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "oversight-admin-review"
+      ],
+      "id": "evt-20240325-mohw-cwlf-audit-report"
+    },
+    {
+      "event_id": "evt-2024-03-27-43",
+      "date": "2024-03-27",
+      "title": "兒盟召開記者會回應稽查結果。監察院委員葉大華、王幼玲、張菊芳啟動自動調查",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-03-27-43"
+    },
+    {
+      "event_id": "evt-20240418-nanny-indictment",
+      "date": "2024-04-18",
+      "title": "臺北地檢署起訴保母姊妹",
+      "phase": "criminal-nanny-trial",
+      "description": "",
+      "significance": "劉彩萱、劉若琳被控凌虐幼童案致死罪。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "criminal-nanny-trial"
+      ],
+      "id": "evt-20240418-nanny-indictment"
+    },
+    {
+      "event_id": "evt-2024-04-18-44",
+      "date": "2024-04-18",
+      "title": "**北檢起訴保母姊妹：** 劉彩萱與劉若琳以共犯關係遭起訴三項罪名——(1)凌虐兒童妨害身心發展致死罪 (2)成年人故意對兒童施以凌虐而妨害自由因而致人於死罪 (3)成年人故意傷害兒童致死罪。案件分由**國民法官法庭**審理",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-04-18-44"
+    },
+    {
+      "event_id": "evt-2024-04-27-45",
+      "date": "2024-04-27",
+      "title": "自由廣場舉辦「終結兒虐 陽光再現」遊行集會",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-04-27-45"
+    },
+    {
+      "event_id": "evt-2024-07-12-46",
+      "date": "2024-07-12",
+      "title": "立法院通過《兒童及少年性剝削防制條例》修正案",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-07-12-46"
+    },
+    {
+      "event_id": "evt-2024-07-16-47",
+      "date": "2024-07-16",
+      "title": "立法院通過《刑法》第286條修正，被害人為未滿7歲兒童者加重其刑二分之一",
+      "phase": "criminal-investigation-nanny",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-07-16-47"
+    },
+    {
+      "event_id": "evt-20240827-social-worker-indictment",
+      "date": "2024-08-27",
+      "title": "臺北地檢署起訴社工陳尚潔",
+      "phase": "criminal-social-worker-trial",
+      "description": "",
+      "significance": "起訴罪名包含過失致死、偽造訪視紀錄（業務登載不實）。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "criminal-social-worker-trial"
+      ],
+      "id": "evt-20240827-social-worker-indictment"
+    },
+    {
+      "event_id": "evt-2024-08-27-48",
+      "date": "2024-08-27",
+      "title": "**北檢起訴社工陳尚潔：** 以**過失致死罪**及**行使業務登載不實文書罪**起訴，求處從重量刑。起訴書列舉13項程序爭執點，包括：事先通知保母訪視、未增加訪視頻率、未通報兒少保護、隔絕家屬與保母之直接聯繫、對急診醫師說謊、事後建群組討論修改紀錄等",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-08-27-48"
+    },
+    {
+      "event_id": "evt-2024-09-25-49",
+      "date": "2024-09-25",
+      "title": "保母案國民法官法庭**一審首次開庭**，劉姓姊妹否認全部犯行，主張自白遭不正訊問",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-09-25-49"
+    },
+    {
+      "event_id": "evt-2024-12-25-50",
+      "date": "2024-12-25",
+      "title": "保母案第二次開庭，檢方提出新證據，被告持續否認",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2024-12-25-50"
+    },
+    {
+      "event_id": "evt-2025-01-06-51",
+      "date": "2025-01-06",
+      "title": "**社工案首次開庭**（審查庭）：陳尚潔明顯懷孕出庭，否認全部犯行，辯稱未偽造紀錄。因不認罪，案件由簡式審判改為通常審判程序（案號：**114年度訴字第51號**）。另查出陳尚潔於113年11月18日出境赴日，法院裁定限制出境",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-01-06-51"
+    },
+    {
+      "event_id": "evt-2025-02-05-52",
+      "date": "2025-02-05",
+      "title": "保母案第三次開庭：檢方原選109張虐待照片，法官考量國民法官負擔減為67張。劉姓姊妹僅承認綑綁與打腳底，否認其餘指控",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-02-05-52"
+    },
+    {
+      "event_id": "evt-2025-03-16-53",
+      "date": "2025-03-16",
+      "title": "公共政策平台「加重兒虐刑責」連署破69,000人門檻",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-03-16-53"
+    },
+    {
+      "event_id": "evt-2025-03-19-54",
+      "date": "2025-03-19",
+      "title": "保母案第四次開庭（最後準備程序）：逾200人持白菊花聚集法院外，「**白菊花運動**」啟動。藝人賈永婕出席聲援",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-03-19-54"
+    },
+    {
+      "event_id": "evt-2025-04-09-55",
+      "date": "2025-04-09",
+      "title": "北檢另案起訴劉彩萱與劉若琳：涉嫌虐待同時期收托之另外2名嬰幼兒（蔡姓嬰兒與潘姓嬰兒）",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-04-09-55"
+    },
+    {
+      "event_id": "evt-2025-04-17-56",
+      "date": "2025-04-17",
+      "title": "**社工案第二次開庭**：陳尚潔否認全部犯行，稱感到「心碎、委屈」。辯護律師主張監督保母為文山居托中心之職責，非兒盟或陳尚潔之權限",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-04-17-56"
+    },
+    {
+      "event_id": "evt-2025-04-21-57",
+      "date": "2025-04-21",
+      "title": "保母案國民法官選任：選出6名國民法官與4名備位",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-04-21-57"
+    },
+    {
+      "event_id": "evt-2025-04-22-58",
+      "date": "2025-04-22",
+      "title": "**保母案密集審理開始**（審理首日）：3名職業法官（審判長林鈺珍）+ 6名國民法官（2男4女）。為國民法官制度自112年7月施行以來**最長審理案件**。檢方提出剴剴遭布條綑綁如「木乃伊」、頭套水果網袋之照片，及姊妹LINE對話紀錄。外婆當庭情緒崩潰",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-04-22-58"
+    },
+    {
+      "event_id": "evt-2025-04-23-59",
+      "date": "2025-04-23",
+      "title": "審理第二日：關鍵證人Mira（劉家前外籍照顧者）自美國返台作證，證述剴剴遭強迫裸身罰站、冷水沖澡、在浴室餵食混有蟑螂之廚餘，身上經常有瘀傷",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-04-23-59"
+    },
+    {
+      "event_id": "evt-2025-04-28-60",
+      "date": "2025-04-28",
+      "title": "審理第四日：劉彩萱承認綑綁但辯稱「想打死他」之訊息為閒聊。劉若琳先否認目睹罰站，經出示證據後改口",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-04-28-60"
+    },
+    {
+      "event_id": "evt-2025-04-29-61",
+      "date": "2025-04-29",
+      "title": "審理第五日：法醫許倬憲證述死因為低血容性休克；台大兒醫呂立醫師描述42處以上傷痕為「教科書等級虐待」，包括頭部傷害、生殖器撕裂傷（疑似性虐待），否定「磨牙導致掉牙」之說——「口腔內無任何磨牙痕跡」",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-04-29-61"
+    },
+    {
+      "event_id": "evt-2025-05-07-62",
+      "date": "2025-05-07",
+      "title": "**最後言詞辯論**：檢方陳述剴剴僅活672天，其中115天遭受非人道對待，形容劉彩萱如「蜘蛛般」持續施虐。檢方求處劉彩萱無期徒刑、劉若琳18年。劉彩萱哭泣承認「我對不起，我錯了」；劉若琳僅承認不小心以指甲刮傷剴剴",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-05-07-62"
+    },
+    {
+      "event_id": "evt-2025-05-10-63",
+      "date": "2025-05-10",
+      "title": "凱達格蘭大道舉辦「**終結兒虐·陪你長大**」大遊行（母親節前夕），主辦方估計逾**10,000人**參加，遞交85,000份連署書予總統府，無政黨動員",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-05-10-63"
+    },
+    {
+      "event_id": "evt-20250512-nanny-first-verdict",
+      "date": "2025-05-12",
+      "title": "保母姊妹一審判決宣判",
+      "phase": "criminal-nanny-trial",
+      "description": "",
+      "significance": "北院國民法官判處劉彩萱無期徒刑、劉若琳18年徒刑。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "criminal-nanny-trial"
+      ],
+      "id": "evt-20250512-nanny-first-verdict"
+    },
+    {
+      "event_id": "evt-2025-05-13-64",
+      "date": "2025-05-13",
+      "title": "**保母案一審宣判**（113年度國審訴字第1號）：**劉彩萱處無期徒刑、褫奪公權終身**——台灣兒虐案史上最重刑度。**劉若琳處有期徒刑18年**。法院認定二人「以虐取樂」，惡性重大，危害至巨，均未與被害人家屬和解",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-05-13-64"
+    },
+    {
+      "event_id": "evt-2025-05-21-65",
+      "date": "2025-05-21",
+      "title": "監察院教育及文化委員會通過調查報告",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-05-21-65"
+    },
+    {
+      "event_id": "evt-20250529-control-yuan-correction",
+      "date": "2025-05-29",
+      "title": "監察院通過糾正案文",
+      "phase": "oversight-admin-review",
+      "description": "",
+      "significance": "正式糾正衛福部、新北市府、臺北市府，指監督流於形式。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "oversight-admin-review"
+      ],
+      "id": "evt-20250529-control-yuan-correction"
+    },
+    {
+      "event_id": "evt-2025-05-29-66",
+      "date": "2025-05-29",
+      "title": "**監察院糾正三機關**（糾正案由葉大華、王幼玲、張菊芳委員提出）：(1)糾正**衛生福利部**——對收出養媒合機構監督不力、未修法規範出養前安置制度之法規空白 (2)糾正**新北市政府**——轉介兒盟後未獨立追蹤、督導紀錄嚴重延宕、遲至案發後3個月始召開檢討會議 (3)糾正**臺北市政府**——居托訪視監督形同虛設、保母實際托育地址與登記不符未查覺、訪視紀錄與事實嚴重不符。另將兒盟社工違規行為移送臺北地方法院",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-05-29-66"
+    },
+    {
+      "event_id": "evt-2025-06-04-67",
+      "date": "2025-06-04",
+      "title": "立法院司法及法制委員會初審通過《刑法》修正草案，將兒虐致死刑責提高至可判處死刑",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-06-04-67"
+    },
+    {
+      "event_id": "evt-2025-07-01-68",
+      "date": "2025-07-01",
+      "title": "保母案被告與檢方均提起上訴。臺灣高等法院開始二審程序，裁定繼續羈押",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-07-01-68"
+    },
+    {
+      "event_id": "evt-2025-07-17-69",
+      "date": "2025-07-17",
+      "title": "**社工案第三次開庭**：陳尚潔持續否認犯行，稱「不確定自己應該承擔什麼責任」。以法院限制通道入庭引發「特權」爭議",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-07-17-69"
+    },
+    {
+      "event_id": "evt-20250718-kaikai-clause-legislation",
+      "date": "2025-07-18",
+      "title": "立法院通過「剴剴條款」（刑法修正）",
+      "phase": "legislation-public-discourse",
+      "description": "",
+      "significance": "加重虐童致死刑責，最高可處死刑或無期徒刑。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "legislation-public-discourse"
+      ],
+      "id": "evt-20250718-kaikai-clause-legislation"
+    },
+    {
+      "event_id": "evt-2025-07-18-70",
+      "date": "2025-07-18",
+      "title": "**「剴剴條款」立法院三讀通過**：增訂《刑法》第272條之1——殺害未滿7歲兒童加重其刑二分之一；**凌虐殺害未滿7歲兒童者處死刑或無期徒刑**。修正第286條——凌虐未滿7歲兒童致死者處死刑、無期徒刑或10年以上有期徒刑。表決結果：國民黨+民眾黨+1名民進黨立委贊成（60票），民進黨反對（45票）",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-07-18-70"
+    },
+    {
+      "event_id": "evt-20250801-kaikai-clause-effective",
+      "date": "2025-08-01",
+      "title": "「剴剴條款」總統公布生效",
+      "phase": "legislation-public-discourse",
+      "description": "",
+      "significance": "法規正式上路，完成本案引導之法制補洞。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "legislation-public-discourse"
+      ],
+      "id": "evt-20250801-kaikai-clause-effective"
+    },
+    {
+      "event_id": "evt-2025-09-23-71",
+      "date": "2025-09-23",
+      "title": "保母案高等法院開庭：法官詢問修復式司法可能性。劉彩萱律師表示願意，劉若琳律師主張無罪不願意，被害人家屬律師表示在被告未認錯前無和解基礎",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-09-23-71"
+    },
+    {
+      "event_id": "evt-2025-09-25-72",
+      "date": "2025-09-25",
+      "title": "**社工案第四次開庭**（準備程序），下午2:30於臺北地院寶慶院區",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-09-25-72"
+    },
+    {
+      "event_id": "evt-2025-11-10-73",
+      "date": "2025-11-10",
+      "title": "保母案高等法院準備程序：確認證據範圍，包括在監接見紀錄及平均餘命精算資料",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-11-10-73"
+    },
+    {
+      "event_id": "evt-2025-11-27-74",
+      "date": "2025-11-27",
+      "title": "**社工案第五次開庭**：兒盟執行長白麗芳出庭作證，面對法官質問陳社工是否有程序爭執點時反覆推諉，法官斥責「你只是在找藉口」。督導葉亭希就指示陳尚潔刪除照片一事受訊",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-11-27-74"
+    },
+    {
+      "event_id": "evt-20251211-social-worker-witness-hearing-1",
+      "date": "2025-12-11",
+      "title": "社工案關鍵證人（醫師、兒盟副處長）出庭",
+      "phase": "criminal-social-worker-trial",
+      "description": "",
+      "significance": "萬芳醫院醫師黃聖心證稱傷勢為肉眼可辨。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "criminal-social-worker-trial"
+      ],
+      "id": "evt-20251211-social-worker-witness-hearing-1"
+    },
+    {
+      "event_id": "evt-2025-12-11-75",
+      "date": "2025-12-11",
+      "title": "社工案第六次開庭",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-12-11-75"
+    },
+    {
+      "event_id": "evt-2025-12-18-76",
+      "date": "2025-12-18",
+      "title": "社工案第七次開庭",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-12-18-76"
+    },
+    {
+      "event_id": "evt-2025-12-19-77",
+      "date": "2025-12-19",
+      "title": "兒盟被指控串證，兒盟否認干預司法",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-12-19-77"
+    },
+    {
+      "event_id": "evt-2025-12-22-78",
+      "date": "2025-12-22",
+      "title": "**保母案二審辯論終結**：專一法庭座無虛席，逾百人旁聽，包括立委王婉諭、藝人郁方。檢察官李允煉稱：「這是我20多年來看過最慘的兒虐解剖照片。」被害人家屬律師：「這不是人做的事。」劉彩萱起身鞠躬哭泣道歉，稱將請律師協商賠償。劉若琳無話可說。宣判日定為115年1月27日",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-12-22-78"
+    },
+    {
+      "event_id": "evt-2025-12-24-79",
+      "date": "2025-12-24",
+      "title": "剴剴逝世兩週年。社工界呼籲全面改革，社家署承諾全面檢討",
+      "phase": "social-worker-trial",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2025-12-24-79"
+    },
+    {
+      "event_id": "evt-2026-01-11-80",
+      "date": "2026-01-11",
+      "title": "「護兒少·反廢死」大遊行",
+      "phase": "monitoring-admin-responsibility",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2026-01-11-80"
+    },
+    {
+      "event_id": "evt-2026-01-22-81",
+      "date": "2026-01-22",
+      "title": "**社工案第八次開庭**（上午9:30）",
+      "phase": "monitoring-admin-responsibility",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2026-01-22-81"
+    },
+    {
+      "event_id": "evt-20260126-nanny-second-verdict",
+      "date": "2026-01-26",
+      "title": "保母姊妹二審宣判（維持原判）",
+      "phase": "criminal-nanny-trial",
+      "description": "",
+      "significance": "高等法院駁回上訴，維持一審重刑判定。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "criminal-nanny-trial"
+      ],
+      "id": "evt-20260126-nanny-second-verdict"
+    },
+    {
+      "event_id": "evt-2026-01-27-82",
+      "date": "2026-01-27",
+      "title": "**保母案二審宣判**（臺灣高等法院，審判長廖建瑜、法官黃怡菁、文家倩）：**駁回全部上訴，維持原判**——劉彩萱無期徒刑、褫奪公權終身；劉若琳有期徒刑18年。高院認定一審國民法官判決「沒有偏見預斷或偏頗不公」「判決無違誤或不當」。判決書逾**100頁**，為國民法官制度實施以來最長判決書。被告羈押自2月1日起延長2個月。高檢署將評估是否上訴最高法院",
+      "phase": "monitoring-admin-responsibility",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2026-01-27-82"
+    },
+    {
+      "event_id": "evt-2026-01-29-83",
+      "date": "2026-01-29",
+      "title": "社工案第九次開庭",
+      "phase": "monitoring-admin-responsibility",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2026-01-29-83"
+    },
+    {
+      "event_id": "evt-2026-02-23-84",
+      "date": "2026-02-23",
+      "title": "**社工案第十次開庭**（全日審理）：法院勘驗112年11月23日剴剴就醫監視器畫面——剴剴「面無表情、僵硬、不哭」，劉彩萱以成人口罩遮住剴剴雙眼（經牙醫糾正）。檢方質問陳尚潔，她坦承台大社工系畢業、約6年出養經驗，辯稱自己「只是社會安全網中的一環」「沒有人覺得已達通報門檻」。檢察官回應：**「不要扯別人」**。法官質問其在112年9月至11月請了10天假之情形",
+      "phase": "monitoring-admin-responsibility",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2026-02-23-84"
+    },
+    {
+      "event_id": "evt-2026-02-26-85",
+      "date": "2026-02-26",
+      "title": "**社工案最終言詞辯論**：審判長吳家桐詢問陳尚潔是否仍認為無責任，陳維持無罪答辯。**檢方**主張陳尚潔為剴剴唯一對外聯繫窗口，具「保證人地位」，卻漠視虐待徵兆使保母「有恃無恐地升級暴力」，114天無通報（法定應於24小時內通報），請求從重量刑。**辯護方**（律師蔡宜臻、朱浩文）請求無罪判決，主張陳尚潔被劉彩萱「高超演技」所欺騙、確有每月訪視並採取行動（詢問傷勢、建議就醫、諮詢督導）、不具刑法上「保證人地位」、監督保母為文山居托中心與樹鶯社福中心之公權力責任。**陳尚潔最終陳述約27分鐘、逾3,000字**，含淚對剴剴喊話「你離開超過2年了……我還是無法接受……我求耶穌照顧你」，回顧社工初衷「像在做上帝的工作」，批評檢警「誘騙」她，回憶遭上銬移送之屈辱。庭外「剴剴戰士」30餘人身著黑衣、手持白菊花與嬰兒玩偶抗議",
+      "phase": "monitoring-admin-responsibility",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2026-02-26-85"
+    },
+    {
+      "event_id": "evt-2026-03-02-86",
+      "date": "2026-03-02",
+      "title": "Right Plus（多多益善）刊出社工案審理詳細分析報導，為最完整的庭審紀錄",
+      "phase": "monitoring-admin-responsibility",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2026-03-02-86"
+    },
+    {
+      "event_id": "evt-2026-04-01-87",
+      "date": "2026-04-01",
+      "title": "臺北市社工工會副理事長沈曜逸表達擔憂：若社工案判有罪，恐引發**社工出走潮**；主張從專業角度看「陳社工該做的都做了」",
+      "phase": "monitoring-admin-responsibility",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2026-04-01-87"
+    },
+    {
+      "event_id": "evt-2026-04-02-88",
+      "date": "2026-04-02",
+      "title": "全國19所大學社工／社福學系聯合聲明，呼籲社會理解社工專業侷限、勿將社工作為體制缺陷之代罪羔羊",
+      "phase": "monitoring-admin-responsibility",
+      "status": "Confirmed",
+      "source_refs": [
+        "src-businesstoday-064"
+      ],
+      "id": "evt-2026-04-02-88"
+    },
+    {
+      "event_id": "evt-20260416-social-worker-scheduled-verdict",
+      "date": "2026-04-16",
+      "title": "社工案一審預定宣判日",
+      "phase": "criminal-social-worker-trial",
+      "description": "",
+      "significance": "焦點在於「保證人地位」的法律判定。",
+      "location": "",
+      "related_entities": [],
+      "source_refs": [],
+      "tags": [
+        "criminal-social-worker-trial"
+      ],
+      "id": "evt-20260416-social-worker-scheduled-verdict"
+    }
+  ],
+  "hearings": [
+    {
+      "hearing_id": "hearing-20250106-review",
+      "date": "2025-01-06",
+      "case_number": "114年度訴字第51號",
+      "proceedings_type": "審查庭",
+      "title": "首度審查庭：被告否認犯罪",
+      "judge": [
+        "prs-wu-jia-tong",
+        "prs-hu-yuan-shuo",
+        "prs-zhao-shu-yu"
+      ],
+      "prosecutor": "prs-lin-yu-mei",
+      "defendant": "prs-chen-shang-jie",
+      "witnesses": [],
+      "legal_arguments": [],
+      "court_activity": "被告陳尚潔否認偽造訪視紀錄及過失致死罪嫌，案件轉為一般審理程序。",
+      "source_refs": [
+        "src-judicial-001"
+      ],
+      "id": "hearing-20250106-review"
+    },
+    {
+      "hearing_id": "hearing-20250417-trial-continued",
+      "date": "2025-04-17",
+      "case_number": "114年度訴字第51號",
+      "proceedings_type": "審理程序",
+      "title": "續行審理：維持無罪立場",
+      "judge": [
+        "prs-wu-jia-tong",
+        "prs-hu-yuan-shuo",
+        "prs-zhao-shu-yu"
+      ],
+      "prosecutor": "prs-lin-yu-mei",
+      "defendant": "prs-chen-shang-jie",
+      "witnesses": [],
+      "legal_arguments": [],
+      "court_activity": "被告延續無罪立場，針對是否補寫工作紀錄與檢方對質。",
+      "source_refs": [
+        "src-judicial-001"
+      ],
+      "id": "hearing-20250417-trial-continued"
+    },
+    {
+      "hearing_id": "hearing-20250717-trial-3",
+      "date": "2025-07-17",
+      "case_number": "114年度訴字第51號",
+      "proceedings_type": "審理程序",
+      "title": "第三次庭訊：和解談判未果",
+      "judge": [
+        "prs-wu-jia-tong",
+        "prs-hu-yuan-shuo",
+        "prs-zhao-shu-yu"
+      ],
+      "prosecutor": "prs-lin-yu-mei",
+      "defendant": "prs-chen-shang-jie",
+      "witnesses": [],
+      "legal_arguments": [],
+      "court_activity": "辯方表態目前不考慮與家屬和解，法庭持續進行程序整理。",
+      "source_refs": [
+        "src-judicial-001"
+      ],
+      "id": "hearing-20250717-trial-3"
+    },
+    {
+      "hearing_id": "hearing-20250925-preparation",
+      "date": "2025-09-25",
+      "case_number": "114年度訴字第51號",
+      "proceedings_type": "準備程序",
+      "title": "準備程序終結：傳喚11名證人",
+      "judge": [
+        "prs-wu-jia-tong",
+        "prs-hu-yuan-shuo",
+        "prs-zhao-shu-yu"
+      ],
+      "prosecutor": "prs-lin-yu-mei",
+      "defendant": "prs-chen-shang-jie",
+      "witnesses": [],
+      "legal_arguments": [],
+      "court_activity": "完成所有爭點整理，法庭宣布將傳喚包含醫師、社工、兒盟高層在內的11名關鍵證人。",
+      "source_refs": [
+        "src-judicial-001"
+      ],
+      "id": "hearing-20250925-preparation"
+    },
+    {
+      "hearing_id": "hearing-20251127-witness-testimony-1",
+      "date": "2025-11-27",
+      "case_number": "114年度訴字第51號",
+      "proceedings_type": "審理程序",
+      "title": "第一波證人詰問：職務義務之辯",
+      "judge": [
+        "prs-wu-jia-tong",
+        "prs-hu-yuan-shuo",
+        "prs-zhao-shu-yu"
+      ],
+      "prosecutor": "prs-lin-yu-mei",
+      "defendant": "prs-chen-shang-jie",
+      "witnesses": [
+        {
+          "entity_id": "prs-xu-pei-hua",
+          "testimony_summary": "強調：收出養媒合機構屬『特許行業』，社工角色受媒合與服務規範體系所繫。"
+        },
+        {
+          "entity_id": "prs-shi-ying-ru",
+          "testimony_summary": "主張：若以『安置』為前提，本案沒有所謂『主責社工』。自我界定為追蹤原生家庭、而非追蹤出養後照顧狀況者。"
+        },
+        {
+          "entity_id": "prs-ding-yan-qi",
+          "testimony_summary": ""
+        }
+      ],
+      "legal_arguments": [],
+      "court_activity": "樹鶯社福中心社工施盈如證述：被告曾來電詢問孩童瘀傷，證明被告早已知悉異常。",
+      "source_refs": [
+        "src-judicial-001"
+      ],
+      "testimony_detail": "2025-11-27 庭訊報導將 徐珮華 指稱為 「衛福部社家署家庭支持組家庭資源科督導」，並記載其於剴剴案社工審理中與新北市端證人同庭出證。因此，在資料庫中可以先將其列為 「公開報導所載：衛生福利部社會及家庭署家庭支持組家庭資源科督導」；但若未來取得法院筆錄或正式證人名冊，仍應再核正。 (TVBS)\r\n原始網址名稱：撇清害死剴剴！社工陳尚潔否認知情　證人指她曾來電告知：額頭有傷\r\n原始網址：\r\nhttps://news.tvbs.com.tw/local/3056667\r\n來源簡稱或單位名稱：【TVBS／公開庭訊報導】\r\n[施盈儒]\r\n同一則 TVBS 2025-11-27 庭訊報導將 施盈儒 指稱為 「新北市社會局樹鶯社福中心社工」，並記載其與徐珮華同庭作證。因此，在資料庫中可先將其列為 「公開報導所載：新北市政府社會局樹鶯社會福利服務中心社工」；其具體人事資料仍以未來可取得的法院筆錄或官方人事資訊為準。 (TVBS)\r\n原始網址名稱：撇清害死剴剴！社工陳尚潔否認知情　證人指她曾來電告知：額頭有傷\r\n原始網址：\r\nhttps://news.tvbs.com.tw/local/3056667\r\n原始網址名稱：樹鶯社福中心－新北市政府社會局\r\n原始網址：\r\nhttps://www.sw.ntpc.gov.tw/home.jsp?id=dc10040f7951c055\r\n來源簡稱或單位名稱：【TVBS／新北市政府社會局】\r\n[林心慈]\r\n截至目前可查得的公開來源中，林心慈 主要出現在庭訊媒體報導，並被指稱為 文山居家托育服務中心訪視員；但尚未見到可直接對應其個人人事資訊的官方名錄。因此，資料庫中可以先保留為 「公開報導所載：臺北市文山區居家托育服務中心訪視員」，並標示為待法院筆錄或官方名冊進一步核正。 (太報 TaiSounds)\r\n原始網址名稱：剴剴案再延燒！訪視員涉偽造「家訪惡保母」日期 檢察官證實偵辦中\r\n原始網址：\r\nhttps://www.taisounds.com/news/content/95/238852\r\n原始網址名稱：兒童臨時托育服務（含文山區居家托育服務中心聯絡資料）\r\n原始網址：\r\nhttps://dosw.gov.taipei/cp.aspx?n=9015983D7A6AF7A3\r\n來源簡稱或單位名稱：【太報／臺北市政府社會局】\r\n\r\n五、本批建議併入資料庫的「待核正條目」\r\n這些條目我建議先收進資料庫，但標成 「待原始筆錄／名冊確認」，避免誤寫：\r\n• 黃鈴芳（公開報導所載：文山區居家托育服務中心督導）\r\n• 丁雁琪（公開報導所載：財團法人天主教福利會相關人員）\r\n• 李芳玲、江怡韻、白麗芳、葉亭希、葉詩宇（公開報導所載：兒盟管理／督導鏈條相關人員）\r\n• 蔡函妤（公開報導所載：牙醫師）\r\n• 主責社工（實務／庭訊常用語，正式法規未見統一定義，建議下一輪與社工實務手冊一併處理）\r\n這樣做的好處是：先把可確認的機構全名、正式方案名稱、正式角色稱呼全部穩住，再把證人個別人事背景按證據強弱分層，不會因為媒體逐庭用語而把資料庫做得過度武斷。(太報 TaiSounds)\r\n\r\n這一批完成後，下一批最適合接什麼\r\n下一批最自然就是你規劃中的 第五批：兒童生長、發展、醫療與牙科專業名詞，把你前面已指定的：\r\n• 生長曲線\r\n• 出生體重\r\n• 出生後體重增長速度\r\n• 發育遲緩\r\n• 身體障礙／身心障礙\r\n• 乳牙萌發與汰換年齡\r\n• 兒童發展篩檢\r\n• 黃金療育期\r\n一次補齊，而且會優先採 衛生福利部國民健康署、教學醫院兒科／兒童牙科、中華民國兒童牙科醫學會 等來源。\r\n我下一則就直接做第五批。\r\n\r\n\r\n可以，這一輪我先做兩件事：\r\n一是把你剛指定、前面還沒補齊的制度與監護權相關詞條補上。\r\n二是直接進入 第六階段（下）延伸資料庫正式完稿，把你指定的七類資料整理成可直接收進資料庫的版本。所有條目都附上來源名稱與完整原始網址。\r\n\r\n第六階段補遺：制度、社福中心、主責社工與監護權\r\n1. [脆弱家庭]\r\n脆弱家庭 依衛生福利部社會安全網定義，係指家庭因貧窮、犯罪、失業、物質濫用、未成年親職、照顧嚴重身心障礙兒童、家庭照顧功能不足等風險或多重問題，造成物質、生理、心理、環境上的脆弱性，而需要多重支持與服務介入的家庭。官方同時強調，脆弱性樣態本身不等於必然開案，仍須完成脆弱性、家庭功能與需求評估後，才能決定是否由社會福利服務中心開案介入。 (衛生福利部)\r\n原始網址名稱：什麼是脆弱家庭？要如何辨識脆弱家庭？\r\n原始網址：\r\nhttps://mohw.gov.tw/SS/cp-4531-50117-204.html\r\n原始網址名稱：請問什麼是脆弱家庭？\r\n原始網址：\r\nhttps://mohw.gov.tw/SS/cp-4530-50089-204.html\r\n來源簡稱或單位名稱：【衛生福利部社會安全網／衛生福利部社會及家庭署】\r\n2. [社會福利服務中心社工]\r\n社會福利服務中心社工 可從社會福利服務中心的角色定位反推：社福中心是社區第一線福利服務窗口，負責受理求助、評估家庭整體需求、針對多重且複雜需求家庭開案介入、擔任個案管理者，並連結跨體系網絡資源提供整體性服務；若屬單一、特定需求，則辨識後媒合既有服務系統優先介入。換言之，社福中心社工的核心位置是「第一線受理、整體評估、個管與跨網絡協調」。 (衛生福利部)\r\n原始網址名稱：社會福利服務中心的角色定位和主要功能為何？\r\n原始網址：\r\nhttps://mohw.gov.tw/SS/cp-4531-50115-204.html\r\n原始網址名稱：社會福利服務中心提供甚麼服務呢？\r\n原始網址：\r\nhttps://topics.mohw.gov.tw/SS/cp-4530-50091-204.html\r\n原始網址名稱：112年脆弱家庭服務與身心障礙個管跨網絡合作共識營\r\n原始網址：\r\nhttps://topics.mohw.gov.tw/SS/cp-6589-75319-204.html\r\n來源簡稱或單位名稱：【衛生福利部社會安全網】\r\n3. [社會福利服務中心社工職務]\r\n若把前條再拆細，社會福利服務中心社工職務 至少包括：受理民眾求助、家庭功能與需求評估、脆弱家庭開案、擔任個案管理、福利資源連結與轉介、跨網絡協作、追蹤各系統服務進度與目標達成情形。官方並明示，社福中心面對單一需求個案時，也要先辨識是否另有多重脆弱性，以避免服務破碎化。 (衛生福利部)\r\n原始網址名稱：社會福利服務中心的角色定位和主要功能為何？\r\n原始網址：\r\nhttps://mohw.gov.tw/SS/cp-4531-50115-204.html\r\n原始網址名稱：社會福利服務中心提供甚麼服務呢？\r\n原始網址：\r\nhttps://topics.mohw.gov.tw/SS/cp-4530-50091-204.html\r\n原始網址名稱：什麼是脆弱家庭？要如何辨識脆弱家庭？\r\n原始網址：\r\nhttps://mohw.gov.tw/SS/cp-4531-50117-204.html\r\n來源簡稱或單位名稱：【衛生福利部社會安全網】\r\n4. [主責社工]\r\n主責社工 不是中央法規中高度固定的法定名詞，較常見於實務與媒體語言；官方公開頁面較常使用的是「個案管理」「開案社工」「派案社工人員」等表述。依社會福利服務中心的官方說明，主責社工在實務上可理解為該案件的主要承辦與個案管理者，負責整體評估、服務協調、追蹤與跨系統連結，但這個角色本身不當然等於法定代理人或監護人。 (衛生福利部)\r\n原始網址名稱：社會福利服務中心的角色定位和主要功能為何？\r\n原始網址：\r\nhttps://mohw.gov.tw/SS/cp-4531-50115-204.html\r\n原始網址名稱：圖2、兒少保護架構與流程（包含社福、警政及司法）\r\n原始網址：\r\nhttps://www.mohw.gov.tw/dl-2389-dc5bef08-77b5-47fe-8a4a-ed17e5ca91b2.html\r\n原始網址名稱：兒童及少年福利與權益保障法§60\r\n原始網址：\r\nhttps://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=60&pcode=D0050001\r\n來源簡稱或單位名稱：【衛生福利部社會安全網／衛生福利部／全國法規資料庫】\r\n5. [監護權]\r\n在未成年人保護脈絡下，監護權 與 親權 並不完全相同。依《民法》第1098條，監護人於監護權限內，為受監護人之法定代理人；依第1055條之2，父母均不適合行使權利時，法院應依子女最佳利益選定適當之人為監護人；依第1094條，若父母均不能行使、負擔對未成年子女之權利義務，而又無適當順序監護人時，法院得選定主管機關、社會福利機構或其他適當之人為監護人，在法院正式選定確定前，由當地社會福利主管機關暫為其監護人。 (法務部主管法規查詢系統)\r\n原始網址名稱：民法第1055條之2\r\n原始網址：\r\nhttps://mojlaw.moj.gov.tw/LawContentExtent.aspx?LawNo=1055-2&lsid=FL001351\r\n原始網址名稱：民法第1094條\r\n原始網址：\r\nhttps://mojlaw.moj.gov.tw/LawContentExtent.aspx?LawNo=1094&lsid=FL001351\r\n原始網址名稱：民法第1098條\r\n原始網址：\r\nhttps://mojlaw.moj.gov.tw/LawContentExtent.aspx?LSID=FL001351&LawNo=1098\r\n來源簡稱或單位名稱：【法務部主管法規查詢系統】\r\n6. [何種情況下孩子監護權會在社福中心社工身上？]\r\n就現行正式法制來看，一般情況下，不會把孩子的監護權放在「社福中心社工個人」身上。正式法規把監護人定位為法院選定之適當之人、主管機關、社會福利機構或法定順位親屬；而在保護安置期間，依《兒童及少年福利與權益保障法》第60條，行使、負擔父母對未成年子女權利義務的主體是「直轄市、縣（市）主管機關」或「受其交付安置之機構或寄養家庭」，並由其選任成員一人執行監護事務，而不是由承辦社工個人直接取得完整監護權。 (全國法規資料庫)\r\n原始網址名稱：兒童及少年福利與權益保障法§60\r\n原始網址：\r\nhttps://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=60&pcode=D0050001\r\n原始網址名稱：民法第1094條\r\n原始網址：\r\nhttps://mojlaw.moj.gov.tw/LawContentExtent.aspx?LawNo=1094&lsid=FL001351\r\n原始網址名稱：兒少安置期間之保護教養及法定代理人責任之探討\r\n原始網址：\r\nhttps://cdj.sfaa.gov.tw/Journal/Content?gno=13029\r\n來源簡稱或單位名稱：【全國法規資料庫／法務部主管法規查詢系統／衛生福利部社會及家庭署《社區發展季刊》】\r\n7. [何種情況下孩子會由兒少保護社工停止親權並取得監護權？]\r\n這個說法若依正式法制來看，應修正為：兒少保護社工可能參與「啟動停止親權或監護變更程序」，但不是由社工本人停止親權，也通常不是由社工本人取得監護權。依《民法》第1090條，停止父母權利是由法院宣告；聲請主體可以是他方、未成年子女、主管機關、社會福利機構或其他利害關係人。若父母均不適合行使權利，法院再依第1055條之2選定監護人；若父母均不能行使、負擔權利義務，則依第1094條處理。因此，兒少保護社工在制度中的位置，通常是評估、蒐證、通報、提出處遇建議、協助主管機關或機構進行法院程序，而不是自己成為監護人。 (法務部主管法規查詢系統)\r\n原始網址名稱：民法第1090條\r\n原始網址：\r\nhttps://mojlaw.moj.gov.tw/LawContentExtent.aspx?LawNo=1090&lsid=FL001351\r\n原始網址名稱：民法第1055條之2\r\n原始網址：\r\nhttps://mojlaw.moj.gov.tw/LawContentExtent.aspx?LawNo=1055-2&lsid=FL001351\r\n原始網址名稱：民法第1094條\r\n原始網址：\r\nhttps://mojlaw.moj.gov.tw/LawContentExtent.aspx?LawNo=1094&lsid=FL001351\r\n原始網址名稱：兒少保護社會工作者如何與家庭工作——當親職教育成功的重要推手\r\n原始網址：\r\nhttps://cdj.sfaa.gov.tw/Journal/Content?gno=9323\r\n來源簡稱或單位名稱：【法務部主管法規查詢系統／衛生福利部社會及家庭署《社區發展季刊》】\r\n8. [縣市政府監護兒少／府監兒少]\r\n「府監兒少」 不是我目前查到的中央法規正式名詞，而比較像實務上的簡稱；若用正式法制語言來說，常見的對應情況有兩種：\r\n第一，依《民法》第1094條第6項，在法院正式選定監護人之前，由當地社會福利主管機關 暫為監護人。\r\n第二，依《兒童及少年福利與權益保障法》第60條，在保護安置期間，由直轄市、縣（市）主管機關 或受其交付安置之機構、寄養家庭，在保護安置範圍內行使、負擔父母對未成年子女之權利義務。\r\n因此，若你資料庫要收「府監兒少」，我建議明確註記為：實務用語，通常指由直轄市、縣（市）政府社政體系擔負監護或保護安置責任之兒少；正式法律文書宜改用主管機關、監護人、保護安置兒少等名稱。 (法務部主管法規查詢系統)\r\n原始網址名稱：民法第1094條\r\n原始網址：\r\nhttps://mojlaw.moj.gov.tw/LawContentExtent.aspx?LawNo=1094&lsid=FL001351\r\n原始網址名稱：兒童及少年福利與權益保障法§60\r\n原始網址：\r\nhttps://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=60&pcode=D0050001\r\n原始網址名稱：兒少安置期間之保護教養及法定代理人責任之探討\r\n原始網址：\r\nhttps://cdj.sfaa.gov.tw/Journal/Content?gno=13029\r\n來源簡稱或單位名稱：【法務部主管法規查詢系統／全國法規資料庫／衛生福利部社會及家庭署《社區發展季刊》】\r\n9. [主責社工與監護權的關係]\r\n主責社工 與 監護權 應嚴格區分。主責社工通常是案件主要承辦、評估、個案管理與跨網絡協調者；而監護權則是民法或兒少法下的法定代理、保護教養與權利義務主體。也就是說，主責社工可能是案件最關鍵的專業執行者，但這不表示其法律地位就等於監護人。這個區分對理解剴剴案中特定社工的責任爭議特別重要：檢辯可以爭執其是否負有高度注意義務或保證人地位，但那仍不等於其已依法取得監護權。 (衛生福利部)\r\n原始網址名稱：社會福利服務中心的角色定位和主要功能為何？\r\n原始網址：\r\nhttps://mohw.gov.tw/SS/cp-4531-50115-204.html\r\n原始網址名稱：兒童及少年福利與權益保障法§60\r\n原始網址：\r\nhttps://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=60&pcode=D0050001\r\n原始網址名稱：民法第1098條\r\n原始網址：\r\nhttps://mojlaw.moj.gov.tw/LawContentExtent.aspx?LSID=FL001351&LawNo=1098\r\n原始網址名稱：保母虐童案辯論終結聚焦「社工」角色義務，律師：制度失靈和保姆惡意欺瞞釀悲劇\r\n原始網址：\r\nhttps://www.thenewslens.com/article/265079\r\n來源簡稱或單位名稱：【衛生福利部社會安全網／全國法規資料庫／法務部主管法規查詢系統／關鍵評論網】\r\n10. [監護權概念與本案主責之關係]\r\n若套回剴剴案，最保守且較符合現行法制的寫法是：本案主責社工的制度位置，比較接近「收出養服務承辦與個案管理者」，而不是直接的監護權人；真正涉及法定代理、監護與保護安置範圍內權利義務的主體，仍須回到《民法》與《兒童及少年福利與權益保障法》第60條來判斷。這也是為何後續社會爭論多聚焦於「是否具保證人地位」「是否違反通報與訪視義務」，而不是直接稱其為孩子的監護人。 (全國法規資料庫)\r\n原始網址名稱：兒童及少年福利與權益保障法§60\r\n原始網址：\r\nhttps://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=60&pcode=D0050001\r\n原始網址名稱：民法第1098條\r\n原始網址：\r\nhttps://mojlaw.moj.gov.tw/LawContentExtent.aspx?LSID=FL001351&LawNo=1098\r\n原始網址名稱：保母虐童案辯論終結聚焦「社工」角色義務，律師：制度失靈和保姆惡意欺瞞釀悲劇\r\n原始網址：\r\nhttps://www.thenewslens.com/article/265079\r\n原始網址名稱：剴剴案社工遭起訴 社工學界籲司法審酌實務侷限\r\n原始網址：\r\nhttps://money.udn.com/money/amp/story/7307/9418145\r\n來源簡稱或單位名稱：【全國法規資料庫／法務部主管法規查詢系統／關鍵評論網／中央社轉經濟日報】\r\n\r\n第六階段（下）：延伸資料庫正式完稿\r\n以下依你指定的類型整理。這一版的取捨原則是：\r\n優先列可穩定回溯、網址清楚、具研究價值的公開資料。\r\n\r\n一、深度調查報導\r\n[報導者｜剴剴之死背後1：聯繫斷裂的公務機器裡，缺乏一致監管標準的保母托育系統]\r\n這篇報導從剴剴案往外延伸到整體保母托育監管、地方政府協作、制度斷裂與既往虐童案例，是理解本案「不只是一個保母或一個社工失誤」的重要制度型長文。 (報導者)\r\n原始網址名稱：剴剴之死背後1：聯繫斷裂的公務機器裡，缺乏一致監管標準的保母托育系統\r\n原始網址：\r\nhttps://www.twreporter.org/a/problems-behind-a-boy-death-in-nanny-care\r\n來源簡稱或單位名稱：【報導者】\r\n[報導者｜剴剴案國民法官開庭第一週：移工、前保母、被告之子，4位關鍵證人眼中的虐童真相]\r\n這篇是保母案開庭第一週的重要深度整理，適合用來回顧關鍵證人證述、庭上攻防與法庭觀察。它不是單純新聞快訊，而是把審理內容按日程與證據脈絡整合。 (報導者)\r\n原始網址名稱：剴剴案國民法官開庭第一週：移工、前保母、被告之子，4位關鍵證人眼中的虐童真相\r\n原始網址：\r\nhttps://www.twreporter.org/a/taiwan-citizen-judge-a-boy-death-in-nanny-care-1\r\n來源簡稱或單位名稱：【報導者】\r\n[報導者｜長達3週國民法官公開審理，剴剴案宣判：保母姊妹無期徒刑、18年有期徒刑]\r\n這篇長文完整整理保母案後段審理、認罪轉折、醫師與法醫鑑定、量刑辯論與宣判，適合作為保母案司法程序的延伸閱讀主文。 (報導者)\r\n原始網址名稱：長達3週國民法官公開審理，剴剴案宣判：保母姊妹無期徒刑、18年有期徒刑\r\n原始網址：\r\nhttps://www.twreporter.org/a/taiwan-citizen-judge-a-boy-death-in-nanny-care-2\r\n來源簡稱或單位名稱：【報導者】\r\n\r\n二、個人論述或名人發言\r\n[王婉諭｜剴剴案宣判後籲國會儘速三讀《兒童托育服務法》]\r\n這一則適合收進「政治人物／倡議型個人論述」類別。核心不是案情重述，而是把保母案宣判連結到《兒童托育服務法》與制度修法。 (民視財經網－掌握投資趨勢與財經脈動)\r\n原始網址名稱：剴剴案宣判 王婉諭籲國會儘速三讀兒童托育服務法\r\n原始網址：\r\nhttps://www.cna.com.tw/news/aipl/202505130275.aspx\r\n來源簡稱或單位名稱：【中央社】\r\n[賈永婕｜聲援剴剴案並批評制度失靈]\r\n鏡新聞報導記錄了賈永婕對本案的公開表述：她一方面支持嚴懲虐童，另一方面也明確指出自己認為整體社會與福利制度出了問題。這一則適合收進「公眾人物個人評論」類別。 (鏡新聞)\r\n原始網址名稱：聲援剴剴案「酸民批作秀」　賈永婕：不需要care\r\n原始網址：\r\nhttps://www.mnews.tw/story/20250320nm009\r\n原始網址名稱：剴剴案審判長承諾客觀公正審理　法務部回應虐童加重刑責\r\n原始網址：\r\nhttps://www.mnews.tw/story/20250319nm020\r\n來源簡稱或單位名稱：【鏡新聞】\r\n[林心如、隋棠等演藝圈人士｜公開聲援與連署擴散]\r\n這一組資料適合作為「演藝圈個人發言與輿論擴散」條目。其重點在於公眾人物不是提出法律定義，而是透過社群或公開表態，擴大兒虐零容忍與連署修法的能見度。 (衛生福利部)\r\n原始網址名稱：剴剴案明開庭「虐童判死刑連署破8萬」　林心如、隋棠公開聲援\r\n原始網址：\r\nhttps://www.mnews.tw/story/20250318nm019\r\n來源簡稱或單位名稱：【鏡新聞】\r\n\r\n三、影音專題／紀錄式報導\r\n嚴格來說，目前與本案直接相關、且可穩定回溯公開網址者，多屬影音專題或紀錄式報導，未必都是完整長篇紀錄片；因此這裡先按這個較精確的名稱收錄。 (公視新聞網 PNN)\r\n[公視新聞網｜剴剴案社工4/16宣判 藝人、律師提5大改革訴求]\r\n這則公視影音新聞適合作為「制度改革訴求」的影音節點，兼具時事與倡議整理功能。 (公視新聞網 PNN)\r\n原始網址名稱：剴剴案社工4/16宣判 藝人、律師提5大改革訴求\r\n原始網址：\r\nhttps://news.pts.org.tw/article/801810\r\n來源簡稱或單位名稱：【公視新聞網】\r\n[鏡新聞｜剴剴案審判長承諾客觀公正審理　法務部回應虐童加重刑責]\r\n這則鏡新聞影音稿同時記錄法庭外輿論、審判長表態與法務部對加重刑責的回應，適合作為「審理開展初期的社會情緒與制度回應」影音材料。 (鏡新聞)\r\n原始網址名稱：剴剴案審判長承諾客觀公正審理　法務部回應虐童加重刑責\r\n原始網址：\r\nhttps://www.mnews.tw/story/20250319nm020\r\n來源簡稱或單位名稱：【鏡新聞】\r\n[民視新聞網LIVE｜「剴剴案」二審今辯論！賈永婕、郁方現身高院聲援]\r\n這則民視直播頁適合作為「二審庭外動員與名人聲援」的影音紀錄材料。 (民視財經網－掌握投資趨勢與財經脈動)\r\n原始網址名稱：LIVE／「剴剴案」二審今辯論！賈永婕、郁方現身高院聲援\r\n原始網址：\r\nhttps://finance.ftvnews.com.tw/news/detail/2025C22W0030\r\n來源簡稱或單位名稱：【民視新聞網】\r\n\r\n四、法學評論\r\n[財團法人民間司法改革基金會｜當社工遇上刑事案件]\r\n這篇文章從法律實務角度整理社工在偵查程序中可能遭遇的風險與權利，適合作為本案「社工被刑事追訴」的入門法學評論材料。 (衛生福利部)\r\n原始網址名稱：當社工遇上刑事案件\r\n原始網址：\r\nhttps://www.jrf.org.tw/articles/3102\r\n來源簡稱或單位名稱：【財團法人民間司法改革基金會】\r\n[財團法人民間司法改革基金會｜當社工遇上刑事案件（二）]\r\n第二篇更進一步處理業務登載不實、補寫紀錄、偵查與舉證等問題，對剴剴案社工審判的實務爭點尤其有參考價值。 (衛生福利部)\r\n原始網址名稱：當社工遇上刑事案件（二）\r\n原始網址：\r\nhttps://www.jrf.org.tw/articles/3148\r\n來源簡稱或單位名稱：【財團法人民間司法改革基金會】\r\n[盧映潔｜不作為犯之保證人地位]\r\n這篇法學期刊文章不是直接評論剴剴案，但它提供了「保證人地位」的法理基礎；對理解社工案中最核心的法律爭點非常重要。 (TNL The News Lens 關鍵評論網)\r\n原始網址名稱：不作為犯之保證人地位\r\n原始網址：\r\nhttps://www.lawbank.com.tw/treatise/pl_article.aspx?AID=P000071671\r\n來源簡稱或單位名稱：【法源法律網】\r\n[關鍵評論網｜保母虐童案辯論終結聚焦「社工」角色義務]\r\n這篇屬案件導向的法政評論，適合作為「檢辯如何圍繞保證人地位、社工角色義務與制度失靈進行論辯」的輔助閱讀。 (TNL The News Lens 關鍵評論網)\r\n原始網址名稱：保母虐童案辯論終結聚焦「社工」角色義務，律師：制度失靈和保姆惡意欺瞞釀悲劇\r\n原始網址：\r\nhttps://www.thenewslens.com/article/265079\r\n來源簡稱或單位名稱：【關鍵評論網】\r\n\r\n五、學術研究\r\n[衛生福利部社會及家庭署《社區發展季刊》｜兒少安置期間之保護教養及法定代理人責任之探討]\r\n這篇文章直接處理你剛剛補點的核心問題：安置期間的保護教養、法定代理人責任、親權與監護的交錯關係，是本案制度研究的重要理論文獻。 (社會福利署資料系統)\r\n原始網址名稱：兒少安置期間之保護教養及法定代理人責任之探討\r\n原始網址：\r\nhttps://cdj.sfaa.gov.tw/Journal/Content?gno=13029\r\n來源簡稱或單位名稱：【衛生福利部社會及家庭署《社區發展季刊》】\r\n[衛生福利部社會及家庭署《社區發展季刊》｜兒少保護社會工作者如何與家庭工作——當親職教育成功的重要推手]\r\n這篇文章可作為「兒少保護社工角色」的學術背景文獻，特別是社工如何在確保兒少安全與與家庭合作之間承受角色矛盾。 (社會福利署資料系統)\r\n原始網址名稱：兒少保護社會工作者如何與家庭工作——當親職教育成功的重要推手\r\n原始網址：\r\nhttps://cdj.sfaa.gov.tw/Journal/Content?gno=9323\r\n來源簡稱或單位名稱：【衛生福利部社會及家庭署《社區發展季刊》】\r\n[衛生福利部社會及家庭署《社區發展季刊》｜兒少保護強制性親職教育之執行概況與困境檢視]\r\n這篇文章適合作為「家長處遇與兒少保護行政措施」的學術背景資料，能補充你資料庫中親職教育、家庭處遇與保護行政的面向。 (社會福利署資料系統)\r\n原始網址名稱：兒少保護強制性親職教育之執行概況與困境檢視\r\n原始網址：\r\nhttps://cdj.sfaa.gov.tw/Journal/Content?gno=8076\r\n來源簡稱或單位名稱：【衛生福利部社會及家庭署《社區發展季刊》】\r\n\r\n六、法院文書與官方司法資料\r\n[臺灣臺北地方法院｜113年度國審訴字第1號案件新聞稿]\r\n這是保母案一審宣判後，法院對外發布的官方新聞稿，適合作為司法程序與裁判結果的正式入口。 (司法院)\r\n原始網址名稱：臺灣臺北地方法院113年度國審訴字第1號案件新聞稿\r\n原始網址：\r\nhttps://www.judicial.gov.tw/tw/cp-1888-1322645-129aa-1.html\r\n來源簡稱或單位名稱：【臺灣臺北地方法院／司法院全球資訊網】\r\n[臺灣臺北地方法院｜公告本院114年度訴字第51號過失致死等案，法庭旁聽證核發公告暨核發登記作業]\r\n這是社工案正式進入法院程序的重要節點，能用來標示 114年度訴字第51號 案件的準備程序開展。 (司法院)\r\n原始網址名稱：公告本院114年度訴字第51號過失致死等案，法庭旁聽證核發公告暨核發登記作業\r\n原始網址：\r\nhttps://www.judicial.gov.tw/tw/cp-1888-1386297-6a0eb-1.html\r\n來源簡稱或單位名稱：【臺灣臺北地方法院／司法院全球資訊網】\r\n[臺灣臺北地方法院｜114年度訴字第51號11月27日上午庭期取得旁聽名單]\r\n這一則可作為特定庭期的正式法院公告，用來對照你第三階段的開庭進程資料。 (司法院)\r\n原始網址名稱：公告本院114年度訴字第51號陳尚潔過失致死等案，114年11月27日上午9時30分庭期取得旁聽名單\r\n原始網址：\r\nhttps://www.judicial.gov.tw/tw/cp-1888-1445670-b81dd-1.html\r\n來源簡稱或單位名稱：【臺灣臺北地方法院／司法院全球資訊網】\r\n[臺灣臺北地方法院｜114年度訴字第51號12月18日下午庭期取得旁聽名單]\r\n這一則可作為後續審理程序進展的正式法院節點。 (司法院)\r\n原始網址名稱：公告本院114年度訴字第51號陳尚潔過失致死等案，114年12月18日下午2時30分庭期取得旁聽名單\r\n原始網址：\r\nhttps://www.judicial.gov.tw/tw/cp-1888-1459339-c2457-1.html\r\n來源簡稱或單位名稱：【臺灣臺北地方法院／司法院全球資訊網】\r\n\r\n七、官方手冊與指引\r\n[兒童及少年收出養媒合服務者許可及管理辦法]\r\n這是收出養制度最核心的法規之一，對你前面第六階段上半部的「收出養媒合服務」「收出養媒合服務者」等詞條也有直接支撐作用。 (收養資訊中心)\r\n原始網址名稱：兒童及少年收出養媒合服務者許可及管理辦法\r\n原始網址：\r\nhttps://adoptinfo.sfaa.gov.tw/treasure_box/related_laws/adoption_match_service\r\n原始網址名稱：〖公告〗修正「兒童及少年收出養媒合服務者許可及管理辦法」\r\n原始網址：\r\nhttps://adoptinfo.sfaa.gov.tw/news/news_detail/247\r\n來源簡稱或單位名稱：【兒童及少年收養資訊中心】\r\n[兒少保護家庭處遇服務評估決策模式工作人員服務手冊]\r\n這本手冊是兒少保護處遇的核心工作手冊，適合你後續補「兒少保護社工」「家庭功能評估」「處遇決策」等條目時使用。 (衛生福利部)\r\n原始網址名稱：兒少保護家庭處遇服務評估決策模式工作人員服務手冊\r\n原始網址：\r\nhttps://dep.mohw.gov.tw/DOPs/cp-1238-78190-105.html\r\n來源簡稱或單位名稱：【衛生福利部保護服務司】\r\n[兒少保護評估及決策工具]\r\n這一頁收錄兒少保護安全評估要項、兒童及少年保護責任通報人員指導手冊等附件，是保護端制度工具的重要入口。 (衛生福利部)\r\n原始網址名稱：兒少保護評估及決策工具\r\n原始網址：\r\nhttps://dep.mohw.gov.tw/DOPs/cp-1238-78192-105.html\r\n來源簡稱或單位名稱：【衛生福利部保護服務司】\r\n[社會工作師執業指引手冊]\r\n這本手冊可作為你後續補「社工實務、記錄、角色分際、執業倫理與風險」的重要官方參考。 (衛生福利部)\r\n原始網址名稱：社會工作師執業指引手冊\r\n原始網址：\r\nhttps://dep.mohw.gov.tw/DOSAASW/cp-544-82754-103.html\r\n來源簡稱或單位名稱：【衛生福利部社會救助及社工司】\r\n[社會工作人員人身安全維護手冊]\r\n這本手冊適合作為你資料庫中「社工執業安全」「第一線風險」的正式支撐文件。 (衛生福利部)\r\n原始網址名稱：社會工作人員人身安全維護手冊\r\n原始網址：\r\nhttps://dep.mohw.gov.tw/DOSAASW/cp-544-7571-103.html\r\n來源簡稱或單位名稱：【衛生福利部社會救助及社工司】\r\n[社會工作記錄內容撰製注意事項／行政規則頁]\r\n這是你後續若要再補「個案紀錄」「工作紀錄」「補寫紀錄」「記錄陳核」時的重要官方入口頁。 (衛生福利部)\r\n原始網址名稱：行政規則－社會救助及社工司\r\n原始網址：\r\nhttps://dep.mohw.gov.tw/dosaasw/fp-536-4692-103.html\r\n來源簡稱或單位名稱：【衛生福利部社會救助及社工司】\r\n[社會福利服務中心辦理脆弱家庭服務指標、工作流程及表單（由官方說明頁指向）]\r\n目前公開穩定可直接回溯的入口，是衛生福利部社會安全網的說明頁；該頁明示社會及家庭署曾函頒並修正「社會福利服務中心辦理脆弱家庭服務指標、工作流程及表單」。若你後續要做更深的資料庫，可再專門追該份原始附件。 (衛生福利部)\r\n原始網址名稱：什麼是脆弱家庭？要如何辨識脆弱家庭？\r\n原始網址：\r\nhttps://mohw.gov.tw/SS/cp-4531-50117-204.html\r\n原始網址名稱：社會福利服務中心的角色定位和主要功能為何？\r\n原始網址：\r\nhttps://mohw.gov.tw/SS/cp-4531-50115-204.html\r\n來源簡稱或單位名稱：【衛生福利部社會安全網】\r\n\r\n這一版可以怎麼接到你後面的資料庫\r\n你說資料庫欄位版要交給另一個 AI 做，這一版最適合直接當它的來源母稿。\r\n如果你下一步要我接著做，我建議做其中一個：\r\n• 把這一版再壓縮成「僅名詞＋一句定義＋網址」的超精簡版\r\n• 或把這一版的法院文書、官方手冊、學術研究再往下各擴 5–10 筆",
+      "research_analysis": "Detailed testimony summary from Stage 6/7 dossier.",
+      "id": "hearing-20251127-witness-testimony-1"
+    },
+    {
+      "hearing_id": "hearing-20251211-medical-witnesses",
+      "date": "2025-12-11",
+      "case_number": "114年度訴字第51號",
+      "proceedings_type": "審理程序",
+      "title": "醫療與督導證言：傷勢可見度爭議",
+      "judge": [
+        "prs-wu-jia-tong",
+        "prs-hu-yuan-shuo",
+        "prs-zhao-shu-yu"
+      ],
+      "prosecutor": "prs-lin-yu-mei",
+      "defendant": "prs-chen-shang-jie",
+      "witnesses": [
+        {
+          "entity_id": "prs-huang-sheng-xin",
+          "testimony_summary": ""
+        },
+        {
+          "entity_id": "prs-li-fang-ling",
+          "testimony_summary": "自我定位：不是陳尚潔的直接督導，無法推論其是否有盡到義務。"
+        },
+        {
+          "entity_id": "prs-jiang-yi-yun",
+          "testimony_summary": "程序攻防：否認偵查筆錄中『嚴重疏失』之記載，聲稱不知筆錄為何如此記載。"
+        }
+      ],
+      "legal_arguments": [],
+      "court_activity": "急診醫師黃聖心證稱孩童体溫僅24度，身上傷勢為肉眼絕對可辨。兒盟主管證詞引發檢方追問掉牙異常。",
+      "source_refs": [
+        "src-judicial-001"
+      ],
+      "id": "hearing-20251211-medical-witnesses"
+    },
+    {
+      "hearing_id": "hearing-20251218-cwlf-executives",
+      "date": "2025-12-18",
+      "case_number": "114年度訴字第51號",
+      "proceedings_type": "審理程序",
+      "title": "兒盟高層作證：程序筆錄爭議",
+      "judge": [
+        "prs-wu-jia-tong",
+        "prs-hu-yuan-shuo",
+        "prs-zhao-shu-yu"
+      ],
+      "prosecutor": "prs-lin-yu-mei",
+      "defendant": "prs-chen-shang-jie",
+      "witnesses": [
+        {
+          "entity_id": "prs-bai-li-fang",
+          "testimony_summary": ""
+        },
+        {
+          "entity_id": "prs-ye-ting-xi",
+          "testimony_summary": ""
+        },
+        {
+          "entity_id": "prs-ye-shi-yu",
+          "testimony_summary": ""
+        }
+      ],
+      "legal_arguments": [],
+      "court_activity": "白麗芳對社工疏失避重就輕引發法官不滿；葉詩宇坦承庭前曾透過被告律師閱覽筆錄，形成串證疑慮。",
+      "source_refs": [
+        "src-judicial-001"
+      ],
+      "id": "hearing-20251218-cwlf-executives"
+    },
+    {
+      "hearing_id": "hearing-20260122-dentist-and-visit-officer",
+      "date": "2026-01-22",
+      "case_number": "114年度訴字第51號",
+      "proceedings_type": "審理程序",
+      "title": "專業鑑定與行政查核證言",
+      "judge": [
+        "prs-wu-jia-tong",
+        "prs-hu-yuan-shuo",
+        "prs-zhao-shu-yu"
+      ],
+      "prosecutor": "prs-lin-yu-mei",
+      "defendant": "prs-chen-shang-jie",
+      "witnesses": [
+        {
+          "entity_id": "prs-tsai-han-yu",
+          "testimony_summary": ""
+        },
+        {
+          "entity_id": "prs-lin-xin-ci",
+          "testimony_summary": "專業觀察：認為孩童較安靜但未達異常，且劉姓保母態度積極。"
+        },
+        {
+          "entity_id": "prs-huang-ling-fang",
+          "testimony_summary": ""
+        }
+      ],
+      "legal_arguments": [],
+      "court_activity": "牙醫證稱磨牙不可能造成連續斷齒。居托訪視員林心慈坦承訪視紀錄日期與實際不符。",
+      "source_refs": [
+        "src-judicial-001"
+      ],
+      "id": "hearing-20260122-dentist-and-visit-officer"
+    },
+    {
+      "hearing_id": "hearing-20260129-falsification-debate",
+      "date": "2026-01-29",
+      "case_number": "114年度訴字第51號",
+      "proceedings_type": "審理程序",
+      "title": "訪視紀錄真實性攻防：政風移送案",
+      "judge": [
+        "prs-wu-jia-tong",
+        "prs-hu-yuan-shuo",
+        "prs-zhao-shu-yu"
+      ],
+      "prosecutor": "prs-lin-yu-mei",
+      "defendant": "prs-chen-shang-jie",
+      "witnesses": [
+        {
+          "entity_id": "prs-nian-yu-han",
+          "testimony_summary": "行政監理：釐清文山居托中心、訪視員與婦幼科之間的監理鏈條與上傳義務。"
+        }
+      ],
+      "legal_arguments": [],
+      "court_activity": "北市社會局確認將涉嫌造假的訪輔員函送檢察署。辯方聲請勘驗偵訊影音遭駁回。",
+      "source_refs": [
+        "src-judicial-001"
+      ],
+      "testimony_detail": "2026-01-29、聯合報於 2026-02-23 的報導均顯示，這群人已成為社工案庭審外的重要場外力量，訴求集中在重判涉案社工、追究機構責任，以及持續關注兒少保護制度缺漏。此一名稱屬輿論場中形成的民間自我命名。 ([公視新聞網 PNN](https://news.pts.org.tw/article/792949?utm_source=chatgpt.com)) \r\n  原始網址名稱：剴剴案再開庭陳姓社工應訊 場外聚集抗議群眾  \r\n  原始網址：\r\n  ```text\r\n  https://news.pts.org.tw/article/792949\r\n  ```\r\n  原始網址名稱：剴剴案女社工出庭 藝人郁方：保母下18層地獄、陳尚潔要下19層  \r\n  原始網址：\r\n  ```text\r\n  https://udn.com/news/story/7321/9339205\r\n  ```\r\n  來源性質：公視新聞網／聯合報",
+      "research_analysis": "Detailed testimony summary from Stage 6/7 dossier.",
+      "id": "hearing-20260129-falsification-debate"
+    },
+    {
+      "hearing_id": "hearing-20260223-video-interrogation",
+      "date": "2026-02-23",
+      "case_number": "114年度訴字第51號",
+      "proceedings_type": "審理程序",
+      "title": "全日庭訊：影像勘驗與被告訊問",
+      "judge": [
+        "prs-wu-jia-tong",
+        "prs-hu-yuan-shuo",
+        "prs-zhao-shu-yu"
+      ],
+      "prosecutor": "prs-lin-yu-mei",
+      "defendant": "prs-chen-shang-jie",
+      "witnesses": [
+        {
+          "entity_id": "prs-chen-shang-jie",
+          "testimony_summary": "角色辯護：否認自己是『主責社工』，主張係『個案出養社工』；並辯護『督導保母非兒盟職責』。"
+        }
+      ],
+      "legal_arguments": [],
+      "court_activity": "法庭勘驗牙醫診所監視器，檢方指孩童神情呆滯已顯異常；被告首度吐露心聲，自稱受保母包裝欺瞞。",
+      "source_refs": [
+        "src-judicial-001"
+      ],
+      "testimony_detail": "2026-02-23 的報導均顯示，這群人已成為社工案庭審外的重要場外力量，訴求集中在重判涉案社工、追究機構責任，以及持續關注兒少保護制度缺漏。此一名稱屬輿論場中形成的民間自我命名。 ([公視新聞網 PNN](https://news.pts.org.tw/article/792949?utm_source=chatgpt.com)) \r\n  原始網址名稱：剴剴案再開庭陳姓社工應訊 場外聚集抗議群眾  \r\n  原始網址：\r\n  ```text\r\n  https://news.pts.org.tw/article/792949\r\n  ```\r\n  原始網址名稱：剴剴案女社工出庭 藝人郁方：保母下18層地獄、陳尚潔要下19層  \r\n  原始網址：\r\n  ```text\r\n  https://udn.com/news/story/7321/9339205\r\n  ```\r\n  來源性質：公視新聞網／聯合報",
+      "research_analysis": "Detailed testimony summary from Stage 6/7 dossier.",
+      "id": "hearing-20260223-video-interrogation"
+    },
+    {
+      "hearing_id": "hearing-20260226-closing-arguments",
+      "date": "2026-02-26",
+      "case_number": "114年度訴字第51號",
+      "proceedings_type": "審理程序",
+      "title": "辯論終結：檢方求處重刑",
+      "judge": [
+        "prs-wu-jia-tong",
+        "prs-hu-yuan-shuo",
+        "prs-zhao-shu-yu"
+      ],
+      "prosecutor": "prs-lin-yu-mei",
+      "defendant": "prs-chen-shang-jie",
+      "witnesses": [],
+      "legal_arguments": [],
+      "court_activity": "言詞辯論終結。檢方求處重刑，辯方主張被告不應承擔制度性缺口。定於2026-04-16宣判。",
+      "source_refs": [
+        "src-judicial-001"
+      ],
+      "testimony_detail": "2026-02-26 的社工案言詞辯論，媒體報導顯示「社工是否具有保證人地位」已成為檢辯攻防與社會評論的核心法理問題。此項資料可作為第五階段中「學界／法界對社工過失致死責任」的核心背景文獻。 ([法律銀行](https://www.lawbank.com.tw/treatise/pl_article.aspx?AID=P000071671&utm_source=chatgpt.com)) \r\n  原始網址名稱：不作為犯之保證人地位  \r\n  原始網址：\r\n  ```text\r\n  https://www.lawbank.com.tw/treatise/pl_article.aspx?AID=P000071671\r\n  ```\r\n  原始網址名稱：保母虐童案辯論終結聚焦「社工」角色義務，律師：制度失靈和保姆惡意欺瞞釀悲劇  \r\n  原始網址：\r\n  ```text\r\n  https://www.thenewslens.com/article/265079\r\n  ```\r\n  來源性質：法源法律網／關鍵評論網",
+      "research_analysis": "Detailed testimony summary from Stage 6/7 dossier.",
+      "id": "hearing-20260226-closing-arguments"
+    }
+  ],
+  "claims": [
+    {
+      "claim_id": "clm-academic-joint-20260402",
+      "statement": "司法應審酌社工實務侷限，拒絕以結果論定罪",
+      "claim_type": "Academic",
+      "point_of_contention": "近20所大學社工系所聯合聲明，認為不應將制度性缺口完全歸責於個人。 ",
+      "pro_arguments": [
+        "prs-ntu-sw-department",
+        "prs-ntnu-sw-department"
+      ],
+      "con_arguments": [
+        "prs-lin-yu-mei"
+      ],
+      "source_refs": [],
+      "related_entities": [
+        "prs-ntu-sw-department",
+        "prs-ntnu-sw-department",
+        "prs-lin-yu-mei"
+      ],
+      "id": "clm-academic-joint-20260402"
+    },
+    {
+      "claim_id": "clm-cwlf-reform-20250513",
+      "statement": "建立中高風險個案雙人訪視與複判制度",
+      "claim_type": "Institutional",
+      "point_of_contention": "兒盟因應案件提出三大作為，包含雙人訪視、強制複訓及疑慮個案即時複判。",
+      "pro_arguments": [
+        "org-cwlf"
+      ],
+      "con_arguments": [],
+      "source_refs": [],
+      "related_entities": [
+        "org-cwlf"
+      ],
+      "id": "clm-cwlf-reform-20250513"
+    },
+    {
+      "id": "clm-ethics-vs-criminal-precedence",
+      "statement": "倫理審查是否應搶先於刑事判決公布：司法正義與專業自律的衝突",
+      "type": "Professional Ethics",
+      "point_of_contention": "工會主張倫理審查不應干預司法程序；公會則有既定規約應處理申訴。",
+      "pro_arguments": [
+        "org-tpcsw"
+      ],
+      "con_arguments": [
+        "org-taipei-sw-union"
+      ],
+      "source_refs": [
+        "src-tswu-oppose-ethics",
+        "src-udn-8904247"
+      ]
+    },
+    {
+      "claim_id": "clm-guarantor-status-debate",
+      "statement": "社工是否具備「保證人地位」之法律義務",
+      "claim_type": "Legal",
+      "point_of_contention": "檢方認為社工身為聯繫窗口負有生命追蹤義務；辯方認為社工非保姆，不應承擔結果。",
+      "pro_arguments": [
+        "prs-lin-yu-mei"
+      ],
+      "con_arguments": [
+        "prs-chen-shang-jie"
+      ],
+      "source_refs": [],
+      "related_entities": [
+        "prs-lin-yu-mei",
+        "prs-chen-shang-jie"
+      ],
+      "id": "clm-guarantor-status-debate"
+    },
+    {
+      "claim_id": "clm-public-protest-20250510",
+      "statement": "萬人凱道遊行：訴求重罰虐童與成立專責機關",
+      "claim_type": "Public",
+      "point_of_contention": "民間自發「剴剴網路媽媽群」發起集會，收集逾8萬份連署書訴求制度改革。",
+      "pro_arguments": [
+        "prs-yu-fang",
+        "prs-jia-yong-jie"
+      ],
+      "con_arguments": [
+        "org-mohw"
+      ],
+      "source_refs": [],
+      "related_entities": [
+        "prs-yu-fang",
+        "prs-jia-yong-jie",
+        "org-mohw"
+      ],
+      "id": "clm-public-protest-20250510"
+    },
+    {
+      "id": "clm-sw-discipline-mechanism",
+      "statement": "2023年增訂社會工作師懲戒機制：專業自律與行政責任銜接",
+      "type": "Legislation",
+      "point_of_contention": "社工師若違反倫理或業務不正，得由公會或主管機關移付懲戒。此為本案倫理爭議的法條源頭。",
+      "pro_arguments": [
+        "org-mohw"
+      ],
+      "con_arguments": [],
+      "source_refs": [
+        "src-mohw-dosa-74724"
+      ]
+    },
+    {
+      "claim_id": "clm-sw-union-20240313",
+      "statement": "質疑警方上銬合法性與比例原則",
+      "claim_type": "Professional",
+      "point_of_contention": "主張社會情緒不應取代程序正義，警察上銬行為涉嫌違反偵查不公開。",
+      "pro_arguments": [
+        "prs-taipei-sw-union"
+      ],
+      "con_arguments": [
+        "prs-national-police-agency"
+      ],
+      "source_refs": [],
+      "related_entities": [
+        "prs-taipei-sw-union",
+        "prs-national-police-agency"
+      ],
+      "id": "clm-sw-union-20240313"
+    }
+  ],
+  "topics": [
+    {
+      "topic_id": "top-adoption",
+      "title": "出養 (Adoption)",
+      "definition": "透過法律程序轉移生父母親權，終止原親子關係並建立新收養關係之行為。",
+      "related_claims": [],
+      "related_events": [],
+      "tags": [
+        "Glossary",
+        "Legal"
+      ],
+      "detailed_definition": "[出養]**  \r\n  兒童及少年收養資訊中心將「出養」界定為：透過法律程序轉移生父母親權，待法院裁定通過後，生父母與孩子間的權利義務停止，法律上的親子關係終止。此一定義有助於區分「出養」與「寄養」「認養」「認領」。 ([兒童及少年收養資訊中心](https://adoptinfo.sfaa.gov.tw/dependent/page/what_is_raise?utm_source=chatgpt.com)) \r\n  原始網址名稱：何謂出養  \r\n  原始網址：\r\n  ```text\r\n  https://adoptinfo.sfaa.gov.tw/dependent/page/what_is_raise\r\n  ```\r\n  來源性質：兒童及少年收養資訊中心\r\n\r\n- **[收出養媒合服務／出養必要性評估]**  \r\n  現行制度下，無血緣關係收養須透過主管機關許可的收出養媒合機構辦理；另依《兒童及少年收出養媒合服務者許可及管理辦法》第24條，媒合服務者接獲出養需求後，應通知兒少居所地直轄市、縣（市）主管機關進行出養必要性評估。簡言之，「收出養媒合」不是單純介紹收養家庭，而是包含必要性評估、媒合、法院聲請與後續追蹤的一整套制度流程。 ([兒童及少年收養資訊中心](https://adoptinfo.sfaa.gov.tw/adoption/page/what_is_adoption?utm_source=chatgpt.com)) \r\n  原始網址名稱：何謂收養及收養資格  \r\n  原始網址：\r\n  ```text\r\n  https://adoptinfo.sfaa.gov.tw/adoption/page/what_is_adoption\r\n  ```\r\n  原始網址名稱：兒童及少年收出養媒合服務者許可及管理辦法  \r\n  原始網址：\r\n  ```text\r\n  https://adoptinfo.sfaa.gov.tw/treasure_box/related_laws/adoption_match_service\r\n  ```\r\n  原始網址名稱：收養流程  \r\n  原始網址：\r\n  ```text\r\n  https://adoptinfo.sfaa.gov.tw/adoption/page/adoption_process\r\n  ```\r\n  來源性質：兒童及少年收養資訊中心／相關法令頁\r\n\r\n- **[脆弱家庭／脆弱家庭服務]**  \r\n  衛福部社會安全網頁面指出，「脆弱家庭」係指家庭因貧窮、犯罪、失業、物質濫用、未成年親職、有嚴重身心障礙兒童需照顧、家庭照顧功能不足等因素，造成物質、生理、心理、環境的脆弱性，而需要多重支持與服務介入的家庭；「脆弱家庭服務」則是由地方社福中心依指標、工作流程及表單進行評估、開案與後續連結。 ([衛生福利部](https://mohw.gov.tw/ss/cp-4531-50117-204.html?utm_source=chatgpt.com)) \r\n  原始網址名稱：請問什麼是脆弱家庭？  \r\n  原始網址：\r\n  ```text\r\n  https://mohw.gov.tw/SS/cp-4530-50089-204.html\r\n  ```\r\n  原始網址名稱：什麼是脆弱家庭？要如何辨識脆弱家庭？  \r\n  原始網址：\r\n  ```text\r\n  https://mohw.gov.tw/SS/cp-4531-50117-204.html\r\n  ```\r\n  來源性質：衛福部社會安全網\r\n\r\n- **[強化社會安全網]**  \r\n  衛福部指出，「強化社會安全網計畫」係行政院核定的跨部門政策，核心在於把安全網漏洞補起來、找出過去未被接住的人，並透過跨體系、跨專業、公私協力、人力擴充與服務整合，提供較完整的支持系統。這個概念是理解本案制度背景時不可缺少的上位政策框架。 ([衛生福利部](https://mohw.gov.tw/ss/cp-4515-49398-204.html?utm_source=chatgpt.com)) \r\n  原始網址名稱：強化社會安全網計畫核定本  \r\n  原始網址：\r\n  ```text\r\n  https://mohw.gov.tw/SS/cp-4515-49398-204.html\r\n  ```\r\n  原始網址名稱：強化社會安全網第二期計畫核定本(110年-114年)  \r\n  原始網址：\r\n  ```text\r\n  https://mohw.gov.tw/SS/cp-4515-62472-204.html\r\n  ```\r\n  原始網址名稱：社會安全網首頁  \r\n  原始網址：\r\n  ```text\r\n  https://www.mohw.gov.tw/SS/\r\n  ```\r\n  來源性質：衛福部社會安全網\r\n\r\n- **[不預約訪視／俗稱不預告訪視]**  \r\n  衛福部於本案後強化居家托育訪視制度，明定居托中心訪視輔導應採「不預約、不同時段、親見兒童」原則，並對全日托、夜間托育、3歲以下兒童及具風險個案增加訪視頻率。就本案脈絡而言，社會上常用「不預告訪視」描述此原則，但官方新聞稿多以「不預約」及「不同時段」表述。 ([衛生福利部](https://www.mohw.gov.tw/cp-4050-82575-1.html?utm_source=chatgpt.com)) \r\n  原始網址名稱：衛福部請各縣市落實居家托育服務分級訪視  \r\n  原始網址：\r\n  ```text\r\n  https://www.mohw.gov.tw/cp-4050-82575-1.html\r\n  ```\r\n  原始網址名稱：衛福部全面檢討 修法強化健全收出養制度  \r\n  原始網址：\r\n  ```text\r\n  https://www.mohw.gov.tw/cp-2704-82636-1.html\r\n  ```\r\n  來源性質：衛生福利部\r\n\r\n- **[責任通報]**  \r\n  依《兒童及少年福利與權益保障法》第53條，醫事人員、社會工作人員、教育人員、保育人員、警察、司法人員等，於執行業務時知悉兒少有受虐、受傷或其他法定情形者，應立即向直轄市、縣（市）主管機關通報，最遲不得超過24小時。這是本案中「是否達通報門檻」的重要法源。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=53&pcode=D0050001)) \r\n  原始網址名稱：兒童及少年福利與權益保障法§53  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=53&pcode=D0050001\r\n  ```\r\n  來源性質：全國法規資料庫\r\n\r\n- **[業務登載不實罪]**  \r\n  依《中華民國刑法》第215條，從事業務之人，明知為不實事項，而登載於其業務上作成之文書，足以生損害於公眾或他人者，處三年以下有期徒刑、拘役或一萬五千元以下罰金。就本案而言，這是檢方指控訪視紀錄不實時最核心的罪名基礎之一。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=215&pcode=C0000001)) \r\n  原始網址名稱：中華民國刑法§215  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=215&pcode=C0000001\r\n  ```\r\n  來源性質：全國法規資料庫\r\n\r\n- **[不作為犯／保證人地位]**  \r\n  《中華民國刑法》第15條規定：對於犯罪結果之發生，法律上有防止義務，能防止而不防止者，與因積極行為發生結果者同。法律百科則將「保證人地位」說明為「有防止犯罪發生的義務」。在本案中，社工是否因其職務而具有保證人地位，正是檢辯與學界爭論的核心法理問題。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=15&pcode=C0000001)) \r\n  原始網址名稱：中華民國刑法§15  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=15&pcode=C0000001\r\n  ```\r\n  原始網址名稱：什麼是保證人地位？  \r\n  原始網址：\r\n  ```text\r\n  https://www.legis-pedia.com/article/crime-penalty/671\r\n  ```\r\n  原始網址名稱：保證人地位（法律百科辭典）  \r\n  原始網址：\r\n  ```text\r\n  https://www.legis-pedia.com/dictionary/919\r\n  ```\r\n  來源性質：全國法規資料庫／法律百科\r\n\r\n---",
+      "id": "top-adoption"
+    },
+    {
+      "topic_id": "top-fragile-family",
+      "title": "脆弱家庭 (Fragile Family)",
+      "definition": "因貧窮、失業、身心障礙等因素致功能不足，需多重支持介入之家庭體系。",
+      "related_claims": [],
+      "related_events": [],
+      "tags": [
+        "Glossary",
+        "Legal"
+      ],
+      "detailed_definition": "[脆弱家庭／脆弱家庭服務]**  \r\n  衛福部社會安全網頁面指出，「脆弱家庭」係指家庭因貧窮、犯罪、失業、物質濫用、未成年親職、有嚴重身心障礙兒童需照顧、家庭照顧功能不足等因素，造成物質、生理、心理、環境的脆弱性，而需要多重支持與服務介入的家庭；「脆弱家庭服務」則是由地方社福中心依指標、工作流程及表單進行評估、開案與後續連結。 ([衛生福利部](https://mohw.gov.tw/ss/cp-4531-50117-204.html?utm_source=chatgpt.com)) \r\n  原始網址名稱：請問什麼是脆弱家庭？  \r\n  原始網址：\r\n  ```text\r\n  https://mohw.gov.tw/SS/cp-4530-50089-204.html\r\n  ```\r\n  原始網址名稱：什麼是脆弱家庭？要如何辨識脆弱家庭？  \r\n  原始網址：\r\n  ```text\r\n  https://mohw.gov.tw/SS/cp-4531-50117-204.html\r\n  ```\r\n  來源性質：衛福部社會安全網\r\n\r\n- **[強化社會安全網]**  \r\n  衛福部指出，「強化社會安全網計畫」係行政院核定的跨部門政策，核心在於把安全網漏洞補起來、找出過去未被接住的人，並透過跨體系、跨專業、公私協力、人力擴充與服務整合，提供較完整的支持系統。這個概念是理解本案制度背景時不可缺少的上位政策框架。 ([衛生福利部](https://mohw.gov.tw/ss/cp-4515-49398-204.html?utm_source=chatgpt.com)) \r\n  原始網址名稱：強化社會安全網計畫核定本  \r\n  原始網址：\r\n  ```text\r\n  https://mohw.gov.tw/SS/cp-4515-49398-204.html\r\n  ```\r\n  原始網址名稱：強化社會安全網第二期計畫核定本(110年-114年)  \r\n  原始網址：\r\n  ```text\r\n  https://mohw.gov.tw/SS/cp-4515-62472-204.html\r\n  ```\r\n  原始網址名稱：社會安全網首頁  \r\n  原始網址：\r\n  ```text\r\n  https://www.mohw.gov.tw/SS/\r\n  ```\r\n  來源性質：衛福部社會安全網\r\n\r\n- **[不預約訪視／俗稱不預告訪視]**  \r\n  衛福部於本案後強化居家托育訪視制度，明定居托中心訪視輔導應採「不預約、不同時段、親見兒童」原則，並對全日托、夜間托育、3歲以下兒童及具風險個案增加訪視頻率。就本案脈絡而言，社會上常用「不預告訪視」描述此原則，但官方新聞稿多以「不預約」及「不同時段」表述。 ([衛生福利部](https://www.mohw.gov.tw/cp-4050-82575-1.html?utm_source=chatgpt.com)) \r\n  原始網址名稱：衛福部請各縣市落實居家托育服務分級訪視  \r\n  原始網址：\r\n  ```text\r\n  https://www.mohw.gov.tw/cp-4050-82575-1.html\r\n  ```\r\n  原始網址名稱：衛福部全面檢討 修法強化健全收出養制度  \r\n  原始網址：\r\n  ```text\r\n  https://www.mohw.gov.tw/cp-2704-82636-1.html\r\n  ```\r\n  來源性質：衛生福利部\r\n\r\n- **[責任通報]**  \r\n  依《兒童及少年福利與權益保障法》第53條，醫事人員、社會工作人員、教育人員、保育人員、警察、司法人員等，於執行業務時知悉兒少有受虐、受傷或其他法定情形者，應立即向直轄市、縣（市）主管機關通報，最遲不得超過24小時。這是本案中「是否達通報門檻」的重要法源。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=53&pcode=D0050001)) \r\n  原始網址名稱：兒童及少年福利與權益保障法§53  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=53&pcode=D0050001\r\n  ```\r\n  來源性質：全國法規資料庫\r\n\r\n- **[業務登載不實罪]**  \r\n  依《中華民國刑法》第215條，從事業務之人，明知為不實事項，而登載於其業務上作成之文書，足以生損害於公眾或他人者，處三年以下有期徒刑、拘役或一萬五千元以下罰金。就本案而言，這是檢方指控訪視紀錄不實時最核心的罪名基礎之一。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=215&pcode=C0000001)) \r\n  原始網址名稱：中華民國刑法§215  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=215&pcode=C0000001\r\n  ```\r\n  來源性質：全國法規資料庫\r\n\r\n- **[不作為犯／保證人地位]**  \r\n  《中華民國刑法》第15條規定：對於犯罪結果之發生，法律上有防止義務，能防止而不防止者，與因積極行為發生結果者同。法律百科則將「保證人地位」說明為「有防止犯罪發生的義務」。在本案中，社工是否因其職務而具有保證人地位，正是檢辯與學界爭論的核心法理問題。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=15&pcode=C0000001)) \r\n  原始網址名稱：中華民國刑法§15  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=15&pcode=C0000001\r\n  ```\r\n  原始網址名稱：什麼是保證人地位？  \r\n  原始網址：\r\n  ```text\r\n  https://www.legis-pedia.com/article/crime-penalty/671\r\n  ```\r\n  原始網址名稱：保證人地位（法律百科辭典）  \r\n  原始網址：\r\n  ```text\r\n  https://www.legis-pedia.com/dictionary/919\r\n  ```\r\n  來源性質：全國法規資料庫／法律百科\r\n\r\n---",
+      "id": "top-fragile-family"
+    },
+    {
+      "topic_id": "top-kaikai-clause",
+      "title": "剴剴條款 (Kaikai Clause)",
+      "definition": "刑法第272-1、286條修正案，加重虐待7歲以下幼童致死之刑責至上死刑。",
+      "related_claims": [],
+      "related_events": [],
+      "tags": [
+        "Glossary",
+        "Legal"
+      ],
+      "id": "top-kaikai-clause"
+    },
+    {
+      "topic_id": "top-mandatory-reporting",
+      "title": "責任通報 (Mandatory Reporting)",
+      "definition": "醫事、社工、警察等人員知悉兒虐時需於24小時內向主管機關報告之法定義務。",
+      "related_claims": [],
+      "related_events": [],
+      "tags": [
+        "Glossary",
+        "Legal"
+      ],
+      "detailed_definition": "[責任通報]**  \r\n  依《兒童及少年福利與權益保障法》第53條，醫事人員、社會工作人員、教育人員、保育人員、警察、司法人員等，於執行業務時知悉兒少有受虐、受傷或其他法定情形者，應立即向直轄市、縣（市）主管機關通報，最遲不得超過24小時。這是本案中「是否達通報門檻」的重要法源。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=53&pcode=D0050001)) \r\n  原始網址名稱：兒童及少年福利與權益保障法§53  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=53&pcode=D0050001\r\n  ```\r\n  來源性質：全國法規資料庫\r\n\r\n- **[業務登載不實罪]**  \r\n  依《中華民國刑法》第215條，從事業務之人，明知為不實事項，而登載於其業務上作成之文書，足以生損害於公眾或他人者，處三年以下有期徒刑、拘役或一萬五千元以下罰金。就本案而言，這是檢方指控訪視紀錄不實時最核心的罪名基礎之一。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=215&pcode=C0000001)) \r\n  原始網址名稱：中華民國刑法§215  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=215&pcode=C0000001\r\n  ```\r\n  來源性質：全國法規資料庫\r\n\r\n- **[不作為犯／保證人地位]**  \r\n  《中華民國刑法》第15條規定：對於犯罪結果之發生，法律上有防止義務，能防止而不防止者，與因積極行為發生結果者同。法律百科則將「保證人地位」說明為「有防止犯罪發生的義務」。在本案中，社工是否因其職務而具有保證人地位，正是檢辯與學界爭論的核心法理問題。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=15&pcode=C0000001)) \r\n  原始網址名稱：中華民國刑法§15  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=15&pcode=C0000001\r\n  ```\r\n  原始網址名稱：什麼是保證人地位？  \r\n  原始網址：\r\n  ```text\r\n  https://www.legis-pedia.com/article/crime-penalty/671\r\n  ```\r\n  原始網址名稱：保證人地位（法律百科辭典）  \r\n  原始網址：\r\n  ```text\r\n  https://www.legis-pedia.com/dictionary/919\r\n  ```\r\n  來源性質：全國法規資料庫／法律百科\r\n\r\n---",
+      "id": "top-mandatory-reporting"
+    },
+    {
+      "topic_id": "top-unannounced-visits",
+      "title": "不預約訪視 (Unannounced Visits)",
+      "definition": "居托訪視原則：不預報、不同時段、親見兒童，以確認真實照顧情況。",
+      "related_claims": [],
+      "related_events": [],
+      "tags": [
+        "Glossary",
+        "Legal"
+      ],
+      "detailed_definition": "[不預約訪視／俗稱不預告訪視]**  \r\n  衛福部於本案後強化居家托育訪視制度，明定居托中心訪視輔導應採「不預約、不同時段、親見兒童」原則，並對全日托、夜間托育、3歲以下兒童及具風險個案增加訪視頻率。就本案脈絡而言，社會上常用「不預告訪視」描述此原則，但官方新聞稿多以「不預約」及「不同時段」表述。 ([衛生福利部](https://www.mohw.gov.tw/cp-4050-82575-1.html?utm_source=chatgpt.com)) \r\n  原始網址名稱：衛福部請各縣市落實居家托育服務分級訪視  \r\n  原始網址：\r\n  ```text\r\n  https://www.mohw.gov.tw/cp-4050-82575-1.html\r\n  ```\r\n  原始網址名稱：衛福部全面檢討 修法強化健全收出養制度  \r\n  原始網址：\r\n  ```text\r\n  https://www.mohw.gov.tw/cp-2704-82636-1.html\r\n  ```\r\n  來源性質：衛生福利部\r\n\r\n- **[責任通報]**  \r\n  依《兒童及少年福利與權益保障法》第53條，醫事人員、社會工作人員、教育人員、保育人員、警察、司法人員等，於執行業務時知悉兒少有受虐、受傷或其他法定情形者，應立即向直轄市、縣（市）主管機關通報，最遲不得超過24小時。這是本案中「是否達通報門檻」的重要法源。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=53&pcode=D0050001)) \r\n  原始網址名稱：兒童及少年福利與權益保障法§53  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=53&pcode=D0050001\r\n  ```\r\n  來源性質：全國法規資料庫\r\n\r\n- **[業務登載不實罪]**  \r\n  依《中華民國刑法》第215條，從事業務之人，明知為不實事項，而登載於其業務上作成之文書，足以生損害於公眾或他人者，處三年以下有期徒刑、拘役或一萬五千元以下罰金。就本案而言，這是檢方指控訪視紀錄不實時最核心的罪名基礎之一。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=215&pcode=C0000001)) \r\n  原始網址名稱：中華民國刑法§215  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=215&pcode=C0000001\r\n  ```\r\n  來源性質：全國法規資料庫\r\n\r\n- **[不作為犯／保證人地位]**  \r\n  《中華民國刑法》第15條規定：對於犯罪結果之發生，法律上有防止義務，能防止而不防止者，與因積極行為發生結果者同。法律百科則將「保證人地位」說明為「有防止犯罪發生的義務」。在本案中，社工是否因其職務而具有保證人地位，正是檢辯與學界爭論的核心法理問題。 ([全國法規資料庫](https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=15&pcode=C0000001)) \r\n  原始網址名稱：中華民國刑法§15  \r\n  原始網址：\r\n  ```text\r\n  https://law.moj.gov.tw/LawClass/LawSingle.aspx?flno=15&pcode=C0000001\r\n  ```\r\n  原始網址名稱：什麼是保證人地位？  \r\n  原始網址：\r\n  ```text\r\n  https://www.legis-pedia.com/article/crime-penalty/671\r\n  ```\r\n  原始網址名稱：保證人地位（法律百科辭典）  \r\n  原始網址：\r\n  ```text\r\n  https://www.legis-pedia.com/dictionary/919\r\n  ```\r\n  來源性質：全國法規資料庫／法律百科\r\n\r\n---",
+      "id": "top-unannounced-visits"
+    }
+  ]
+}

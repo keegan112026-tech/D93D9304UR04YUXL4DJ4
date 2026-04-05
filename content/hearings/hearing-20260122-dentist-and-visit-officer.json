@@ -1,0 +1,33 @@
+{
+  "hearing_id": "hearing-20260122-dentist-and-visit-officer",
+  "date": "2026-01-22",
+  "case_number": "114年度訴字第51號",
+  "proceedings_type": "審理程序",
+  "title": "專業鑑定與行政查核證言",
+  "judge": [
+    "prs-wu-jia-tong",
+    "prs-hu-yuan-shuo",
+    "prs-zhao-shu-yu"
+  ],
+  "prosecutor": "prs-lin-yu-mei",
+  "defendant": "prs-chen-shang-jie",
+  "witnesses": [
+    {
+      "entity_id": "prs-tsai-han-yu",
+      "testimony_summary": ""
+    },
+    {
+      "entity_id": "prs-lin-xin-ci",
+      "testimony_summary": "專業觀察：認為孩童較安靜但未達異常，且劉姓保母態度積極。"
+    },
+    {
+      "entity_id": "prs-huang-ling-fang",
+      "testimony_summary": ""
+    }
+  ],
+  "legal_arguments": [],
+  "court_activity": "牙醫證稱磨牙不可能造成連續斷齒。居托訪視員林心慈坦承訪視紀錄日期與實際不符。",
+  "source_refs": [
+    "src-judicial-001"
+  ]
+}

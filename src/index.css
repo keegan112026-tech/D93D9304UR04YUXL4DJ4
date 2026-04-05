@@ -1,0 +1,128 @@
+@import "@fontsource-variable/geist";
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Inter:wght@100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Daylight High-Precision Archive - Elite Light-Mode System */
+    --background: 45 30% 98%; /* Rice White #FDFCF8 */
+    --foreground: 22% 0.1 20; /* Deep Charcoal #1A1A1A */
+
+    --card: 0 0% 100%; /* Pure White */
+    --card-foreground: 22% 0.1 20;
+
+    --popover: 45 20% 99%;
+    --popover-foreground: 22% 0.1 20;
+
+    --primary: 155 10% 20%; /* Deep Forest Green #2F3A35 */
+    --primary-foreground: 45 30% 98%;
+
+    --secondary: 155 10% 96%; /* Pale Green-White #F5F6F0 */
+    --secondary-foreground: 155 10% 15%;
+
+    --muted: 210 20% 95%; /* Pale Blue-Gray */
+    --muted-foreground: 215 15% 45%;
+
+    --accent: 155 10% 20%; 
+    --accent-foreground: 45 30% 98%;
+
+    --border: 0 0% 0% / 0.08; /* Precision Dark Border */
+    --input: 0 0% 0% / 0.08;
+    --ring: 155 10% 20%;
+
+    --radius: 0.35rem;
+  }
+}
+
+@layer base {
+  * { @apply border-border; }
+  body {
+    @apply bg-[#FDFCF8] text-[#1A1A1A] antialiased selection:bg-[#2F3A35]/15 selection:text-black font-sans refined-tactile;
+    background-image: radial-gradient(circle at 50% -20%, rgba(0, 0, 0, 0.02) 0%, transparent 60%);
+    background-attachment: fixed;
+    letter-spacing: -0.01em;
+  }
+
+  /* TYPOGRAPHIC RESTRAINT - ELITE SCALE */
+  h1, .text-h1 { 
+    font-family: "Playfair Display", serif;
+    font-size: clamp(3rem, 10vw, 4.5rem); 
+    @apply font-bold tracking-tighter italic text-[#1A1A1A] leading-[0.9] antialiased;
+  }
+  h2, .text-h2 { 
+    font-family: "Playfair Display", serif;
+    font-size: clamp(2rem, 6vw, 3rem); 
+    @apply font-semibold tracking-tight italic text-[#1A1A1A] leading-none antialiased;
+  }
+  h3, .text-h3 { 
+    font-family: "Playfair Display", serif; 
+    font-size: clamp(1.5rem, 4vw, 2.25rem); 
+    @apply font-medium italic text-slate-800 antialiased;
+  }
+
+  p, span, button {
+    font-family: "Inter", system-ui, sans-serif;
+    @apply tracking-tight leading-relaxed;
+  }
+}
+
+@layer utilities {
+  .refined-tactile {
+    position: relative;
+    overflow-x: hidden;
+  }
+
+  .refined-tactile::before {
+    content: "";
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background-image: url("https://www.transparenttextures.com/patterns/felt.png");
+    opacity: 0.008; /* Subliminal Tactile Layer - Adjusted for Light mode */
+    pointer-events: none;
+    z-index: 100;
+    mix-blend-mode: multiply;
+  }
+
+  .refined-tactile::after {
+    content: "";
+    position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+    background-image: url("https://grainy-gradients.vercel.app/noise.svg");
+    opacity: 0.01; /* Precision Micro-Grain - Dark Noise on Light */
+    pointer-events: none;
+    z-index: 101;
+    mix-blend-mode: multiply;
+  }
+
+  /* HIGH PRECISION BORDERS */
+  .border-precision {
+    @apply border border-black/[0.08] shadow-sm;
+  }
+  
+  .border-precision-t { @apply border-t border-black/[0.08]; }
+  .border-precision-b { @apply border-b border-black/[0.08]; }
+
+  /* MATHEMATICAL SPACING */
+  .inner-measure { @apply max-w-7xl mx-auto px-10 md:px-20; }
+  .article-measure { @apply max-w-3xl mx-auto; }
+
+  /* DATA DISCIPLINE */
+  .tabular-nums { font-variant-numeric: tabular-nums; }
+
+  .mask-faded-edge {
+    mask-image: linear-gradient(to bottom, black 80%, transparent 100%);
+  }
+}
+
+/* SNAPPY TRANSITIONS */
+* {
+  @apply transition-all;
+  transition-duration: 450ms;
+  transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* SCROLLBAR REFINEMENT */
+::-webkit-scrollbar { width: 4px; height: 4px; }
+::-webkit-scrollbar-track { @apply bg-transparent; }
+::-webkit-scrollbar-thumb { @apply bg-black/5 rounded-full hover:bg-black/10; }

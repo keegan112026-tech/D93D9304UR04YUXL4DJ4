@@ -1,0 +1,19 @@
+{
+  "entity_id": "org-wanfang-hospital",
+  "name": "臺北市立萬芳醫院",
+  "alias": [
+    "萬芳醫院"
+  ],
+  "entity_type": "organization",
+  "org_type": "hospital",
+  "jurisdiction": "Taiwan",
+  "official_mandate": "",
+  "role_in_case": "",
+  "key_personnel": [
+    "prs-huang-sheng-xin"
+  ],
+  "source_refs": [],
+  "related_entities": [],
+  "related_events": [],
+  "related_topics": []
+}

@@ -1,0 +1,19 @@
+{
+  "claim_id": "clm-public-protest-20250510",
+  "statement": "萬人凱道遊行：訴求重罰虐童與成立專責機關",
+  "claim_type": "Public",
+  "point_of_contention": "民間自發「剴剴網路媽媽群」發起集會，收集逾8萬份連署書訴求制度改革。",
+  "pro_arguments": [
+    "prs-yu-fang",
+    "prs-jia-yong-jie"
+  ],
+  "con_arguments": [
+    "org-mohw"
+  ],
+  "source_refs": [],
+  "related_entities": [
+    "prs-yu-fang",
+    "prs-jia-yong-jie",
+    "org-mohw"
+  ]
+}

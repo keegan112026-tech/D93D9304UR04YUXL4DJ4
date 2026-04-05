@@ -1,0 +1,18 @@
+{
+  "entity_id": "prs-liu-ruo-lin",
+  "name": "劉若琳",
+  "alias": [],
+  "entity_type": "person",
+  "role_in_case": "居家托育人員，劉彩萱之妹，保母案被告（已判刑）",
+  "affiliation": "org-taipei-sw",
+  "description_short": "居家托育人員，劉彩萱之妹，保母案被告（已判刑）",
+  "case_involvement": "defendant",
+  "appeared_in_hearings": [],
+  "source_refs": [],
+  "related_entities": [
+    "org-taipei-sw"
+  ],
+  "related_events": [],
+  "related_topics": [],
+  "research_category": "Defendant (保母)"
+}

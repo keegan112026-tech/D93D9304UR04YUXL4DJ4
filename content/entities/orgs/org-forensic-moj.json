@@ -1,0 +1,19 @@
+{
+  "entity_id": "org-forensic-moj",
+  "name": "法務部法醫研究所",
+  "alias": [
+    "法醫所"
+  ],
+  "entity_type": "organization",
+  "org_type": "academic",
+  "jurisdiction": "Taiwan",
+  "official_mandate": "",
+  "role_in_case": "",
+  "key_personnel": [
+    "prs-xu-zhuo-xian"
+  ],
+  "source_refs": [],
+  "related_entities": [],
+  "related_events": [],
+  "related_topics": []
+}

@@ -1,0 +1,26 @@
+{
+  "entity_id": "org-cwlf",
+  "name": "財團法人中華民國兒童福利聯盟文教基金會",
+  "alias": [
+    "兒福聯盟",
+    "兒盟",
+    "CWLF"
+  ],
+  "entity_type": "organization",
+  "org_type": "ngo",
+  "jurisdiction": "Taiwan",
+  "official_mandate": "",
+  "role_in_case": "",
+  "key_personnel": [
+    "prs-chen-shang-jie",
+    "prs-li-fang-ling",
+    "prs-jiang-yi-yun",
+    "prs-ye-shi-yu",
+    "prs-ye-ting-xi",
+    "prs-bai-li-fang"
+  ],
+  "source_refs": [],
+  "related_entities": [],
+  "related_events": [],
+  "related_topics": []
+}

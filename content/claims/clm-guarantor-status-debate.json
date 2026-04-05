@@ -1,0 +1,17 @@
+{
+  "claim_id": "clm-guarantor-status-debate",
+  "statement": "社工是否具備「保證人地位」之法律義務",
+  "claim_type": "Legal",
+  "point_of_contention": "檢方認為社工身為聯繫窗口負有生命追蹤義務；辯方認為社工非保姆，不應承擔結果。",
+  "pro_arguments": [
+    "prs-lin-yu-mei"
+  ],
+  "con_arguments": [
+    "prs-chen-shang-jie"
+  ],
+  "source_refs": [],
+  "related_entities": [
+    "prs-lin-yu-mei",
+    "prs-chen-shang-jie"
+  ]
+}

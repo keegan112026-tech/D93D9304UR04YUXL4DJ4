@@ -1,0 +1,33 @@
+{
+  "hearing_id": "hearing-20251218-cwlf-executives",
+  "date": "2025-12-18",
+  "case_number": "114年度訴字第51號",
+  "proceedings_type": "審理程序",
+  "title": "兒盟高層作證：程序筆錄爭議",
+  "judge": [
+    "prs-wu-jia-tong",
+    "prs-hu-yuan-shuo",
+    "prs-zhao-shu-yu"
+  ],
+  "prosecutor": "prs-lin-yu-mei",
+  "defendant": "prs-chen-shang-jie",
+  "witnesses": [
+    {
+      "entity_id": "prs-bai-li-fang",
+      "testimony_summary": ""
+    },
+    {
+      "entity_id": "prs-ye-ting-xi",
+      "testimony_summary": ""
+    },
+    {
+      "entity_id": "prs-ye-shi-yu",
+      "testimony_summary": ""
+    }
+  ],
+  "legal_arguments": [],
+  "court_activity": "白麗芳對社工疏失避重就輕引發法官不滿；葉詩宇坦承庭前曾透過被告律師閱覽筆錄，形成串證疑慮。",
+  "source_refs": [
+    "src-judicial-001"
+  ]
+}

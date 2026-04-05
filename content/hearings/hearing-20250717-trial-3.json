@@ -1,0 +1,20 @@
+{
+  "hearing_id": "hearing-20250717-trial-3",
+  "date": "2025-07-17",
+  "case_number": "114年度訴字第51號",
+  "proceedings_type": "審理程序",
+  "title": "第三次庭訊：和解談判未果",
+  "judge": [
+    "prs-wu-jia-tong",
+    "prs-hu-yuan-shuo",
+    "prs-zhao-shu-yu"
+  ],
+  "prosecutor": "prs-lin-yu-mei",
+  "defendant": "prs-chen-shang-jie",
+  "witnesses": [],
+  "legal_arguments": [],
+  "court_activity": "辯方表態目前不考慮與家屬和解，法庭持續進行程序整理。",
+  "source_refs": [
+    "src-judicial-001"
+  ]
+}

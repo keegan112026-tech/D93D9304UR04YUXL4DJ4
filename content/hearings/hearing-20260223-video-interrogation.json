@@ -1,0 +1,27 @@
+{
+  "hearing_id": "hearing-20260223-video-interrogation",
+  "date": "2026-02-23",
+  "case_number": "114年度訴字第51號",
+  "proceedings_type": "審理程序",
+  "title": "全日庭訊：影像勘驗與被告訊問",
+  "judge": [
+    "prs-wu-jia-tong",
+    "prs-hu-yuan-shuo",
+    "prs-zhao-shu-yu"
+  ],
+  "prosecutor": "prs-lin-yu-mei",
+  "defendant": "prs-chen-shang-jie",
+  "witnesses": [
+    {
+      "entity_id": "prs-chen-shang-jie",
+      "testimony_summary": "角色辯護：否認自己是『主責社工』，主張係『個案出養社工』；並辯護『督導保母非兒盟職責』。"
+    }
+  ],
+  "legal_arguments": [],
+  "court_activity": "法庭勘驗牙醫診所監視器，檢方指孩童神情呆滯已顯異常；被告首度吐露心聲，自稱受保母包裝欺瞞。",
+  "source_refs": [
+    "src-judicial-001"
+  ],
+  "testimony_detail": "2026-02-23 的報導均顯示，這群人已成為社工案庭審外的重要場外力量，訴求集中在重判涉案社工、追究機構責任，以及持續關注兒少保護制度缺漏。此一名稱屬輿論場中形成的民間自我命名。 ([公視新聞網 PNN](https://news.pts.org.tw/article/792949?utm_source=chatgpt.com)) \r\n  原始網址名稱：剴剴案再開庭陳姓社工應訊 場外聚集抗議群眾  \r\n  原始網址：\r\n  ```text\r\n  https://news.pts.org.tw/article/792949\r\n  ```\r\n  原始網址名稱：剴剴案女社工出庭 藝人郁方：保母下18層地獄、陳尚潔要下19層  \r\n  原始網址：\r\n  ```text\r\n  https://udn.com/news/story/7321/9339205\r\n  ```\r\n  來源性質：公視新聞網／聯合報",
+  "research_analysis": "Detailed testimony summary from Stage 6/7 dossier."
+}

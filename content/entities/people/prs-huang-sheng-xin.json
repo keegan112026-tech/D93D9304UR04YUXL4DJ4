@@ -1,0 +1,18 @@
+{
+  "entity_id": "prs-huang-sheng-xin",
+  "name": "黃聖心",
+  "alias": [],
+  "entity_type": "person",
+  "role_in_case": "萬芳醫院急診醫學科主治醫師",
+  "affiliation": "org-wanfang-hospital",
+  "description_short": "萬芳醫院急診醫學科主治醫師",
+  "case_involvement": "witness-neutral",
+  "appeared_in_hearings": [],
+  "source_refs": [],
+  "related_entities": [
+    "org-wanfang-hospital"
+  ],
+  "related_events": [],
+  "related_topics": [],
+  "research_category": "Witness (Medical)"
+}

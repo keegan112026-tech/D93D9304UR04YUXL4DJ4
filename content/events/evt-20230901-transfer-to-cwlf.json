@@ -1,0 +1,14 @@
+{
+  "event_id": "evt-20230901-transfer-to-cwlf",
+  "date": "2023-09-01",
+  "title": "新北市政府轉介至兒福聯盟",
+  "phase": "referral-adoption-placement",
+  "description": "",
+  "significance": "由新北市樹鶯社福中心委託兒盟辦理收出養服務。",
+  "location": "",
+  "related_entities": [],
+  "source_refs": [],
+  "tags": [
+    "referral-adoption-placement"
+  ]
+}

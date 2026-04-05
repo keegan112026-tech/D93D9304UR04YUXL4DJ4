@@ -1,0 +1,14 @@
+{
+  "event_id": "evt-20240827-social-worker-indictment",
+  "date": "2024-08-27",
+  "title": "臺北地檢署起訴社工陳尚潔",
+  "phase": "criminal-social-worker-trial",
+  "description": "",
+  "significance": "起訴罪名包含過失致死、偽造訪視紀錄（業務登載不實）。",
+  "location": "",
+  "related_entities": [],
+  "source_refs": [],
+  "tags": [
+    "criminal-social-worker-trial"
+  ]
+}

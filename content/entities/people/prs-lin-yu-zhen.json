@@ -1,0 +1,17 @@
+{
+  "entity_id": "prs-lin-yu-zhen",
+  "name": "林鈺珍",
+  "alias": [],
+  "entity_type": "person",
+  "role_in_case": "臺灣臺北地方法院審判長",
+  "affiliation": "org-tpd-court",
+  "description_short": "臺灣臺北地方法院審判長",
+  "case_involvement": "judge",
+  "appeared_in_hearings": [],
+  "source_refs": [],
+  "related_entities": [
+    "org-tpd-court"
+  ],
+  "related_events": [],
+  "related_topics": []
+}

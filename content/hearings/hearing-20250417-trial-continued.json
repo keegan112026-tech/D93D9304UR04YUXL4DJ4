@@ -1,0 +1,20 @@
+{
+  "hearing_id": "hearing-20250417-trial-continued",
+  "date": "2025-04-17",
+  "case_number": "114年度訴字第51號",
+  "proceedings_type": "審理程序",
+  "title": "續行審理：維持無罪立場",
+  "judge": [
+    "prs-wu-jia-tong",
+    "prs-hu-yuan-shuo",
+    "prs-zhao-shu-yu"
+  ],
+  "prosecutor": "prs-lin-yu-mei",
+  "defendant": "prs-chen-shang-jie",
+  "witnesses": [],
+  "legal_arguments": [],
+  "court_activity": "被告延續無罪立場，針對是否補寫工作紀錄與檢方對質。",
+  "source_refs": [
+    "src-judicial-001"
+  ]
+}

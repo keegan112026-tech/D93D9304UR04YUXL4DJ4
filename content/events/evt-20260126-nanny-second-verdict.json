@@ -1,0 +1,14 @@
+{
+  "event_id": "evt-20260126-nanny-second-verdict",
+  "date": "2026-01-26",
+  "title": "保母姊妹二審宣判（維持原判）",
+  "phase": "criminal-nanny-trial",
+  "description": "",
+  "significance": "高等法院駁回上訴，維持一審重刑判定。",
+  "location": "",
+  "related_entities": [],
+  "source_refs": [],
+  "tags": [
+    "criminal-nanny-trial"
+  ]
+}

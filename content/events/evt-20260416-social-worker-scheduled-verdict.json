@@ -1,0 +1,14 @@
+{
+  "event_id": "evt-20260416-social-worker-scheduled-verdict",
+  "date": "2026-04-16",
+  "title": "社工案一審預定宣判日",
+  "phase": "criminal-social-worker-trial",
+  "description": "",
+  "significance": "焦點在於「保證人地位」的法律判定。",
+  "location": "",
+  "related_entities": [],
+  "source_refs": [],
+  "tags": [
+    "criminal-social-worker-trial"
+  ]
+}

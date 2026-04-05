@@ -1,0 +1,17 @@
+{
+  "entity_id": "prs-ye-da-hua",
+  "name": "葉大華",
+  "alias": [],
+  "entity_type": "person",
+  "role_in_case": "監察委員",
+  "affiliation": "org-control-yuan",
+  "description_short": "監察委員",
+  "case_involvement": "official",
+  "appeared_in_hearings": [],
+  "source_refs": [],
+  "related_entities": [
+    "org-control-yuan"
+  ],
+  "related_events": [],
+  "related_topics": []
+}

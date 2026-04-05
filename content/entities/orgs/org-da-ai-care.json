@@ -1,0 +1,17 @@
+{
+  "entity_id": "org-da-ai-care",
+  "name": "社團法人新北市大愛關懷協會",
+  "alias": [
+    "大愛關懷協會"
+  ],
+  "entity_type": "organization",
+  "org_type": "ngo",
+  "jurisdiction": "Taiwan",
+  "official_mandate": "",
+  "role_in_case": "",
+  "key_personnel": [],
+  "source_refs": [],
+  "related_entities": [],
+  "related_events": [],
+  "related_topics": []
+}

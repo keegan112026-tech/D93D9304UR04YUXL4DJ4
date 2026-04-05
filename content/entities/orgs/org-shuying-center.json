@@ -1,0 +1,19 @@
+{
+  "entity_id": "org-shuying-center",
+  "name": "樹鶯社福中心",
+  "alias": [
+    "樹鶯中心"
+  ],
+  "entity_type": "organization",
+  "org_type": "government-local",
+  "jurisdiction": "Taiwan",
+  "official_mandate": "",
+  "role_in_case": "",
+  "key_personnel": [
+    "prs-shi-ying-ru"
+  ],
+  "source_refs": [],
+  "related_entities": [],
+  "related_events": [],
+  "related_topics": []
+}

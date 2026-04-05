@@ -1,0 +1,22 @@
+{
+  "hearing_id": "hearing-20260226-closing-arguments",
+  "date": "2026-02-26",
+  "case_number": "114年度訴字第51號",
+  "proceedings_type": "審理程序",
+  "title": "辯論終結：檢方求處重刑",
+  "judge": [
+    "prs-wu-jia-tong",
+    "prs-hu-yuan-shuo",
+    "prs-zhao-shu-yu"
+  ],
+  "prosecutor": "prs-lin-yu-mei",
+  "defendant": "prs-chen-shang-jie",
+  "witnesses": [],
+  "legal_arguments": [],
+  "court_activity": "言詞辯論終結。檢方求處重刑，辯方主張被告不應承擔制度性缺口。定於2026-04-16宣判。",
+  "source_refs": [
+    "src-judicial-001"
+  ],
+  "testimony_detail": "2026-02-26 的社工案言詞辯論，媒體報導顯示「社工是否具有保證人地位」已成為檢辯攻防與社會評論的核心法理問題。此項資料可作為第五階段中「學界／法界對社工過失致死責任」的核心背景文獻。 ([法律銀行](https://www.lawbank.com.tw/treatise/pl_article.aspx?AID=P000071671&utm_source=chatgpt.com)) \r\n  原始網址名稱：不作為犯之保證人地位  \r\n  原始網址：\r\n  ```text\r\n  https://www.lawbank.com.tw/treatise/pl_article.aspx?AID=P000071671\r\n  ```\r\n  原始網址名稱：保母虐童案辯論終結聚焦「社工」角色義務，律師：制度失靈和保姆惡意欺瞞釀悲劇  \r\n  原始網址：\r\n  ```text\r\n  https://www.thenewslens.com/article/265079\r\n  ```\r\n  來源性質：法源法律網／關鍵評論網",
+  "research_analysis": "Detailed testimony summary from Stage 6/7 dossier."
+}

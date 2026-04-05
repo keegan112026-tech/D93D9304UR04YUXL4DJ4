@@ -1,0 +1,18 @@
+{
+  "entity_id": "prs-lin-yu-mei",
+  "name": "林于湄",
+  "alias": [],
+  "entity_type": "person",
+  "role_in_case": "臺灣臺北地方檢察署檢察官",
+  "affiliation": "org-tpd-prosecution",
+  "description_short": "臺灣臺北地方檢察署檢察官",
+  "case_involvement": "prosecutor",
+  "appeared_in_hearings": [],
+  "source_refs": [],
+  "related_entities": [
+    "org-tpd-prosecution"
+  ],
+  "related_events": [],
+  "related_topics": [],
+  "research_category": "Prosecutor"
+}

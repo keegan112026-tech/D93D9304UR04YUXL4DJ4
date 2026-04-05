@@ -1,0 +1,20 @@
+{
+  "hearing_id": "hearing-20250106-review",
+  "date": "2025-01-06",
+  "case_number": "114年度訴字第51號",
+  "proceedings_type": "審查庭",
+  "title": "首度審查庭：被告否認犯罪",
+  "judge": [
+    "prs-wu-jia-tong",
+    "prs-hu-yuan-shuo",
+    "prs-zhao-shu-yu"
+  ],
+  "prosecutor": "prs-lin-yu-mei",
+  "defendant": "prs-chen-shang-jie",
+  "witnesses": [],
+  "legal_arguments": [],
+  "court_activity": "被告陳尚潔否認偽造訪視紀錄及過失致死罪嫌，案件轉為一般審理程序。",
+  "source_refs": [
+    "src-judicial-001"
+  ]
+}

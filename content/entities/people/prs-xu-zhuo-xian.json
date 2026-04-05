@@ -1,0 +1,17 @@
+{
+  "entity_id": "prs-xu-zhuo-xian",
+  "name": "許倬憲",
+  "alias": [],
+  "entity_type": "person",
+  "role_in_case": "法務部法醫研究所病理組組長",
+  "affiliation": "org-forensic-moj",
+  "description_short": "法務部法醫研究所病理組組長",
+  "case_involvement": "expert",
+  "appeared_in_hearings": [],
+  "source_refs": [],
+  "related_entities": [
+    "org-forensic-moj"
+  ],
+  "related_events": [],
+  "related_topics": []
+}

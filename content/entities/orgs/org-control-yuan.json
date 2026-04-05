@@ -1,0 +1,21 @@
+{
+  "entity_id": "org-control-yuan",
+  "name": "監察院",
+  "alias": [
+    "監院"
+  ],
+  "entity_type": "organization",
+  "org_type": "government-central",
+  "jurisdiction": "Taiwan",
+  "official_mandate": "",
+  "role_in_case": "",
+  "key_personnel": [
+    "prs-ye-da-hua",
+    "prs-wang-you-ling",
+    "prs-zhang-ju-fang"
+  ],
+  "source_refs": [],
+  "related_entities": [],
+  "related_events": [],
+  "related_topics": []
+}

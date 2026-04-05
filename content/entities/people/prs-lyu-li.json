@@ -1,0 +1,17 @@
+{
+  "entity_id": "prs-lyu-li",
+  "name": "呂立",
+  "alias": [],
+  "entity_type": "person",
+  "role_in_case": "臺大醫院兒少保護醫療中心主任",
+  "affiliation": "org-ntu-hospital",
+  "description_short": "臺大醫院兒少保護醫療中心主任",
+  "case_involvement": "expert",
+  "appeared_in_hearings": [],
+  "source_refs": [],
+  "related_entities": [
+    "org-ntu-hospital"
+  ],
+  "related_events": [],
+  "related_topics": []
+}
