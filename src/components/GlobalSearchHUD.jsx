@@ -41,7 +41,9 @@ export default function GlobalSearchHUD({ isOpen, onClose, setSelectedItem }) {
 
     // Search Hearings
     database.hearings?.forEach(h => {
-      if (h.date?.includes(term) || h.procedure_type?.toLowerCase().includes(term)) {
+      if (h.date?.includes(term) ||
+          h.proceedings_type?.toLowerCase().includes(term) ||
+          h.title?.toLowerCase().includes(term)) {
         matches.push({ ...h, type: 'HEARING' });
       }
     });

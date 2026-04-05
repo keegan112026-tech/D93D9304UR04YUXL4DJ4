@@ -21,9 +21,14 @@ export default function ClaimTracker() {
   const [isSheetOpen, setIsSheetOpen] = useState(false);
   const [activeType, setActiveType] = useState('All');
 
-  const claims = database.claims;
-  const filteredClaims = activeType === 'All' 
-    ? claims 
+  // Normalize claims: some use claim_id/claim_type, others use id/type
+  const claims = (database.claims || []).map(c => ({
+    ...c,
+    id: c.id || c.claim_id,
+    claim_type: c.claim_type || c.type || 'General',
+  }));
+  const filteredClaims = activeType === 'All'
+    ? claims
     : claims.filter(c => c.claim_type === activeType);
 
   const openDetail = (item) => {
@@ -73,7 +78,7 @@ export default function ClaimTracker() {
           <AnimatePresence>
             {filteredClaims.map((claim, idx) => (
               <motion.div
-                key={claim.claim_id}
+                key={claim.id || claim.claim_id || idx}
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: idx * 0.05 }}

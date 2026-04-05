@@ -63,6 +63,7 @@ export default function App() {
             <NavButton icon={<Landmark size={22} />} label="Policy / 體制分析" active={activeView === 'policy'} onClick={() => navigateTo('policy')} />
             <NavButton icon={<Tag size={22} />} label="Themes / 系統專題" active={activeView === 'themes'} onClick={() => navigateTo('themes')} />
             <NavButton icon={<Database size={22} />} label="Literature" active={activeView === 'bibliography'} onClick={() => navigateTo('bibliography')} />
+            <NavButton icon={<ShieldAlert size={22} />} label="Claims / 主張矩陣" active={activeView === 'claims'} onClick={() => navigateTo('claims')} />
             <NavButton icon={<Network size={22} />} label="Topology" active={activeView === 'graph'} onClick={() => navigateTo('graph')} />
          </div>
 
@@ -106,7 +107,7 @@ export default function App() {
                    setSelectedItem={setSelectedItem} 
                  />
                )}
-               {activeView === 'context' && <ClaimTracker />}
+               {activeView === 'claims' && <ClaimTracker />}
                {activeView === 'bibliography' && <Bibliography setSelectedItem={setSelectedItem} />}
                {activeView === 'graph' && <RelationGraph />}
             </Suspense>

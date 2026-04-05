@@ -22,9 +22,10 @@ export default function HearingIndex() {
   const [searchTerm, setSearchTerm] = useState('');
 
   const hearings = database.hearings || [];
-  const filteredHearings = hearings.filter(h => 
-    h.date.includes(searchTerm) || 
-    h.procedure_type?.toLowerCase().includes(searchTerm.toLowerCase())
+  const filteredHearings = hearings.filter(h =>
+    h.date?.includes(searchTerm) ||
+    h.proceedings_type?.toLowerCase().includes(searchTerm.toLowerCase()) ||
+    h.title?.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
   const openDetail = (item) => {
@@ -83,12 +84,12 @@ export default function HearingIndex() {
                  <div className="flex-1 space-y-6">
                     <div className="flex items-center gap-8">
                        <Badge variant="outline" className="bg-[#2F3A35]/5 border-none text-[#2F3A35]/60 text-[10px] uppercase font-black tracking-widest px-8 py-1 rounded-md italic">
-                          {hearing.procedure_type || 'General Hearing'}
+                          {hearing.proceedings_type || hearing.procedure_type || '庭審'}
                        </Badge>
                        <span className="text-[11px] font-black uppercase tracking-[0.3em] text-slate-300 italic">{hearing.location}</span>
                     </div>
                     <h3 className="text-[24px] font-serif font-bold italic text-[#1A1A1A] group-hover:text-[#2F3A35] transition-colors">
-                       {hearing.stage || 'Court Proceeding Session'}
+                       {hearing.title || hearing.stage || '庭審程序'}
                     </h3>
                     <div className="flex flex-wrap gap-4">
                        {hearing.participants?.slice(0, 4).map(p => (
