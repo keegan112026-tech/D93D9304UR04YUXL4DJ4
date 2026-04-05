@@ -252,6 +252,29 @@ export default function ChapterReader({ activeId, onChapterChange }) {
                     <RoleComparison />
                   )}
 
+                  {/* FINDINGS CARDS (ch4, ch6) */}
+                 {activeChapter.findings && activeChapter.findings.length > 0 && (
+                   <div className="space-y-12">
+                      <div className="flex items-center gap-8">
+                         <div className="w-18 h-18 bg-[#FFFFFF] rounded-[2rem] flex items-center justify-center text-[#2F3A35]/30 border border-black/[0.05] shadow-md">
+                            <ListFilter size={28} />
+                         </div>
+                         <div className="space-y-2">
+                            <h3 className="text-h3 italic text-[#1A1A1A]">制度分析要點</h3>
+                            <p className="text-[12px] font-black uppercase tracking-[1em] text-slate-300 italic font-sans">Key Findings</p>
+                         </div>
+                      </div>
+                      <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                         {activeChapter.findings.map((finding, i) => (
+                           <div key={i} className="bg-white rounded-[2rem] p-12 border border-black/[0.05] shadow-sm hover:shadow-md transition-all space-y-6">
+                              <h4 className="text-[18px] font-serif font-bold italic text-[#1A1A1A]">{finding.title}</h4>
+                              <p className="text-[15px] font-serif italic text-slate-500 leading-relaxed">{finding.text}</p>
+                           </div>
+                         ))}
+                      </div>
+                   </div>
+                 )}
+
                   {/* CHRONICLE CARDS: DAYLIGHT */}
                  {activeChapter.timeline && (
                    <div className="space-y-28">
