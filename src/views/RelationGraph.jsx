@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from 'react';
+import React, { useMemo, useState, useEffect } from 'react';
 import { ReactFlow, Background, Controls, MiniMap, useNodesState, useEdgesState, MarkerType } from '@xyflow/react';
 import '@xyflow/react/dist/style.css';
 import { Badge } from "@/components/ui/badge";
@@ -22,63 +22,119 @@ export default function RelationGraph() {
   const [isSheetOpen, setIsSheetOpen] = useState(false);
 
   // DYNAMICALLY GENERATE NODES & EDGES FROM DATABASE
+  // Layout: 4-zone structured grid for readable topology
+  // Zone A (x=80):   Government Central orgs
+  // Zone B (x=380):  Government Local + Court orgs
+  // Zone C (x=680):  NGO orgs
+  // Zone D (x=980):  People (clustered beside their org)
+  // Zone E (x=1320): Key events (index events only — 18 max)
+  // Zone F (x=80, top): Laws (horizontal strip)
   const { initialNodes, initialEdges } = useMemo(() => {
     const nodes = [];
     const edges = [];
-    
-    // 1. ADD ORGANIZATIONS (Central Hubs)
+
+    // Org type buckets for structured layout
+    const ORG_BUCKETS = {
+      'government-central': { x: 80,  label: '中央機關' },
+      'government-local':   { x: 380, label: '地方機關' },
+      'court':              { x: 380, label: '司法機關' },
+      'ngo':                { x: 680, label: '民間機構' },
+    };
+    const bucketCounters = { 80: 0, 380: 0, 680: 0 };
+    const orgPositions = {}; // id → {x, y}
+
+    // 1. LAWS — top strip at y = -120
+    const laws = (database.entities || []).filter(e => e.entity_type === 'law');
+    laws.forEach((law, i) => {
+      nodes.push({
+        id: law.id,
+        data: { label: law.name, icon: <Scale size={14} />, raw: law },
+        position: { x: 80 + i * 320, y: -120 },
+        className: 'daylight-node-law'
+      });
+    });
+
+    // 2. ORGS — zone by org_type, 160px vertical spacing
     const orgs = (database.entities || []).filter(e => e.entity_type === 'organization');
-    orgs.forEach((org, i) => {
+    orgs.forEach((org) => {
+      const bucket = ORG_BUCKETS[org.org_type] || { x: 680 };
+      const bx = bucket.x;
+      const idx = bucketCounters[bx] ?? 0;
+      bucketCounters[bx] = idx + 1;
+      const pos = { x: bx, y: 80 + idx * 160 };
+      orgPositions[org.id] = pos;
       nodes.push({
         id: org.id,
-        type: 'default',
-        data: { 
-          label: org.name, 
-          icon: <Building size={16} />,
-          raw: org 
-        },
-        position: { x: 500 + (org.id.includes('nps') ? -200 : 200), y: 150 + i * 150 },
+        data: { label: org.name, icon: <Building size={14} />, raw: org },
+        position: pos,
         className: 'daylight-node-org'
       });
     });
 
-    // 2. ADD PEOPLE (Satellites)
+    // 3. PEOPLE — beside their affiliated org, 2-column sub-grid at x+300
     const people = (database.entities || []).filter(e => e.entity_type === 'person');
+    const peopleCounts = {};
     people.forEach((person, i) => {
+      let x = 980, y = 80 + i * 90;
+      if (person.affiliation && orgPositions[person.affiliation]) {
+        const op = orgPositions[person.affiliation];
+        const cnt = peopleCounts[person.affiliation] || 0;
+        peopleCounts[person.affiliation] = cnt + 1;
+        x = op.x + 300 + (cnt % 2) * 160;
+        y = op.y + Math.floor(cnt / 2) * 80;
+      }
       nodes.push({
         id: person.id,
-        type: 'default',
-        data: { 
-          label: person.name, 
-          icon: <User size={16} />,
-          raw: person 
-        },
-        position: { x: 500 + Math.cos(i) * 400, y: 400 + Math.sin(i) * 400 },
+        data: { label: person.name, icon: <User size={14} />, raw: person },
+        position: { x, y },
         className: 'daylight-node-person'
       });
-
-      // Connect to Affiliation (Unified Lookup)
       if (person.affiliation) {
         edges.push({
-          id: `e-${person.id}-${person.affiliation}`,
+          id: `e-${person.id}-aff`,
           source: person.affiliation,
           target: person.id,
-          label: '所屬單位',
+          label: '成員',
           animated: true,
-          style: { stroke: "#2F3A35", strokeWidth: 2, opacity: 0.15 },
-          markerEnd: { type: MarkerType.ArrowClosed, color: "#2F3A35", width: 20, height: 20 }
+          style: { stroke: "#2F3A35", strokeWidth: 1.5, opacity: 0.2 },
+          markerEnd: { type: MarkerType.ArrowClosed, color: "#2F3A35", width: 12, height: 12 }
         });
       }
-
-      // Connect to Related Entities
       if (person.related_entities) {
-        person.related_entities.forEach(relatedId => {
+        person.related_entities.forEach(relId => {
+          if (relId !== person.affiliation) {
+            edges.push({
+              id: `e-${person.id}-${relId}`,
+              source: person.id,
+              target: relId,
+              style: { stroke: "#94A3B8", strokeWidth: 0.5, opacity: 0.08 }
+            });
+          }
+        });
+      }
+    });
+
+    // 4. KEY EVENTS — use only the 18 index events for readable graph
+    const indexEventIds = new Set(database.index?.events || []);
+    const keyEvents = (database.events || []).filter(e =>
+      indexEventIds.has(e.id) || indexEventIds.has(e.event_id)
+    );
+    keyEvents.forEach((evt, i) => {
+      const evtId = evt.id || evt.event_id;
+      nodes.push({
+        id: evtId,
+        data: { label: evt.title?.replace(/\*\*/g, ''), icon: <Activity size={14} />, raw: evt },
+        position: { x: 1320, y: 80 + i * 130 },
+        className: 'daylight-node-event border-rose-200'
+      });
+      if (evt.related_entities) {
+        evt.related_entities.forEach(entId => {
           edges.push({
-            id: `e-${person.id}-${relatedId}`,
-            source: person.id,
-            target: relatedId,
-            label: '關聯關係',
-            style: { stroke: "#64748B", strokeWidth: 0.5, opacity: 0.1 }
+            id: `e-evt-${evtId}-${entId}`,
+            source: evtId,
+            target: entId,
+            animated: false,
+            style: { stroke: "#CBD5E1", strokeWidth: 1, opacity: 0.12 }
           });
         });
       }
@@ -87,12 +143,68 @@ export default function RelationGraph() {
     return { initialNodes: nodes, initialEdges: edges };
   }, []);
 
+  const [activeNodeId, setActiveNodeId] = useState(null);
   const [nodes, setNodes, onNodesChange] = useNodesState(initialNodes);
   const [edges, setEdges, onEdgesChange] = useEdgesState(initialEdges);
 
+  // Focus Hierarchy Engine: Multi-Layer Highlighting
+  useEffect(() => {
+    if (!activeNodeId) {
+      // Reset all
+      setNodes((nds) => nds.map((n) => ({ ...n, style: { ...n.style, opacity: 1, filter: 'none' } })));
+      setEdges((eds) => eds.map((e) => ({ ...e, animated: false, style: { ...e.style, opacity: 0.1, stroke: e.label ? "#2F3A35" : "#CBD5E1" } })));
+      return;
+    }
+
+    // Find connections
+    const connectedNodeIds = new Set([activeNodeId]);
+    edges.forEach((edge) => {
+      if (edge.source === activeNodeId) connectedNodeIds.add(edge.target);
+      if (edge.target === activeNodeId) connectedNodeIds.add(edge.source);
+    });
+
+    setNodes((nds) => nds.map((n) => {
+      const isConnected = connectedNodeIds.has(n.id);
+      return {
+        ...n,
+        style: { 
+          ...n.style, 
+          opacity: isConnected ? 1 : 0.05,
+          filter: isConnected ? 'none' : 'blur(2px)',
+          transition: 'all 0.5s ease-in-out'
+        }
+      };
+    }));
+
+    setEdges((eds) => eds.map((e) => {
+      const isRelated = e.source === activeNodeId || e.target === activeNodeId;
+      return {
+         ...e,
+         animated: isRelated,
+         style: { 
+           ...e.style, 
+           opacity: isRelated ? 0.8 : 0.02,
+           stroke: isRelated ? "#2F3A35" : "#CBD5E1",
+           strokeWidth: isRelated ? 2 : 1,
+           transition: 'all 0.5s ease-in-out'
+         }
+      };
+    }));
+  }, [activeNodeId, setNodes, setEdges]);
+
   const onNodeClick = (evt, node) => {
-    setSelectedItem(node.data.raw);
+    setActiveNodeId(node.id);
+    const raw = node.data.raw;
+    // Standardize type for DetailSheet
+    if (!raw.entity_type && raw.source_id) raw.entity_type = 'source';
+    if (!raw.entity_type && (raw.id?.startsWith('evt-') || raw.event_id)) raw.entity_type = 'event';
+    
+    setSelectedItem(raw);
     setIsSheetOpen(true);
+  };
+
+  const onPaneClick = () => {
+    setActiveNodeId(null);
   };
 
   return (
@@ -152,8 +264,10 @@ export default function RelationGraph() {
            <Card className="bg-white/80 backdrop-blur-md border-black/[0.08] p-16 shadow-2xl rounded-[2.5rem] w-64">
               <h4 className="text-[11px] font-black uppercase tracking-[0.4em] text-slate-300 mb-12 border-b border-black/[0.05] pb-6 font-sans italic">Legend / 標本圖例</h4>
               <div className="space-y-10">
-                 <LegendItem color="#2F3A35" label="官方機構 (Orgs)" icon={<Landmark size={12} />} />
-                 <LegendItem color="#F5F6F0" label="角色實體 (People)" icon={<User size={12} />} />
+                 <LegendItem color="#2F3A35" label="官方機構 (Orgs)" icon={<Building size={12} />} />
+                 <LegendItem color="#FFFFFF" label="角色實體 (People)" icon={<User size={12} />} />
+                 <LegendItem color="#EFF6FF" label="法規/制度 (Laws)" icon={<Scale size={12} />} />
+                 <LegendItem color="#FFF1F2" label="關鍵事件 (Events)" icon={<Activity size={12} />} />
                  <LegendItem color="rgba(47, 58, 53, 0.2)" label="管理/署名 (Auth)" dashed />
               </div>
            </Card>
@@ -165,6 +279,7 @@ export default function RelationGraph() {
         isOpen={isSheetOpen} 
         setOpen={setIsSheetOpen} 
         item={selectedItem} 
+        onItemClick={(item) => setSelectedItem(item)}
       />
     </div>
   );

@@ -3906,7 +3906,7 @@
       "event_id": "evt-20231224-kaikai-death",
       "date": "2023-12-24",
       "title": "剴剴因受虐致死於萬芳醫院",
-      "phase": "injury-medical-death",
+      "phase": "injury-death-event",
       "description": "",
       "significance": "男童到院前死亡，案情爆發並引發大規模司法調查。",
       "location": "",
@@ -4013,7 +4013,7 @@
       "event_id": "evt-2024-03-11-35",
       "date": "2024-03-11",
       "title": "**案件曝光**：家屬友人林祐生於Facebook「爆料公社」發文揭露，指控兒盟社工屢次阻擋家屬探視並偽造正面報告，**輿論震動**",
-      "phase": "criminal-investigation-nanny",
+      "phase": "reform-public-response",
       "status": "Confirmed",
       "source_refs": [
         "src-businesstoday-064"
@@ -4083,7 +4083,7 @@
       "event_id": "evt-2024-03-20-40",
       "date": "2024-03-20",
       "title": "台北、桃園、台中、花蓮、高雄五大社工工會至衛福部前集結，訴求體制改革而非追究個別社工",
-      "phase": "criminal-investigation-nanny",
+      "phase": "reform-public-response",
       "status": "Confirmed",
       "source_refs": [
         "src-businesstoday-064"
@@ -4488,7 +4488,7 @@
       "event_id": "evt-20250718-kaikai-clause-legislation",
       "date": "2025-07-18",
       "title": "立法院通過「剴剴條款」（刑法修正）",
-      "phase": "legislation-public-discourse",
+      "phase": "reform-public-response",
       "description": "",
       "significance": "加重虐童致死刑責，最高可處死刑或無期徒刑。",
       "location": "",
@@ -4503,7 +4503,7 @@
       "event_id": "evt-2025-07-18-70",
       "date": "2025-07-18",
       "title": "**「剴剴條款」立法院三讀通過**：增訂《刑法》第272條之1——殺害未滿7歲兒童加重其刑二分之一；**凌虐殺害未滿7歲兒童者處死刑或無期徒刑**。修正第286條——凌虐未滿7歲兒童致死者處死刑、無期徒刑或10年以上有期徒刑。表決結果：國民黨+民眾黨+1名民進黨立委贊成（60票），民進黨反對（45票）",
-      "phase": "social-worker-trial",
+      "phase": "reform-public-response",
       "status": "Confirmed",
       "source_refs": [
         "src-businesstoday-064"
@@ -4514,7 +4514,7 @@
       "event_id": "evt-20250801-kaikai-clause-effective",
       "date": "2025-08-01",
       "title": "「剴剴條款」總統公布生效",
-      "phase": "legislation-public-discourse",
+      "phase": "reform-public-response",
       "description": "",
       "significance": "法規正式上路，完成本案引導之法制補洞。",
       "location": "",
@@ -4735,7 +4735,7 @@
       "event_id": "evt-2026-04-01-87",
       "date": "2026-04-01",
       "title": "臺北市社工工會副理事長沈曜逸表達擔憂：若社工案判有罪，恐引發**社工出走潮**；主張從專業角度看「陳社工該做的都做了」",
-      "phase": "monitoring-admin-responsibility",
+      "phase": "reform-public-response",
       "status": "Confirmed",
       "source_refs": [
         "src-businesstoday-064"
@@ -4746,7 +4746,7 @@
       "event_id": "evt-2026-04-02-88",
       "date": "2026-04-02",
       "title": "全國19所大學社工／社福學系聯合聲明，呼籲社會理解社工專業侷限、勿將社工作為體制缺陷之代罪羔羊",
-      "phase": "monitoring-admin-responsibility",
+      "phase": "reform-public-response",
       "status": "Confirmed",
       "source_refs": [
         "src-businesstoday-064"
