@@ -1,9 +1,9 @@
 import React, { useMemo } from 'react';
-import { 
-  Search, BookOpen, Network, Database, ShieldAlert, 
-  Scale, ChevronRight, ArrowRight, Activity, 
+import {
+  Search, BookOpen, Network, Database, ShieldAlert,
+  Scale, ChevronRight, ArrowRight, Activity,
   FileText, Users, Landmark, Clock, Bookmark, ShieldCheck,
-  TrendingDown, FileSignature, CheckCircle, Tag, Layers, CheckCircle2
+  TrendingDown, FileSignature, CheckCircle, Tag, Layers, CheckCircle2, ScrollText
 } from 'lucide-react';
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
@@ -87,15 +87,36 @@ export default function Home({ onNavigate }) {
         </section>
 
         {/* DAYLIGHT STATS: PRECISION LEDGER */}
-        <motion.section variants={itemVariants} className="grid grid-cols-2 md:grid-cols-4 gap-8">
+        <motion.section 
+          variants={containerVariants}
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true }}
+          className="grid grid-cols-2 md:grid-cols-4 gap-8"
+        >
            <StatLedger icon={<Clock size={18} />} label="存檔校冊總量" value={`${stats.sources} Units`} />
            <StatLedger icon={<Users size={18} />} label="追蹤實體對象" value={`${stats.entities} Units`} />
            <StatLedger icon={<Landmark size={18} />} label="關鍵庭期紀錄" value={`${stats.hearings} Sessions`} />
-           <StatLedger icon={<CheckCircle2 size={18} />} label="數據整合狀態" value="VALIDATED" />
+           <motion.div variants={itemVariants}>
+              <div className="bg-[#FFFFFF] border border-black/[0.04] p-8 rounded-2xl hover:bg-[#F5F6F0] transition-all duration-500 group relative shadow-md h-full flex flex-col justify-center">
+                 <div className="text-[#2F3A35]/30 mb-5 group-hover:text-[#2F3A35]/70 transition-colors duration-500"><CheckCircle2 size={18} /></div>
+                 <div className="text-[11px] font-black uppercase tracking-[0.4em] text-slate-400 mb-3 font-sans opacity-60 leading-none">數據整合狀態</div>
+                 <div className="flex items-center gap-4">
+                    <div className="text-[32px] font-serif font-bold text-[#1A1A1A] tracking-tighter italic leading-none">VALIDATED</div>
+                    <div className="w-3 h-3 rounded-full bg-emerald-400 animate-pulse shadow-[0_0_12px_rgba(52,211,153,0.5)]" />
+                 </div>
+              </div>
+           </motion.div>
         </motion.section>
 
         {/* MODULE CARDS: DAYLIGHT MINIMALIST */}
-        <section className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+        <motion.section 
+          variants={containerVariants}
+          initial="hidden"
+          whileInView="visible"
+          viewport={{ once: true, margin: "-100px" }}
+          className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10"
+        >
           <ModuleCard 
             icon={<Layers size={32} />} 
             title="案件全景主軸" 
@@ -131,14 +152,22 @@ export default function Home({ onNavigate }) {
             id="chapters"
             onNavigate={onNavigate}
           />
-          <ModuleCard 
-            icon={<Database size={32} />} 
-            title="文獻數位存檔" 
+          <ModuleCard
+            icon={<ScrollText size={32} />}
+            title="大世記"
+            desc="107 筆事件依時序完整排列，自動標記人名與機構，點擊即可篩選關聯事件。"
+            id="chronicle"
+            onNavigate={onNavigate}
+          />
+          <ModuleCard
+            icon={<Database size={32} />}
+            title="文獻數位存檔"
             desc="170+ 筆原始公文與報導數位化，為研究論據提供精準調閱。"
             id="bibliography"
             onNavigate={onNavigate}
           />
-        </section>
+        </motion.section>
+
 
         {/* INVESTIGATIVE SUMMARY: DAYLIGHT COLUMNAR BOX */}
         <motion.section 

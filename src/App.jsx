@@ -1,10 +1,10 @@
 import React, { useState, Suspense, lazy, useEffect } from 'react';
 import { 
-  Home as HomeIcon, BookOpen, Layers, 
-  Network, Database, Search, 
-  ChevronRight, ArrowRight, Activity, 
-  FileText, Users, Landmark, 
-  Scale, ShieldAlert, BadgeCheck, Tag, Compass
+  Home as HomeIcon, BookOpen, Layers,
+  Network, Database, Search,
+  ChevronRight, ArrowRight, Activity,
+  FileText, Users, Landmark,
+  Scale, ShieldAlert, BadgeCheck, Tag, Compass, ScrollText
 } from 'lucide-react';
 import { motion, AnimatePresence } from "framer-motion";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
@@ -20,6 +20,7 @@ const TopicHub = lazy(() => import('./views/TopicHub'));
 const Bibliography = lazy(() => import('./views/Bibliography'));
 const RelationGraph = lazy(() => import('./views/RelationGraph'));
 const ClaimTracker = lazy(() => import('./views/ClaimTracker'));
+const ChronicleView = lazy(() => import('./views/ChronicleView'));
 
 import DetailSheet from './components/DetailSheet';
 import GlobalSearchHUD from './components/GlobalSearchHUD';
@@ -59,6 +60,7 @@ export default function App() {
             
             <div className="w-10 h-[0.5px] bg-black/[0.05] mx-auto my-4" />
             
+            <NavButton icon={<ScrollText size={22} />} label="Chronicle / 大世記" active={activeView === 'chronicle'} onClick={() => navigateTo('chronicle')} />
             <NavButton icon={<Scale size={22} />} label="Hearings / 庭期紀錄" active={activeView === 'hearings'} onClick={() => navigateTo('hearings')} />
             <NavButton icon={<Landmark size={22} />} label="Policy / 體制分析" active={activeView === 'policy'} onClick={() => navigateTo('policy')} />
             <NavButton icon={<Tag size={22} />} label="Themes / 系統專題" active={activeView === 'themes'} onClick={() => navigateTo('themes')} />
@@ -107,6 +109,7 @@ export default function App() {
                    setSelectedItem={setSelectedItem} 
                  />
                )}
+               {activeView === 'chronicle' && <ChronicleView />}
                {activeView === 'claims' && <ClaimTracker />}
                {activeView === 'bibliography' && <Bibliography setSelectedItem={setSelectedItem} />}
                {activeView === 'graph' && <RelationGraph />}
@@ -120,6 +123,7 @@ export default function App() {
         isOpen={!!selectedItem} 
         setOpen={(open) => !open && setSelectedItem(null)} 
         item={selectedItem} 
+        onItemClick={(item) => setSelectedItem(item)}
       />
 
       <GlobalSearchHUD 

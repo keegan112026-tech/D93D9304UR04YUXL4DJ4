@@ -38,34 +38,43 @@
 }
 
 @layer base {
-  * { @apply border-border; }
+  * { border-color: rgba(0,0,0,0.08); }
   body {
-    @apply bg-[#FDFCF8] text-[#1A1A1A] antialiased selection:bg-[#2F3A35]/15 selection:text-black font-sans refined-tactile;
+    @apply bg-[#FDFCF8] text-[#1A1A1A] selection:bg-[#2F3A35]/15 selection:text-black font-sans refined-tactile;
+    /* Remove antialiased — on Windows it thins fonts via grayscale smoothing.
+       Let the OS use its default ClearType/subpixel rendering instead. */
+    -webkit-font-smoothing: auto;
+    -moz-osx-font-smoothing: auto;
     background-image: radial-gradient(circle at 50% -20%, rgba(0, 0, 0, 0.02) 0%, transparent 60%);
     background-attachment: fixed;
     letter-spacing: -0.01em;
   }
 
   /* TYPOGRAPHIC RESTRAINT - ELITE SCALE */
-  h1, .text-h1 { 
+  h1, .text-h1 {
     font-family: "Playfair Display", serif;
-    font-size: clamp(3rem, 10vw, 4.5rem); 
-    @apply font-bold tracking-tighter italic text-[#1A1A1A] leading-[0.9] antialiased;
+    font-size: clamp(3rem, 10vw, 4.5rem);
+    @apply font-bold tracking-tighter italic text-[#1A1A1A] leading-[0.9];
   }
-  h2, .text-h2 { 
+  h2, .text-h2 {
     font-family: "Playfair Display", serif;
-    font-size: clamp(2rem, 6vw, 3rem); 
-    @apply font-semibold tracking-tight italic text-[#1A1A1A] leading-none antialiased;
+    font-size: clamp(2rem, 6vw, 3rem);
+    @apply font-semibold tracking-tight italic text-[#1A1A1A] leading-none;
   }
-  h3, .text-h3 { 
-    font-family: "Playfair Display", serif; 
-    font-size: clamp(1.5rem, 4vw, 2.25rem); 
-    @apply font-medium italic text-slate-800 antialiased;
+  h3, .text-h3 {
+    font-family: "Playfair Display", serif;
+    font-size: clamp(1.5rem, 4vw, 2.25rem);
+    @apply font-semibold italic text-slate-800;
   }
 
   p, span, button {
     font-family: "Inter", system-ui, sans-serif;
     @apply tracking-tight leading-relaxed;
+  }
+
+  /* GLOBAL READABILITY FLOOR: ensure label text is never invisible */
+  .label-readable {
+    opacity: 1;
   }
 }
 
@@ -115,14 +124,42 @@
   }
 }
 
-/* SNAPPY TRANSITIONS */
-* {
-  @apply transition-all;
-  transition-duration: 450ms;
+/* SNAPPY TRANSITIONS — only on interactive props, never on text/color to avoid blur */
+*, *::before, *::after {
+  transition-property: transform, box-shadow, border-color, background-color, opacity;
+  transition-duration: 350ms;
   transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* READABLE NODE TEXT in RelationGraph */
+.daylight-node-org .react-flow__node-default,
+.daylight-node-person .react-flow__node-default,
+.daylight-node-law .react-flow__node-default,
+.daylight-node-event .react-flow__node-default {
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 1.4;
 }
 
 /* SCROLLBAR REFINEMENT */
 ::-webkit-scrollbar { width: 4px; height: 4px; }
 ::-webkit-scrollbar-track { @apply bg-transparent; }
 ::-webkit-scrollbar-thumb { @apply bg-black/5 rounded-full hover:bg-black/10; }
+
+/* RELATION GRAPH NODES */
+.daylight-node-org { 
+  @apply bg-[#2F3A35] text-white border-2 border-white/10 rounded-2xl p-4 shadow-2xl;
+  min-width: 180px;
+}
+.daylight-node-person { 
+  @apply bg-white text-[#2F3A35] border border-black/[0.08] rounded-xl p-3 shadow-lg;
+  min-width: 140px;
+}
+.daylight-node-law { 
+  @apply bg-blue-50/80 backdrop-blur-sm text-blue-900 border border-blue-200/50 rounded-xl p-3 shadow-md italic font-serif;
+  min-width: 160px;
+}
+.daylight-node-event { 
+  @apply bg-rose-50/80 backdrop-blur-sm text-rose-900 border border-rose-200/50 rounded-xl p-3 shadow-md italic font-serif;
+  min-width: 180px;
+}
