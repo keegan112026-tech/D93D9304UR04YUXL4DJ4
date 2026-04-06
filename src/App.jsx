@@ -60,7 +60,6 @@ export default function App() {
             
             <div className="w-10 h-[0.5px] bg-black/[0.05] mx-auto my-4" />
             
-            <NavButton icon={<ScrollText size={22} />} label="Chronicle / 大世記" active={activeView === 'chronicle'} onClick={() => navigateTo('chronicle')} />
             <NavButton icon={<Scale size={22} />} label="Hearings / 庭期紀錄" active={activeView === 'hearings'} onClick={() => navigateTo('hearings')} />
             <NavButton icon={<Landmark size={22} />} label="Policy / 體制分析" active={activeView === 'policy'} onClick={() => navigateTo('policy')} />
             <NavButton icon={<Tag size={22} />} label="Themes / 系統專題" active={activeView === 'themes'} onClick={() => navigateTo('themes')} />
